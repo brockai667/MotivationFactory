@@ -1,7 +1,11 @@
 {
   "pexels_api_key": "",
   "buffer_token": "",
-  "buffer_channels": [],
+  "buffer_channels": [
+    { "id": "6a3e70af5ab6d2f10674a80e", "service": "instagram", "name": "disciplinedaily667" },
+    { "id": "6a3e70d25ab6d2f10674a88b", "service": "youtube", "name": "DisciplineDaily" },
+    { "id": "6a3e70bb5ab6d2f10674a83d", "service": "tiktok", "name": "disciplinedaily667" }
+  ],
   "cloudinary_cloud_name": "",
   "cloudinary_api_key": "",
   "cloudinary_api_secret": "",
