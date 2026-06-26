@@ -2,43 +2,692 @@
   {
     "title": "3 Hard Truths You Need to Hear",
     "segments": [
-      {"text": "No one is coming to save you. That is the truth.", "keywords": "lone man city night"},
-      {"text": "And once you accept it, everything changes.", "keywords": "man walking rain"},
-      {"text": "Discipline beats motivation, because motivation always fades.", "keywords": "person gym training"},
-      {"text": "You don't rise to your goals, you fall to your habits.", "keywords": "stairs climbing"},
-      {"text": "Comfort is the quiet enemy that smiles at you.", "keywords": "man thinking window"},
-      {"text": "So the only person to beat is who you were yesterday.", "keywords": "sunrise mountain"},
-      {"text": "Follow for your daily dose of discipline.", "keywords": "lone figure city"}
+      {
+        "text": "No one is coming to save you. That is the truth.",
+        "keywords": "lone man city night"
+      },
+      {
+        "text": "And once you accept it, everything changes.",
+        "keywords": "man walking rain"
+      },
+      {
+        "text": "Discipline beats motivation, because motivation always fades.",
+        "keywords": "person gym training"
+      },
+      {
+        "text": "You don't rise to your goals, you fall to your habits.",
+        "keywords": "stairs climbing"
+      },
+      {
+        "text": "Comfort is the quiet enemy that smiles at you.",
+        "keywords": "man thinking window"
+      },
+      {
+        "text": "So the only person to beat is who you were yesterday.",
+        "keywords": "sunrise mountain"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "lone figure city"
+      }
     ],
     "description": "No one is coming to save you — discipline is everything. Follow for daily discipline!",
-    "hashtags": ["#motivation", "#discipline", "#stoicism", "#mindset", "#success", "#shorts", "#fyp", "#selfimprovement"]
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp",
+      "#selfimprovement"
+    ]
   },
   {
     "title": "Why Discipline Beats Motivation",
     "segments": [
-      {"text": "Motivation is a feeling. Discipline is a decision.", "keywords": "man training dark gym"},
-      {"text": "And that difference decides your whole life.", "keywords": "city skyline sunrise"},
-      {"text": "Motivation waits until you feel ready.", "keywords": "person lying bed"},
-      {"text": "Discipline acts even when you don't.", "keywords": "running early morning"},
-      {"text": "Feelings are unreliable. Habits are not.", "keywords": "footsteps stairs"},
-      {"text": "Build the habit and the results follow.", "keywords": "man focused work"},
-      {"text": "Follow for your daily dose of discipline.", "keywords": "lone figure city"}
+      {
+        "text": "Motivation is a feeling. Discipline is a decision.",
+        "keywords": "man training dark gym"
+      },
+      {
+        "text": "And that difference decides your whole life.",
+        "keywords": "city skyline sunrise"
+      },
+      {
+        "text": "Motivation waits until you feel ready.",
+        "keywords": "person lying bed"
+      },
+      {
+        "text": "Discipline acts even when you don't.",
+        "keywords": "running early morning"
+      },
+      {
+        "text": "Feelings are unreliable. Habits are not.",
+        "keywords": "footsteps stairs"
+      },
+      {
+        "text": "Build the habit and the results follow.",
+        "keywords": "man focused work"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "lone figure city"
+      }
     ],
     "description": "Motivation fades, discipline stays — that's the whole game. Follow for daily discipline!",
-    "hashtags": ["#motivation", "#discipline", "#mindset", "#stoicism", "#success", "#shorts", "#fyp", "#selfimprovement"]
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#mindset",
+      "#stoicism",
+      "#success",
+      "#shorts",
+      "#fyp",
+      "#selfimprovement"
+    ]
   },
   {
     "title": "The Mindset That Changes Everything",
     "segments": [
-      {"text": "You are not behind. You are just comfortable.", "keywords": "man thinking window"},
-      {"text": "And comfort is exactly what's holding you back.", "keywords": "rainy city street"},
-      {"text": "Growth lives on the other side of hard things.", "keywords": "mountain climber"},
-      {"text": "Do what is hard now, life gets easy later.", "keywords": "gym heavy lifting"},
-      {"text": "Do what is easy now, life stays hard forever.", "keywords": "dark empty room"},
-      {"text": "The choice is yours, every single day.", "keywords": "sunrise road"},
-      {"text": "Follow for your daily dose of discipline.", "keywords": "lone figure city"}
+      {
+        "text": "You are not behind. You are just comfortable.",
+        "keywords": "man thinking window"
+      },
+      {
+        "text": "And comfort is exactly what's holding you back.",
+        "keywords": "rainy city street"
+      },
+      {
+        "text": "Growth lives on the other side of hard things.",
+        "keywords": "mountain climber"
+      },
+      {
+        "text": "Do what is hard now, life gets easy later.",
+        "keywords": "gym heavy lifting"
+      },
+      {
+        "text": "Do what is easy now, life stays hard forever.",
+        "keywords": "dark empty room"
+      },
+      {
+        "text": "The choice is yours, every single day.",
+        "keywords": "sunrise road"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "lone figure city"
+      }
     ],
     "description": "Do what's hard now, or life stays hard forever. Follow for daily discipline!",
-    "hashtags": ["#motivation", "#discipline", "#mindset", "#stoicism", "#growth", "#shorts", "#fyp", "#selfimprovement"]
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#mindset",
+      "#stoicism",
+      "#growth",
+      "#shorts",
+      "#fyp",
+      "#selfimprovement"
+    ]
+  },
+  {
+    "title": "Why Comfort is Destroying Your Potential",
+    "segments": [
+      {
+        "text": "Comfort is a thief in disguise.",
+        "keywords": "empty couch"
+      },
+      {
+        "text": "It lulls you into complacency.",
+        "keywords": "person sleeping"
+      },
+      {
+        "text": "Every moment spent in comfort is a moment lost.",
+        "keywords": "hourglass sand"
+      },
+      {
+        "text": "True growth happens outside your comfort zone.",
+        "keywords": "mountain climber"
+      },
+      {
+        "text": "The struggle is your greatest ally.",
+        "keywords": "man lifting weights"
+      },
+      {
+        "text": "Comfort is a thief in disguise.",
+        "keywords": "empty couch"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "person walking forward"
+      }
+    ],
+    "description": "Comfort is holding you back — break free now. Follow for daily discipline!",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Brutal Truth About Success",
+    "segments": [
+      {
+        "text": "Success is not handed to you.",
+        "keywords": "closed door"
+      },
+      {
+        "text": "It’s forged through relentless discipline.",
+        "keywords": "anvil hammer"
+      },
+      {
+        "text": "You will fail more than you succeed.",
+        "keywords": "falling man"
+      },
+      {
+        "text": "Every scar tells a story of perseverance.",
+        "keywords": "scars hands"
+      },
+      {
+        "text": "Embrace the grind; it defines you.",
+        "keywords": "person running uphill"
+      },
+      {
+        "text": "Success is not handed to you.",
+        "keywords": "closed door"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "man training hard"
+      }
+    ],
+    "description": "Success demands your struggle — fight for it! Follow for daily discipline!",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "4 Ways to Beat Procrastination",
+    "segments": [
+      {
+        "text": "Procrastination is your worst enemy.",
+        "keywords": "clock ticking"
+      },
+      {
+        "text": "Time wasted never comes back.",
+        "keywords": "sand slipping"
+      },
+      {
+        "text": "Start small; every action counts.",
+        "keywords": "stepping stone"
+      },
+      {
+        "text": "Set a timer; make it a game.",
+        "keywords": "kitchen timer"
+      },
+      {
+        "text": "Your future self will thank you.",
+        "keywords": "gratitude hands"
+      },
+      {
+        "text": "Procrastination is your worst enemy.",
+        "keywords": "clock ticking"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "person crossing finish line"
+      }
+    ],
+    "description": "Conquer procrastination today — take action now! Follow for daily discipline!",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Price of Your Comfort",
+    "segments": [
+      {
+        "text": "Your comfort zone is costing you.",
+        "keywords": "money wasted"
+      },
+      {
+        "text": "Fear of discomfort prevents growth.",
+        "keywords": "cracked shell"
+      },
+      {
+        "text": "Are you paying with your dreams?",
+        "keywords": "dreaming person"
+      },
+      {
+        "text": "Pain is temporary; regret lasts forever.",
+        "keywords": "dying flower"
+      },
+      {
+        "text": "Choose discomfort to earn your future.",
+        "keywords": "person climbing"
+      },
+      {
+        "text": "Your comfort zone is costing you.",
+        "keywords": "money wasted"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "man working late"
+      }
+    ],
+    "description": "Comfort comes with a heavy price — break free. Follow for daily discipline!",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why You’re Not Achieving Your Goals",
+    "segments": [
+      {
+        "text": "Your goals are just wishes without discipline.",
+        "keywords": "empty wish list"
+      },
+      {
+        "text": "Dreams require action, not just intention.",
+        "keywords": "person dreaming"
+      },
+      {
+        "text": "Every goal is a commitment to yourself.",
+        "keywords": "contract signing"
+      },
+      {
+        "text": "Excuses will dig your grave.",
+        "keywords": "gravestone"
+      },
+      {
+        "text": "Start today or stay stagnant forever.",
+        "keywords": "motionless figure"
+      },
+      {
+        "text": "Your goals are just wishes without discipline.",
+        "keywords": "empty wish list"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "hopeful sunrise"
+      }
+    ],
+    "description": "Goals need discipline to become reality — take the leap! Follow for daily discipline!",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "3 Life-Changing Lessons in Stoicism",
+    "segments": [
+      {
+        "text": "Accept what you cannot control.",
+        "keywords": "waves crashing"
+      },
+      {
+        "text": "You only control your reactions.",
+        "keywords": "man meditating"
+      },
+      {
+        "text": "View obstacles as opportunities.",
+        "keywords": "roadblock"
+      },
+      {
+        "text": "Your mindset shapes your reality.",
+        "keywords": "mirror reflection"
+      },
+      {
+        "text": "Practice these daily for transformation.",
+        "keywords": "daily journal"
+      },
+      {
+        "text": "Accept what you cannot control.",
+        "keywords": "waves crashing"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "open path"
+      }
+    ],
+    "description": "Stoicism brings clarity and strength — embrace it! Follow for daily discipline!",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Stop Waiting for the Perfect Moment",
+    "segments": [
+      {
+        "text": "There’s never a perfect time to act.",
+        "keywords": "cloudy sky"
+      },
+      {
+        "text": "Procrastination thrives on uncertainty.",
+        "keywords": "foggy path"
+      },
+      {
+        "text": "Take the leap; make it happen anyway.",
+        "keywords": "jumping off cliff"
+      },
+      {
+        "text": "Fear will always be present.",
+        "keywords": "shadow looming"
+      },
+      {
+        "text": "The ideal moment is a myth.",
+        "keywords": "dream sequence"
+      },
+      {
+        "text": "There’s never a perfect time to act.",
+        "keywords": "cloudy sky"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "determined gaze"
+      }
+    ],
+    "description": "Stop waiting — take action now! Follow for daily discipline!",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Cost of Inaction",
+    "segments": [
+      {
+        "text": "Inaction is a decision to fail.",
+        "keywords": "faded hope"
+      },
+      {
+        "text": "Every moment spent idle is wasted potential.",
+        "keywords": "clock wasting"
+      },
+      {
+        "text": "You lose opportunities each day you hesitate.",
+        "keywords": "locked door"
+      },
+      {
+        "text": "Regret is heavier than failure.",
+        "keywords": "burdened shoulders"
+      },
+      {
+        "text": "Turn your fear into fuel.",
+        "keywords": "fire igniting"
+      },
+      {
+        "text": "Inaction is a decision to fail.",
+        "keywords": "faded hope"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "man breaking chains"
+      }
+    ],
+    "description": "Every moment counts — act before it’s too late! Follow for daily discipline!",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Embrace the Uncomfortable",
+    "segments": [
+      {
+        "text": "Discomfort is a sign of growth.",
+        "keywords": "plant breaking ground"
+      },
+      {
+        "text": "If it doesn’t challenge you, it won’t change you.",
+        "keywords": "tough workout"
+      },
+      {
+        "text": "Lean into the struggle for progress.",
+        "keywords": "uphill battle"
+      },
+      {
+        "text": "You’ll surprise yourself with what you can endure.",
+        "keywords": "warrior training"
+      },
+      {
+        "text": "Discomfort is where transformation happens.",
+        "keywords": "butterfly emerging"
+      },
+      {
+        "text": "Discomfort is a sign of growth.",
+        "keywords": "plant breaking ground"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "shining light"
+      }
+    ],
+    "description": "Growth comes from embracing discomfort — seek it out! Follow for daily discipline!",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Take Responsibility for Your Life",
+    "segments": [
+      {
+        "text": "Your life is your responsibility.",
+        "keywords": "holding weight"
+      },
+      {
+        "text": "Stop blaming others for your circumstances.",
+        "keywords": "pointing fingers"
+      },
+      {
+        "text": "Your choices determine your path.",
+        "keywords": "diverging roads"
+      },
+      {
+        "text": "Own your successes and failures.",
+        "keywords": "mirror reflection"
+      },
+      {
+        "text": "Empower yourself through accountability.",
+        "keywords": "hands holding keys"
+      },
+      {
+        "text": "Your life is your responsibility.",
+        "keywords": "holding weight"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "road forward"
+      }
+    ],
+    "description": "Own your life — take responsibility now! Follow for daily discipline!",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Only Person You Can Change is You",
+    "segments": [
+      {
+        "text": "You can’t change others; only yourself.",
+        "keywords": "reflective surface"
+      },
+      {
+        "text": "Focus on self-improvement, not criticism.",
+        "keywords": "inner peace"
+      },
+      {
+        "text": "Your growth inspires others to improve.",
+        "keywords": "rising sun"
+      },
+      {
+        "text": "Be the change you want to see.",
+        "keywords": "hands planting seed"
+      },
+      {
+        "text": "Transform yourself to impact the world.",
+        "keywords": "ripple effect"
+      },
+      {
+        "text": "You can’t change others; only yourself.",
+        "keywords": "reflective surface"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "path to clarity"
+      }
+    ],
+    "description": "Change yourself to change the world — start today! Follow for daily discipline!",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Discipline is Non-Negotiable",
+    "segments": [
+      {
+        "text": "Discipline is the foundation of achievement.",
+        "keywords": "building blocks"
+      },
+      {
+        "text": "Without discipline, dreams remain dreams.",
+        "keywords": "dreamer stargazing"
+      },
+      {
+        "text": "Your consistency shapes your destiny.",
+        "keywords": "clock ticking"
+      },
+      {
+        "text": "Discipline turns intentions into actions.",
+        "keywords": "man writing plan"
+      },
+      {
+        "text": "Make discipline your daily habit.",
+        "keywords": "routine checklist"
+      },
+      {
+        "text": "Discipline is the foundation of achievement.",
+        "keywords": "building blocks"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "powerful strides"
+      }
+    ],
+    "description": "Discipline is the key to success — embrace it! Follow for daily discipline!",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "How to Build Unbreakable Habits",
+    "segments": [
+      {
+        "text": "Habits define who you are.",
+        "keywords": "shaping clay"
+      },
+      {
+        "text": "Start small; consistency is key.",
+        "keywords": "tiny seeds"
+      },
+      {
+        "text": "Track your progress; celebrate small wins.",
+        "keywords": "checking off goals"
+      },
+      {
+        "text": "Stay accountable; share your goals.",
+        "keywords": "friends supporting"
+      },
+      {
+        "text": "Mastery comes from repetition.",
+        "keywords": "repeating cycles"
+      },
+      {
+        "text": "Habits define who you are.",
+        "keywords": "shaping clay"
+      },
+      {
+        "text": "Follow for your daily dose of discipline.",
+        "keywords": "determined moves"
+      }
+    ],
+    "description": "Build habits that last a lifetime — start today! Follow for daily discipline!",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicism",
+      "#mindset",
+      "#success",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
