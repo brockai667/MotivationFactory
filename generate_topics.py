@@ -16,45 +16,59 @@ MODEL = os.environ.get("MODELS_MODEL", "openai/gpt-4o-mini")
 BASE = os.environ.get("MODELS_BASE_URL", "https://models.github.ai/inference")
 TOKEN = os.environ.get("MODELS_TOKEN") or os.environ.get("GITHUB_TOKEN")
 
-SYSTEM = ("You are a viral short-form scriptwriter for a motivation & discipline (stoic mindset) brand. "
-          "You write hard-hitting, universal wisdom in your own words. No fake quotes attributed to real "
-          "people, no invented statistics. You output strict JSON, nothing else.")
+SYSTEM = ("You are a scriptwriter for a motivation & self-discipline brand whose MISSION is to genuinely "
+          "HELP and inspire people to build a better life. You craft powerful short scripts around REAL, "
+          "well-known quotes from famous people (philosophers, athletes, founders, leaders) - always "
+          "CORRECTLY attributed - and short TRUE stories of real people who overcame real hardship. "
+          "ACCURACY IS SACRED: only use a quote or story if you are confident it is GENUINE and correctly "
+          "attributed. NEVER invent a quote, NEVER misattribute, NEVER fabricate facts or statistics. "
+          "If you are not certain a quote is real, deliver the wisdom in your own words WITHOUT attribution. "
+          "You output strict JSON, nothing else.")
 
 EXAMPLE = {
-    "title": "3 Hard Truths You Need to Hear",
+    "title": "What Marcus Aurelius Knew About Discipline",
     "segments": [
-        {"text": "No one is coming to save you. That is the truth.", "keywords": "lone man city night"},
-        {"text": "And once you accept it, everything changes.", "keywords": "man walking rain"},
-        {"text": "Discipline beats motivation, because motivation always fades.", "keywords": "person gym training"},
-        {"text": "You don't rise to your goals, you fall to your habits.", "keywords": "stairs climbing"},
-        {"text": "Comfort is the enemy that smiles at you.", "keywords": "man thinking window"},
-        {"text": "So the only person to beat is who you were yesterday.", "keywords": "sunrise mountain"},
+        {"text": "\"You have power over your mind, not outside events. Realize this, and you will find strength.\"", "keywords": "ancient roman statue marble"},
+        {"text": "Marcus Aurelius wrote that almost 2000 years ago, and it still hits today.", "keywords": "old book candlelight"},
+        {"text": "Most of your stress comes from things you cannot control.", "keywords": "man stressed window rain"},
+        {"text": "Discipline is mastering the one thing you can: your own response.", "keywords": "man meditating calm"},
+        {"text": "Every time you act instead of react, you grow stronger.", "keywords": "person training gym focused"},
+        {"text": "So master your mind, and the world loses its grip on you.", "keywords": "man standing mountain sunrise"},
         {"text": "Follow for your daily dose of discipline.", "keywords": "lone figure city"},
     ],
-    "description": "No one is coming to save you — discipline is everything. Follow for daily discipline!",
-    "hashtags": ["#motivation", "#discipline", "#stoicism", "#mindset", "#success", "#shorts", "#fyp", "#selfimprovement"],
+    "description": "Marcus Aurelius said you have power over your mind, not outside events. Follow for daily discipline!",
+    "hashtags": ["#motivation", "#discipline", "#stoicism", "#marcusaurelius", "#mindset", "#shorts", "#fyp", "#selfimprovement"],
 }
 
 
 def build_prompt(n, existing_titles):
     return (
-        f"Generate {n} NEW faceless short-form video topics for a MOTIVATION & DISCIPLINE (stoic mindset) brand "
-        "(TikTok / Reels / YouTube Shorts).\n"
-        "Niche: hard truths, self-discipline, stoic mindset, beating laziness/comfort, building yourself.\n"
+        f"Generate {n} NEW faceless short-form video topics for a MOTIVATION & SELF-DISCIPLINE brand "
+        "(TikTok / Reels / YouTube Shorts) whose mission is to genuinely HELP people improve their lives.\n"
         "Return ONLY a JSON array (no markdown). Each item EXACTLY this schema:\n"
         f"{json.dumps(EXAMPLE, ensure_ascii=False, indent=2)}\n\n"
-        "Rules (make it feel PRO and VIRAL):\n"
-        "- title: punchy, like '3 Hard Truths You Need to Hear' or 'Why Discipline Beats Motivation'.\n"
-        "- 6 to 9 segments. Segment 1 is THE HOOK: a hard-hitting truth under 12 words that stops the scroll. "
-        "Never start with 'Did you know'.\n"
-        "- segment 2 keeps them watching (e.g. 'And once you accept it, everything changes.').\n"
-        "- build intensity line by line; write for a deep, powerful SPOKEN voiceover: short, punchy sentences.\n"
-        "- universal wisdom only. NO fake quotes attributed to real people, NO invented statistics, "
-        "nothing hateful or demeaning. Empowering, not toxic.\n"
+        "VARY the format across the batch - roughly a third of each:\n"
+        "  (A) QUOTE VIDEO: built around ONE real, famous, correctly-attributed quote (e.g. Marcus Aurelius, "
+        "Seneca, Epictetus, David Goggins, Kobe Bryant, Jocko Willink, Theodore Roosevelt, Bruce Lee). "
+        "The hook is the quote itself; then unpack what it really means and how to live it.\n"
+        "  (B) STORY VIDEO: a SHORT TRUE story of a real, well-known person who overcame real hardship "
+        "(e.g. how a famous athlete/founder failed before they succeeded). State only widely-documented facts.\n"
+        "  (C) WISDOM VIDEO: hard-hitting, actionable self-discipline advice in YOUR OWN words (no attribution).\n"
+        "ACCURACY IS SACRED: only use a quote or story if you are CONFIDENT it is genuine and correctly "
+        "attributed. If unsure, fall back to format (C) and write it as your own wisdom. NEVER invent or "
+        "misattribute a quote, NEVER fabricate statistics.\n\n"
+        "Rules (make it feel PRO, VIRAL and genuinely HELPFUL):\n"
+        "- title: punchy and curiosity-driven, e.g. 'What Marcus Aurelius Knew About Discipline', "
+        "'The Mindset That Built David Goggins', 'Why Discipline Beats Motivation'.\n"
+        "- 6 to 9 segments. Segment 1 is THE HOOK: under 14 words, stops the scroll (the quote, or the most "
+        "gripping line of the story). Never start with 'Did you know'.\n"
+        "- segment 2 keeps them watching. Build intensity line by line; write for a deep, powerful SPOKEN "
+        "voiceover: short, punchy sentences. End on an empowering, useful takeaway people can apply today.\n"
+        "- empowering, never hateful, demeaning or toxic.\n"
         "- each segment 'keywords': 1-3 ENGLISH words for real Pexels footage that VISUALLY MATCHES the line "
-        "(e.g. 'lone man city night', 'person gym training', 'sunrise mountain', 'man walking rain'). "
+        "(e.g. 'ancient roman statue', 'boxer training gym', 'sunrise mountain', 'man walking rain'). "
         "Cinematic and concrete, never abstract.\n"
-        "- the SECOND-TO-LAST segment should loop back to the opening hook so a rewatch feels seamless.\n"
+        "- the SECOND-TO-LAST segment should loop back to the opening hook/quote so a rewatch feels seamless.\n"
         "- the LAST segment text MUST be exactly: 'Follow for your daily dose of discipline.'\n"
         "- description: one punchy sentence ending with 'Follow for daily discipline!'.\n"
         "- hashtags: 6-8 tags including #motivation #discipline #shorts #fyp.\n"
