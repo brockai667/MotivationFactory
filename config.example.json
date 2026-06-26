@@ -9,7 +9,7 @@
   "cloudinary_cloud_name": "",
   "cloudinary_api_key": "",
   "cloudinary_api_secret": "",
-  "voice": "en-US-GuyNeural",
+  "voice": "en-US-ChristopherNeural",
   "tts_rate": "+0%",
   "tts_pitch": "-2Hz",
   "segment_gap": 0.3,
