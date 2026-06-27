@@ -2,9 +2,21 @@
   "pexels_api_key": "",
   "buffer_token": "",
   "buffer_channels": [
-    { "id": "6a3e70af5ab6d2f10674a80e", "service": "instagram", "name": "disciplinedaily667" },
-    { "id": "6a3e70d25ab6d2f10674a88b", "service": "youtube", "name": "DisciplineDaily" },
-    { "id": "6a3e70bb5ab6d2f10674a83d", "service": "tiktok", "name": "disciplinedaily667" }
+    {
+      "id": "6a3e70af5ab6d2f10674a80e",
+      "service": "instagram",
+      "name": "disciplinedaily667"
+    },
+    {
+      "id": "6a3e70d25ab6d2f10674a88b",
+      "service": "youtube",
+      "name": "DisciplineDaily"
+    },
+    {
+      "id": "6a3e70bb5ab6d2f10674a83d",
+      "service": "tiktok",
+      "name": "disciplinedaily667"
+    }
   ],
   "cloudinary_cloud_name": "",
   "cloudinary_api_key": "",
@@ -21,12 +33,28 @@
   "brand_name": "DisciplineDaily",
   "brand_handle": "",
   "brand_cta": "Follow for your daily dose of discipline 🔥",
-  "brand_hashtags": ["#motivation", "#discipline", "#stoicism", "#mindset", "#success", "#shorts", "#fyp", "#selfimprovement"],
+  "brand_hashtags": [
+    "#motivation",
+    "#discipline",
+    "#stoicism",
+    "#mindset",
+    "#success",
+    "#shorts",
+    "#fyp",
+    "#selfimprovement"
+  ],
   "color_grade": "eq=contrast=1.18:saturation=0.96:gamma=0.95,vignette=angle=PI/4",
   "caption_words_per_line": 3,
   "caption_fontsize": 80,
   "caption_margin_v": 880,
   "caption_margin_h": 185,
   "ffmpeg": "ffmpeg",
-  "ffprobe": "ffprobe"
+  "ffprobe": "ffprobe",
+  "caption_style": "color",
+  "caption_highlight_hex": "006AFF",
+  "caption_box_hex": "006AFF",
+  "caption_text_hex": "FFFFFF",
+  "caption_pop_scale": 112,
+  "brand_primary": "0x1a0e04",
+  "brand_accent": "0xff6a00"
 }
