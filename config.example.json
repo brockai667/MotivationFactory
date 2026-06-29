@@ -56,5 +56,7 @@
   "caption_text_hex": "FFFFFF",
   "caption_pop_scale": 112,
   "brand_primary": "0x1a0e04",
-  "brand_accent": "0xff6a00"
+  "brand_accent": "0xff6a00",
+  "tts_engine": "kokoro",
+  "kokoro_voice": "am_adam"
 }
