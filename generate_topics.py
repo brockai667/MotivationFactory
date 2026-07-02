@@ -81,6 +81,17 @@ EXAMPLE = {
 }
 
 
+import random  # CTAS_ROTATE
+
+CTAS = [
+    "Follow for your daily dose of discipline.",
+    "Follow if you're building a stronger you.",
+    "Follow for the mindset that gets it done.",
+    "Follow because discipline beats motivation.",
+    "Follow for daily fuel to keep going.",
+]
+
+
 def build_prompt(n, existing_titles, trending=None):
     trend_block = _trend_block(trending)
     return (
@@ -115,6 +126,9 @@ def build_prompt(n, existing_titles, trending=None):
         "- About half the time, add ONE fitting emoji at the very END of the description (e.g. 🔥, 💪, 🧠, ⚡). "
         "Emoji ONLY in the description text, NEVER inside any segment 'text' (spoken captions).\n"
         "- hashtags: 6-8 tags including #motivation #discipline #shorts #fyp.\n"
+        "- VARY THE TITLE FORMAT: do NOT start more than one in five titles with a number "
+        "(avoid the repetitive 'N things' pattern). Mix a bold claim, a question, a "
+        "'why/how' angle and a curiosity gap so titles never look the same.\n"
         f"- Do NOT reuse any of these existing titles: {existing_titles}\n"
         "- Do NOT repeat the same SUBJECT, fact or concept as any existing title above, even reworded, "
         "renumbered or from a different angle. Every topic must be a genuinely DIFFERENT idea.\n"
@@ -209,6 +223,8 @@ def main():
         _s = _sig(t["title"])
         if _too_similar(_s, existing_sigs):   # ta ista TEMA (iny nazov) -> preskoc (ziadne opakovanie)
             print("  preskocene (podobna tema):", t["title"]); continue
+        if t.get("segments"):
+            t["segments"][-1]["text"] = random.choice(CTAS)  # CTAS_ROTATE: nie vzdy rovnaka veta
         bank.append(t); titles.add(t["title"]); existing_sigs.append(_s); added += 1
     json.dump(bank, open(BANK, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     print(f"Pridanych {added} tem. Banka ma {len(bank)} tem.")
