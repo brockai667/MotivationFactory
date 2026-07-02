@@ -39,7 +39,7 @@ jobs:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
         run: python generate_topics.py
 
-      - name: Generate 3 videos + push to Buffer
+      - name: Generate 2 videos + push to Buffer
         env:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
@@ -48,8 +48,8 @@ jobs:
           CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
           CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
         run: |
-          python generate_batch.py 3
-          python push_to_buffer.py 3
+          python generate_batch.py 2
+          python push_to_buffer.py 2
 
       - name: Retry failed Buffer posts (auto-heal)
         continue-on-error: true
