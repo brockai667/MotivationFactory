@@ -73,6 +73,6 @@
   "broll_fallback_query": "sunrise mountain nature",
   "pixabay_api_key": "",
   "visual_engine": "motion",
-  "motion_bg": "gradient",
+  "motion_bg": "auto",
   "motion_style": "dramatic cinematic photograph, dark background, strong rim light, single clear subject, no text, no watermark"
 }
