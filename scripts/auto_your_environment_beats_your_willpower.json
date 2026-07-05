@@ -1,0 +1,68 @@
+{
+  "title": "Your Environment Beats Your Willpower",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "You don't lack willpower. Your environment is just designed against you.",
+      "hook_top": "WILLPOWER IS NOT THE PROBLEM",
+      "query": "person scrolling phone bed dark",
+      "query2": "messy desk distraction"
+    },
+    {
+      "role": "fact",
+      "text": "Every notification, every snack on the counter, every app icon is a vote against your goals.",
+      "query": "phone notifications screen close",
+      "query2": "person distracted phone night",
+      "chips": [
+        {
+          "t": "DESIGNED TO DISTRACT",
+          "on": "notification",
+          "style": "accent"
+        }
+      ],
+      "punch": "against"
+    },
+    {
+      "role": "fact",
+      "text": "Winners don't fight temptation. They remove it. Phone in another room. Shoes by the door.",
+      "query": "clean minimal desk workspace",
+      "query2": "running shoes by door",
+      "chips": [
+        {
+          "t": "REMOVE, DON'T RESIST",
+          "on": "remove",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Make the good choice the easy choice, and discipline stops feeling like war.",
+      "query": "organized minimal room morning light",
+      "query2": "person working focused clean desk",
+      "label": "MAKE IT EASY",
+      "sub": "design beats willpower",
+      "label_on": "easy",
+      "punch": "war"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for your daily dose of discipline.",
+      "query": "sunrise run silhouette road",
+      "query2": "mountain sunrise person"
+    }
+  ],
+  "description": "Stop fighting temptation - remove it. Design your environment so the good choice is the easy choice. Follow for daily discipline!",
+  "hashtags": [
+    "#discipline",
+    "#productivity",
+    "#selfimprovement",
+    "#motivation",
+    "#habits",
+    "#mindset",
+    "#shorts",
+    "#fyp"
+  ]
+}

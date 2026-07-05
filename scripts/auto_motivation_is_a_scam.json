@@ -1,0 +1,68 @@
+{
+  "title": "Motivation Is a Scam",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Motivation gets you started. Discipline shows up when motivation quits.",
+      "hook_top": "MOTIVATION QUITS DISCIPLINE STAYS",
+      "query": "athlete training dark gym",
+      "query2": "runner sunrise silhouette"
+    },
+    {
+      "role": "fact",
+      "text": "You will not feel like it most days. High performers train anyway, because the plan decides, not the mood.",
+      "query": "boxer training sweat dark",
+      "query2": "gym workout intense dark",
+      "chips": [
+        {
+          "t": "THE PLAN DECIDES",
+          "on": "plan",
+          "style": "accent"
+        }
+      ],
+      "punch": "anyway"
+    },
+    {
+      "role": "fact",
+      "text": "Start embarrassingly small. Two minutes a day beats two hours once a month.",
+      "query": "person writing journal morning",
+      "query2": "making bed morning routine",
+      "chips": [
+        {
+          "t": "2 MINUTES A DAY",
+          "on": "minutes",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Discipline is a muscle. Every time you keep a promise to yourself, it grows.",
+      "query": "sunrise run alone road",
+      "query2": "cold shower man morning",
+      "label": "KEEP THE PROMISE",
+      "sub": "especially the small ones",
+      "label_on": "promise",
+      "punch": "grows"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the discipline nobody teaches you.",
+      "query": "mountain summit sunrise person",
+      "query2": "city sunrise rooftop"
+    }
+  ],
+  "description": "Motivation fades - discipline compounds. The plan decides, not the mood. Follow for daily discipline!",
+  "hashtags": [
+    "#discipline",
+    "#motivation",
+    "#mindset",
+    "#selfimprovement",
+    "#stoicism",
+    "#success",
+    "#shorts",
+    "#fyp"
+  ]
+}

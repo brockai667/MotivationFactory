@@ -1,0 +1,73 @@
+{
+  "title": "Start So Small It Feels Stupid",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "The best way to build a habit is to make it so small it feels stupid.",
+      "hook_top": "START STUPIDLY SMALL",
+      "query": "person tying running shoes",
+      "query2": "morning routine person"
+    },
+    {
+      "role": "fact",
+      "text": "One push-up. One page. Two minutes. Your brain stops fighting things that feel easy.",
+      "query": "person doing push up home",
+      "query2": "person reading book morning",
+      "chips": [
+        {
+          "t": "ONE PUSH-UP",
+          "on": "push",
+          "style": "white"
+        },
+        {
+          "t": "TWO MINUTES",
+          "on": "minutes",
+          "style": "accent"
+        }
+      ],
+      "punch": "easy"
+    },
+    {
+      "role": "fact",
+      "text": "Consistency builds identity. Every tiny rep is a vote for the person you want to become.",
+      "query": "person journaling desk morning",
+      "query2": "calendar checklist habit",
+      "chips": [
+        {
+          "t": "VOTES FOR YOUR IDENTITY",
+          "on": "vote",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Scale comes later. First, become the person who never misses.",
+      "query": "runner alone sunrise road",
+      "query2": "athlete silhouette morning",
+      "label": "NEVER MISS TWICE",
+      "sub": "the only rule that matters",
+      "label_on": "misses",
+      "punch": "never"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for your daily dose of discipline.",
+      "query": "sunrise mountain summit person",
+      "query2": "city sunrise rooftop"
+    }
+  ],
+  "description": "One push-up. One page. Two minutes. Make the habit so small your brain stops fighting it - then never miss twice. Follow for daily discipline!",
+  "hashtags": [
+    "#discipline",
+    "#habits",
+    "#selfimprovement",
+    "#motivation",
+    "#atomichabits",
+    "#mindset",
+    "#shorts",
+    "#fyp"
+  ]
+}
