@@ -1,0 +1,67 @@
+{
+  "title": "Integrity is What Defines You",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "What do you do when no one is watching? That's your true character.",
+      "hook_top": "YOUR TRUE CHARACTER SHINES HERE",
+      "query": "person looking out windows",
+      "query2": "solitary figure deep in thought"
+    },
+    {
+      "role": "fact",
+      "text": "Integrity builds trust over time. It's a consistent habit, not an occasional act.",
+      "query": "handshake business deal",
+      "query2": "business people collaborating",
+      "chips": [
+        {
+          "t": "CONSISTENCY MATTERS",
+          "on": "consistency",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "High performers uphold their values, even when it's inconvenient. That's mental toughness.",
+      "query": "athlete training alone",
+      "query2": "focused athlete in gym",
+      "chips": [
+        {
+          "t": "VALUES OVER CONVENIENCE",
+          "on": "values",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "True integrity defines your legacy. It's the small, everyday choices that matter.",
+      "query": "person helping others",
+      "query2": "community service activity",
+      "label": "CHOOSE YOUR LEGACY",
+      "sub": "every small choice counts",
+      "label_on": "legacy",
+      "punch": "matters"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the mindset that gets it done.",
+      "query": "person standing on cliff",
+      "query2": "mountain climber reaching summit"
+    }
+  ],
+  "description": "Integrity is shown in the smallest choices, shaping your identity. Follow for daily reminders to build your integrity!",
+  "hashtags": [
+    "#integrity",
+    "#character",
+    "#selfimprovement",
+    "#mentalstrength",
+    "#consistency",
+    "#success",
+    "#shorts",
+    "#fyp"
+  ]
+}

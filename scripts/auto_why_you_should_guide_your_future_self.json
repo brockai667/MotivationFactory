@@ -1,0 +1,67 @@
+{
+  "title": "Why You Should Guide Your Future Self",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "What if you could send a message to your future self? It works wonders.",
+      "hook_top": "MESSAGE TO YOUR FUTURE SELF",
+      "query": "person writing letter",
+      "query2": "thoughtful writer at desk"
+    },
+    {
+      "role": "fact",
+      "text": "Journaling boosts self-reflection. A few minutes can change your perspective.",
+      "query": "person journaling outdoors",
+      "query2": "nature journaling calm",
+      "chips": [
+        {
+          "t": "MINUTES MATTER",
+          "on": "minutes",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Writing to your future self clarifies your goals. It creates a roadmap to success.",
+      "query": "person drawing roadmap",
+      "query2": "planning on whiteboard",
+      "chips": [
+        {
+          "t": "CLARIFY YOUR GOALS",
+          "on": "goals",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Your future self needs guidance. Be the mentor you wish you had.",
+      "query": "mentor guiding young person",
+      "query2": "teacher with student",
+      "label": "BE YOUR OWN MENTOR",
+      "sub": "send guidance today",
+      "label_on": "mentor",
+      "punch": "mentor"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the mindset that gets it done.",
+      "query": "sunrise over horizon",
+      "query2": "journey into unknown"
+    }
+  ],
+  "description": "Send a message to your future self and watch how it transforms your mindset. Follow for more tips on self-reflection and growth!",
+  "hashtags": [
+    "#selfreflection",
+    "#journaling",
+    "#mindset",
+    "#mentalstrength",
+    "#selfimprovement",
+    "#growth",
+    "#shorts",
+    "#fyp"
+  ]
+}
