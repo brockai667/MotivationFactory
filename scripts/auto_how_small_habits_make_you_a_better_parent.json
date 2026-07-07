@@ -1,0 +1,67 @@
+{
+  "title": "How Small Habits Make You a Better Parent",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Great parenting starts with small, consistent habits. Are you doing them?",
+      "hook_top": "PARENTING THROUGH SMALL HABITS",
+      "query": "parent and child playing",
+      "query2": "family time together"
+    },
+    {
+      "role": "fact",
+      "text": "Simple routines strengthen relationships. Daily check-ins work wonders.",
+      "query": "family sitting together",
+      "query2": "family dinner together",
+      "chips": [
+        {
+          "t": "DAILY CHECK-INS",
+          "on": "check-ins",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "High performers in parenting actively listen. It fosters trust and communication.",
+      "query": "parent listening to child",
+      "query2": "parent helping child",
+      "chips": [
+        {
+          "t": "LISTEN TO CONNECT",
+          "on": "listen",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Successful parenting is about the little things. Celebrate small victories daily.",
+      "query": "parent patting child on back",
+      "query2": "child smiling in joy",
+      "label": "CELEBRATE SMALL VICTORIES",
+      "sub": "little moments matter",
+      "label_on": "victories",
+      "punch": "matter"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're building a stronger you.",
+      "query": "child with proud parent",
+      "query2": "happy family together"
+    }
+  ],
+  "description": "Parenting flourishes through small, consistent habits. Follow for daily tips on becoming a better parent!",
+  "hashtags": [
+    "#parenting",
+    "#relationships",
+    "#selfimprovement",
+    "#consistency",
+    "#mentalstrength",
+    "#growth",
+    "#shorts",
+    "#fyp"
+  ]
+}

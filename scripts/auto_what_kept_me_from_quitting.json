@@ -1,0 +1,67 @@
+{
+  "title": "What Kept Me From Quitting",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "What gets you through the tough times? I almost quit last year.",
+      "hook_top": "DONT GIVE UP KEEP GOING",
+      "query": "person contemplating future",
+      "query2": "deep in thought outdoors"
+    },
+    {
+      "role": "fact",
+      "text": "Resilience is about recognizing your own strength. It comes from forging ahead.",
+      "query": "athlete pushing limits",
+      "query2": "marathon runner focused",
+      "chips": [
+        {
+          "t": "FORGING AHEAD",
+          "on": "forward",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "High performers embrace challenges as opportunities for growth.",
+      "query": "climber facing mountain",
+      "query2": "person overcoming obstacle",
+      "chips": [
+        {
+          "t": "GROW THROUGH CHALLENGE",
+          "on": "challenges",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Your obstacles can be your greatest teachers. Keep learning and adapting.",
+      "query": "person studying notes",
+      "query2": "individual learning new skill",
+      "label": "LEARN FROM OBSTACLES",
+      "sub": "transform challenges",
+      "label_on": "teachers",
+      "punch": "teachers"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the mindset that gets it done.",
+      "query": "person celebrating success",
+      "query2": "joyful achievement moment"
+    }
+  ],
+  "description": "Obstacles are teachers if you let them. Follow for daily motivation to overcome your challenges!",
+  "hashtags": [
+    "#resilience",
+    "#motivation",
+    "#selfimprovement",
+    "#challenges",
+    "#mentalstrength",
+    "#growth",
+    "#shorts",
+    "#fyp"
+  ]
+}
