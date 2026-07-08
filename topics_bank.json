@@ -2637,5 +2637,316 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Hard Work Changes Everything",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "An uncomfortable truth: hard work is non-negotiable for success.",
+        "hook_top": "HARD WORK IS NONNEGOTIABLE",
+        "query": "person training outdoors struggle",
+        "query2": "person lifting weights gym"
+      },
+      {
+        "role": "fact",
+        "text": "Consistency trumps intensity. Show up daily, and results will follow.",
+        "query": "runner on a track",
+        "query2": "boxer training hard",
+        "chips": [
+          {
+            "t": "SHOW UP DAILY",
+            "on": "show up",
+            "style": "accent"
+          }
+        ],
+        "punch": "follow"
+      },
+      {
+        "role": "fact",
+        "text": "High performers embrace discomfort. Growth happens just outside your comfort zone.",
+        "query": "person hiking steep mountain",
+        "query2": "cold shower moment",
+        "chips": []
+      },
+      {
+        "role": "callout",
+        "text": "Embrace Discomfort.",
+        "query": "person meditating outdoors",
+        "query2": "person running in rain",
+        "label": "EMBRACE DISCOMFORT",
+        "sub": "Your growth depends on it.",
+        "label_on": "discomfort",
+        "punch": "depends"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're building a stronger you.",
+        "query": "gorgeous nature trail",
+        "query2": "person at sunrise"
+      }
+    ],
+    "description": "Hard work is the cornerstone of success. Embrace the discomfort for growth. Follow for daily discipline!",
+    "hashtags": [
+      "#hardwork",
+      "#success",
+      "#growth",
+      "#discipline",
+      "#highperformers",
+      "#mentalstrength",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Integrity Matters Most",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Integrity means doing the right thing, even when no one is watching.",
+        "hook_top": "INTEGRITY THE HIDDEN KEY",
+        "query": "person helping others",
+        "query2": "community service activity"
+      },
+      {
+        "role": "fact",
+        "text": "Successful individuals prioritize integrity over short-term gains.",
+        "query": "business person making deal",
+        "query2": "business meeting trusted handshake",
+        "chips": [
+          {
+            "t": "LONG-TERM WINS",
+            "on": "integrity",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Building trust through integrity creates lasting relationships in business and life.",
+        "query": "people networking together",
+        "query2": "friends celebrating success",
+        "chips": []
+      },
+      {
+        "role": "callout",
+        "text": "Integrity Builds Trust.",
+        "query": "person helping elderly",
+        "query2": "friend helping another up",
+        "label": "TRUST BUILT OVER TIME",
+        "sub": "A priceless asset.",
+        "label_on": "integrity",
+        "punch": "priceless"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily fuel to keep going.",
+        "query": "sunset over city",
+        "query2": "person reflecting by the lake"
+      }
+    ],
+    "description": "Integrity is fundamental for true success and trust. Strengthen your character daily. Follow for daily discipline!",
+    "hashtags": [
+      "#integrity",
+      "#trust",
+      "#success",
+      "#discipline",
+      "#character",
+      "#highperformers",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Truth About Tiredness",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Constant tiredness can be cured by discipline over excuses.",
+        "hook_top": "DISCOURAGE EXCUSES",
+        "query": "person waking up early",
+        "query2": "alarm clock ringing"
+      },
+      {
+        "role": "fact",
+        "text": "High performers prioritize sleep and recovery. No shortcuts here.",
+        "query": "person sleeping soundly",
+        "query2": "peaceful sleeping environment",
+        "chips": [
+          {
+            "t": "SLEEP IS ESSENTIAL",
+            "on": "sleep",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Tiredness often stems from poor habits, not lack of time.",
+        "query": "messy workspace",
+        "query2": "frustrated student studying",
+        "chips": []
+      },
+      {
+        "role": "callout",
+        "text": "Prioritize Recovery.",
+        "query": "person resting on couch",
+        "query2": "nature retreat relaxation",
+        "label": "SLEEP, NO COMPROMISE",
+        "sub": "Recharge to perform.",
+        "label_on": "recovery",
+        "punch": "perform"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're building a stronger you.",
+        "query": "morning coffee ritual",
+        "query2": "sunrise with coffee"
+      }
+    ],
+    "description": "Your tiredness may stem from poor habits, not time. Prioritize recovery to thrive. Follow for daily discipline!",
+    "hashtags": [
+      "#tiredness",
+      "#recovery",
+      "#habits",
+      "#selfimprovement",
+      "#mentalstrength",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Strength to Keep Going",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "The moments you want to quit are when your strength grows.",
+        "hook_top": "STRENGTH GROWS IN STRUGGLE",
+        "query": "athlete pushing limits",
+        "query2": "runner on challenging trail"
+      },
+      {
+        "role": "fact",
+        "text": "Setbacks often pave the way for monumental comebacks.",
+        "query": "person training harder after loss",
+        "query2": "team huddling after loss",
+        "chips": [
+          {
+            "t": "SETBACKS CREATE COMEBACK",
+            "on": "setbacks",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Resilience is built through challenging experiences and embracing fear.",
+        "query": "person climbing mountain",
+        "query2": "person facing storm",
+        "chips": [
+          {
+            "t": "EMBRACE THE CHALLENGE",
+            "on": "resilience",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Strength Through Adversity.",
+        "query": "person confronting fear",
+        "query2": "deep sea diver exploring",
+        "label": "GROWTH THROUGH STRUGGLE",
+        "sub": "Expect challenges ahead.",
+        "label_on": "strength",
+        "punch": "challenges"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're building a stronger you.",
+        "query": "person overcoming obstacle",
+        "query2": "person celebrating victory"
+      }
+    ],
+    "description": "Your strength develops most during struggle. Embrace adversity for growth. Follow for daily discipline!",
+    "hashtags": [
+      "#strength",
+      "#resilience",
+      "#adversity",
+      "#discipline",
+      "#mentalstrength",
+      "#growth",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Power of Small Decisions",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Every small decision can lead to significant changes.",
+        "hook_top": "SMALL DECISIONS MATTER",
+        "query": "person journaling",
+        "query2": "close-up of decision-making"
+      },
+      {
+        "role": "fact",
+        "text": "Consistent small efforts compound into life-altering habits.",
+        "query": "person exercising regularly",
+        "query2": "daily meal prep",
+        "chips": [
+          {
+            "t": "COMPOUND EFFECT",
+            "on": "consistent",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "High achievers focus on the small decisions that align with their goals.",
+        "query": "person setting goals",
+        "query2": "person planning daily tasks",
+        "chips": []
+      },
+      {
+        "role": "callout",
+        "text": "Focus on the Small Things.",
+        "query": "person completing a checklist",
+        "query2": "rewarding oneself after tasks",
+        "label": "SMALL EFFORTS, BIG OUTCOMES",
+        "sub": "Every choice counts.",
+        "label_on": "decisions",
+        "punch": "counts"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily fuel to keep going.",
+        "query": "person holding a trophy",
+        "query2": "celebration moment"
+      }
+    ],
+    "description": "Small decisions lead to significant life changes. Focus on your choices daily. Follow for daily discipline!",
+    "hashtags": [
+      "#decisions",
+      "#habits",
+      "#success",
+      "#discipline",
+      "#selfimprovement",
+      "#growth",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]

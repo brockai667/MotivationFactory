@@ -1,0 +1,67 @@
+{
+  "title": "Stop Being Your Own Worst Critic",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Are you your own worst critic? It's time to change that.",
+      "hook_top": "CHANGE YOUR INNER DIALOGUE",
+      "query": "person looking in mirror",
+      "query2": "self-reflection moment"
+    },
+    {
+      "role": "fact",
+      "text": "Negative self-talk erodes your confidence. High performers focus on wisdom, not doubt.",
+      "query": "person writing affirmations",
+      "query2": "writing uplifting quotes",
+      "chips": [
+        {
+          "t": "FOCUS ON WISDOM",
+          "on": "wisdom",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Practicing self-compassion increases resilience. Treat yourself like you would a friend.",
+      "query": "person hugging themselves",
+      "query2": "supportive self-care moment",
+      "chips": [
+        {
+          "t": "PRACTICE SELF-COMPASSION",
+          "on": "compassion",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Your inner voice shapes your reality. Reframe your thoughts for positivity.",
+      "query": "person journaling with smile",
+      "query2": "happy reflection writing",
+      "label": "REFRAME YOUR THOUGHTS",
+      "sub": "positivity matters",
+      "label_on": "voice",
+      "punch": "shapes"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for your daily dose of discipline.",
+      "query": "person on mountain top",
+      "query2": "victorious moment outdoors"
+    }
+  ],
+  "description": "Your inner dialogue influences your reality. Follow for daily reminders to uplift your mindset!",
+  "hashtags": [
+    "#selfcriticism",
+    "#mindset",
+    "#selfimprovement",
+    "#positivity",
+    "#mentalstrength",
+    "#growth",
+    "#shorts",
+    "#fyp"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "You've Been Running on Assumptions",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Are assumptions holding you back? It's time to challenge them.",
+      "hook_top": "CHALLENGE YOUR ASSUMPTIONS",
+      "query": "person questioning beliefs",
+      "query2": "thoughtful reflection moment"
+    },
+    {
+      "role": "fact",
+      "text": "Many people settle for less, believing they don't deserve more. High performers question limitations.",
+      "query": "person breaking chains",
+      "query2": "shattering glass ceiling",
+      "chips": [
+        {
+          "t": "QUESTION LIMITATIONS",
+          "on": "limitations",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Challenging your assumptions fosters growth and expands possibilities.",
+      "query": "person opening door",
+      "query2": "doorway to new opportunities",
+      "chips": [
+        {
+          "t": "EXPAND YOUR POSSIBILITIE",
+          "on": "possibilities",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Your beliefs shape your actions. Redefine them for a better future.",
+      "query": "person setting future goals",
+      "query2": "guiding through transformation",
+      "label": "REDEFINE YOUR BELIEFS",
+      "sub": "shape your actions",
+      "label_on": "beliefs",
+      "punch": "better"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the mindset that gets it done.",
+      "query": "person exploring new ideas",
+      "query2": "mind map brainstorming"
+    }
+  ],
+  "description": "Your assumptions can limit your growth. Follow for daily challenges to expand your mindset!",
+  "hashtags": [
+    "#assumptions",
+    "#growth",
+    "#selfimprovement",
+    "#mindset",
+    "#mentalstrength",
+    "#possibilities",
+    "#shorts",
+    "#fyp"
+  ]
+}
