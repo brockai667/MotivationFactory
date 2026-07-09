@@ -1,0 +1,68 @@
+{
+  "title": "The Truth About Promises",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "You kept every promise to others, but what about to yourself?",
+      "hook_top": "KEEP YOUR PROMISES TO YOU",
+      "query": "person alone reflecting",
+      "query2": "journal on table calm"
+    },
+    {
+      "role": "fact",
+      "text": "Every broken promise to yourself erodes trust. High achievers keep their commitments.",
+      "query": "athlete training hard focused",
+      "query2": "person meditating focused",
+      "chips": [
+        {
+          "t": "ERODES TRUST",
+          "on": "broken promise",
+          "style": "accent"
+        }
+      ],
+      "punch": "commitments"
+    },
+    {
+      "role": "fact",
+      "text": "Make small promises daily. It builds self-trust and boosts discipline over time.",
+      "query": "person setting goal planner",
+      "query2": "hands writing in notebook",
+      "chips": [
+        {
+          "t": "BUILD SELF-TRUST",
+          "on": "self-trust",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Self-discipline is action in alignment with your values.",
+      "query": "person running on trail",
+      "query2": "close-up of running shoes",
+      "label": "ALIGN ACTIONS WITH VALUES",
+      "sub": "self-discipline defined",
+      "label_on": "action",
+      "punch": "values"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily fuel to keep going.",
+      "query": "sunrise over mountains",
+      "query2": "city skyline at dawn"
+    }
+  ],
+  "description": "Every promise you make to yourself builds self-trust. Follow for daily reminders on keeping those promises!",
+  "hashtags": [
+    "#selftrust",
+    "#discipline",
+    "#consistency",
+    "#habits",
+    "#stoicism",
+    "#motivation",
+    "#shorts",
+    "#fyp"
+  ]
+}

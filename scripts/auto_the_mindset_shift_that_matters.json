@@ -1,0 +1,68 @@
+{
+  "title": "The Mindset Shift That Matters",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "What if I told you action comes before motivation?",
+      "hook_top": "ACTION BEFORE MOTIVATION",
+      "query": "person starting workout",
+      "query2": "gym scene preparation"
+    },
+    {
+      "role": "fact",
+      "text": "Research shows that action generates motivation, not the other way around.",
+      "query": "person jogging outdoors",
+      "query2": "running shoes on pavement",
+      "chips": [
+        {
+          "t": "ACTION GENERATES MOTIVAT",
+          "on": "action",
+          "style": "accent"
+        }
+      ],
+      "punch": "around"
+    },
+    {
+      "role": "fact",
+      "text": "Just starting is often the hardest step. Embrace imperfection.",
+      "query": "person stepping onto track",
+      "query2": "foot stepping on grass",
+      "chips": [
+        {
+          "t": "EMBRACE IMPERFECTION",
+          "on": "imperfection",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Every small action builds the momentum towards your goals.",
+      "query": "person stacking bricks",
+      "query2": "construction scene progress",
+      "label": "MOMENTUM FROM SMALL ACTIONS",
+      "sub": "the compounding effect",
+      "label_on": "momentum",
+      "punch": "goals"
+    },
+    {
+      "role": "cta",
+      "text": "Follow because discipline beats motivation.",
+      "query": "person reaching mountain peak",
+      "query2": "sunrise from mountaintop"
+    }
+  ],
+  "description": "Action is the catalyst for motivation. Follow for daily insights into taking action and building momentum!",
+  "hashtags": [
+    "#motivation",
+    "#action",
+    "#momentum",
+    "#habits",
+    "#stoicism",
+    "#selfimprovement",
+    "#shorts",
+    "#fyp"
+  ]
+}
