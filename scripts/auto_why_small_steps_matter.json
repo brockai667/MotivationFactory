@@ -1,0 +1,68 @@
+{
+  "title": "Why Small Steps Matter",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Ever felt overwhelmed by big goals? Start small.",
+      "hook_top": "START SMALL TO WIN BIG",
+      "query": "person overwhelmed at desk",
+      "query2": "stacks of paper chaos"
+    },
+    {
+      "role": "fact",
+      "text": "Small steps create habits that lead to significant transformations over time.",
+      "query": "person walking up stairs",
+      "query2": "close-up of foot climbing stairs",
+      "chips": [
+        {
+          "t": "HABITS CREATE TRANSFORMA",
+          "on": "habits",
+          "style": "accent"
+        }
+      ],
+      "punch": "time"
+    },
+    {
+      "role": "fact",
+      "text": "Commit to just 1% improvement daily; stunning results accumulate.",
+      "query": "person practicing guitar",
+      "query2": "hands playing instrument",
+      "chips": [
+        {
+          "t": "1% IMPROVEMENT",
+          "on": "1%",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Consistency is the secret ingredient to success.",
+      "query": "person running on track",
+      "query2": "trainer observing runner",
+      "label": "SUCCESS REQUIRES CONSISTENCY",
+      "sub": "make it a habit",
+      "label_on": "consistency",
+      "punch": "secret"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily fuel to keep going.",
+      "query": "person walking with sunset background",
+      "query2": "sunset over horizon"
+    }
+  ],
+  "description": "Small steps lead to significant change. Follow for methods on building lasting habits!",
+  "hashtags": [
+    "#smallsteps",
+    "#consistency",
+    "#habits",
+    "#transformation",
+    "#stoicism",
+    "#success",
+    "#shorts",
+    "#fyp"
+  ]
+}

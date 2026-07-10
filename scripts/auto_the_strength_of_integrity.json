@@ -1,0 +1,67 @@
+{
+  "title": "The Strength of Integrity",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Integrity means doing the right thing when nobody's watching.",
+      "hook_top": "INTEGRITY IS YOUR FOUNDATION",
+      "query": "person alone contemplating",
+      "query2": "solitary figure by a window"
+    },
+    {
+      "role": "fact",
+      "text": "High performers practice integrity, building trust with themselves and others.",
+      "query": "group of friends bonding",
+      "query2": "trust-building moment with hugs",
+      "chips": [
+        {
+          "t": "BUILDING TRUST",
+          "on": "integrity",
+          "style": "accent"
+        }
+      ],
+      "punch": "others"
+    },
+    {
+      "role": "fact",
+      "text": "Integrity attracts opportunities. People seek those they can trust.",
+      "query": "man giving a presentation",
+      "query2": "confident public speaker",
+      "chips": [
+        {
+          "t": "ATTRACTING OPPORTUNITIES",
+          "on": "integrity",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Every decision counts. Your choices reflect your character.",
+      "query": "person making a tough choice",
+      "query2": "hands poised over decision",
+      "label": "YOUR CHOICES REFLECT YOU",
+      "sub": "build your character",
+      "label_on": "choices",
+      "punch": "character"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the mindset that gets it done.",
+      "query": "sunlight shining through trees",
+      "query2": "nature with warm light"
+    }
+  ],
+  "description": "Integrity is your foundation for success. Follow for guidance on cultivating it in your daily life!",
+  "hashtags": [
+    "#integrity",
+    "#trust",
+    "#character",
+    "#highachievers",
+    "#ethics",
+    "#shorts",
+    "#fyp"
+  ]
+}
