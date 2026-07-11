@@ -1,0 +1,67 @@
+{
+  "title": "Facing Rejection: The True Path",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Rejection can hurt, but it's a stepping stone to growth.",
+      "hook_top": "REJECTION IS A STEP FORWARD",
+      "query": "person feeling rejected",
+      "query2": "somber reflection"
+    },
+    {
+      "role": "fact",
+      "text": "Successful people embrace rejection, learning from it to move forward.",
+      "query": "entrepreneur facing failure",
+      "query2": "trying again after setback",
+      "chips": [
+        {
+          "t": "LEARN FROM REJECTION",
+          "on": "rejection",
+          "style": "accent"
+        }
+      ],
+      "punch": "forward"
+    },
+    {
+      "role": "fact",
+      "text": "Facing rejection builds mental toughness, preparing you for future challenges.",
+      "query": "person in tough training",
+      "query2": "athlete pushing limits",
+      "chips": [
+        {
+          "t": "BUILD MENTAL TOUGHNESS",
+          "on": "rejection",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Each rejection is a lesson. Use them wisely.",
+      "query": "person reflecting after rejection",
+      "query2": "head down in thought",
+      "label": "REJECTION IS A TEACHER",
+      "sub": "embrace the lessons",
+      "label_on": "lessons",
+      "punch": "wisely"
+    },
+    {
+      "role": "cta",
+      "text": "Follow because discipline beats motivation.",
+      "query": "mountain climber reaching peak",
+      "query2": "successful summit view"
+    }
+  ],
+  "description": "Rejection is a stepping stone to growth. Follow for insights on embracing rejection as a teacher!",
+  "hashtags": [
+    "#rejection",
+    "#growth",
+    "#mentaltoughness",
+    "#selfimprovement",
+    "#success",
+    "#shorts",
+    "#fyp"
+  ]
+}
