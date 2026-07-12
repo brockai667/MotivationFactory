@@ -1,0 +1,67 @@
+{
+  "title": "Overcoming Self-Criticism",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Are you your own worst critic? Time to change that.",
+      "hook_top": "STOP THE SELFCRITIC",
+      "query": "person looking in mirror",
+      "query2": "person with thoughtful expression"
+    },
+    {
+      "role": "fact",
+      "text": "Many high achievers struggle with self-criticism, impacting performance.",
+      "query": "person doubting self",
+      "query2": "torch lighting up the dark",
+      "chips": [
+        {
+          "t": "IMPACTING PERFORMANCE",
+          "on": "self-criticism",
+          "style": "accent"
+        }
+      ],
+      "punch": "performance"
+    },
+    {
+      "role": "fact",
+      "text": "Recognize and challenge negative thoughts; it’s essential for mental toughness.",
+      "query": "person journaling thoughts",
+      "query2": "close-up of writing",
+      "chips": [
+        {
+          "t": "CHALLENGE NEGATIVE THOUG",
+          "on": "negative thoughts",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Self-compassion builds resilience and fosters growth.",
+      "query": "person meditating peacefully",
+      "query2": "calming nature scene",
+      "label": "SELF-COMPASSION IS KEY",
+      "sub": "for mental strength",
+      "label_on": "self-compassion",
+      "punch": "growth"
+    },
+    {
+      "role": "cta",
+      "text": "Follow because discipline beats motivation.",
+      "query": "sunrise with horizon",
+      "query2": "calming ocean view"
+    }
+  ],
+  "description": "Change the narrative; don’t be your worst critic. Follow for techniques on building self-compassion!",
+  "hashtags": [
+    "#selfcriticism",
+    "#selfcompassion",
+    "#mentalhealth",
+    "#resilience",
+    "#mindset",
+    "#shorts",
+    "#fyp"
+  ]
+}

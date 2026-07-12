@@ -1,0 +1,67 @@
+{
+  "title": "Embrace the Hard Path",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Why do the hard things? They build your character.",
+      "hook_top": "HARD PATH BUILDS CHARACTER",
+      "query": "person hiking on tough terrain",
+      "query2": "challenging mountain trail"
+    },
+    {
+      "role": "fact",
+      "text": "Great achievers often seek challenges to grow and evolve.",
+      "query": "entrepreneur tackling obstacles",
+      "query2": "person overcoming barriers",
+      "chips": [
+        {
+          "t": "SEEKS CHALLENGES",
+          "on": "achievers",
+          "style": "accent"
+        }
+      ],
+      "punch": "evolve"
+    },
+    {
+      "role": "fact",
+      "text": "Overcoming hard challenges fosters resilience and mental toughness.",
+      "query": "athlete pushing through limits",
+      "query2": "person struggling but focused",
+      "chips": [
+        {
+          "t": "FOSTERS RESILIENCE",
+          "on": "challenges",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Each challenge faced is a lesson learned.",
+      "query": "person reflecting after climb",
+      "query2": "person pausing during hike",
+      "label": "CHALLENGES ARE LESSONS",
+      "sub": "learn and grow",
+      "label_on": "lessons",
+      "punch": "faced"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the mindset that gets it done.",
+      "query": "mountain summit view",
+      "query2": "panoramic mountain view"
+    }
+  ],
+  "description": "Embracing hard challenges builds strong character and resilience. Follow for encouragement on your journey!",
+  "hashtags": [
+    "#challenges",
+    "#characterbuilding",
+    "#resilience",
+    "#growth",
+    "#selfimprovement",
+    "#shorts",
+    "#fyp"
+  ]
+}
