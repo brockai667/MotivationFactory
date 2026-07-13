@@ -1,0 +1,67 @@
+{
+  "title": "Mastering Your Morning Routine",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Your morning sets the tone for your entire day.",
+      "hook_top": "MORNING ROUTINE MATTERS",
+      "query": "person waking up early",
+      "query2": "sunrise view from bed"
+    },
+    {
+      "role": "fact",
+      "text": "Morning routines boost productivity and set a focused mindset.",
+      "query": "person meditating in morning",
+      "query2": "productive workspace setup",
+      "chips": [
+        {
+          "t": "BOOST PRODUCTIVITY",
+          "on": "morning routines",
+          "style": "accent"
+        }
+      ],
+      "punch": "focused"
+    },
+    {
+      "role": "fact",
+      "text": "High performers invest time in intentional mornings, prioritizing wellness.",
+      "query": "person preparing a healthy breakfast",
+      "query2": "smoothie bowl preparation",
+      "chips": [
+        {
+          "t": "INTENTIONAL MORNINGS",
+          "on": "investment",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Consistency in mornings leads to long-term success.",
+      "query": "individual stretching outdoors at dawn",
+      "query2": "morning yoga practice",
+      "label": "CONSISTENCY IS KEY",
+      "sub": "for morning success",
+      "label_on": "mornings",
+      "punch": "long-term"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the mindset that gets it done.",
+      "query": "person enjoying breakfast",
+      "query2": "coffee and breakfast setup"
+    }
+  ],
+  "description": "Your morning routine shapes your day. Follow for tips on mastering your morning for success!",
+  "hashtags": [
+    "#morningroutine",
+    "#productivity",
+    "#success",
+    "#mindfulness",
+    "#selfimprovement",
+    "#shorts",
+    "#fyp"
+  ]
+}

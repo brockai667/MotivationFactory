@@ -1,0 +1,67 @@
+{
+  "title": "The Impact of Your Environment",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Your environment shapes your mindset. Choose wisely.",
+      "hook_top": "ENVIRONMENT SHAPES YOU",
+      "query": "person in crowded area",
+      "query2": "busy city streets"
+    },
+    {
+      "role": "fact",
+      "text": "Surrounding yourself with positive individuals enhances your growth.",
+      "query": "group of supportive friends",
+      "query2": "close friends interacting",
+      "chips": [
+        {
+          "t": "POSITIVE INDIVIDUALS",
+          "on": "environment",
+          "style": "accent"
+        }
+      ],
+      "punch": "growth"
+    },
+    {
+      "role": "fact",
+      "text": "Negative influences can drain your motivation and effectiveness.",
+      "query": "person feeling downcast",
+      "query2": "somber environment",
+      "chips": [
+        {
+          "t": "DRAIN YOUR ENERGY",
+          "on": "negative influences",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Choose to create a positive environment for success.",
+      "query": "person designing workspace",
+      "query2": "organized and creative workspace",
+      "label": "CREATE A POSITIVE SPACE",
+      "sub": "for your journey",
+      "label_on": "positive",
+      "punch": "success"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the mindset that gets it done.",
+      "query": "peaceful place in nature",
+      "query2": "serene landscape"
+    }
+  ],
+  "description": "Your environment plays a crucial role in your mindset. Follow for tips on enhancing your surroundings!",
+  "hashtags": [
+    "#environment",
+    "#mindset",
+    "#positivity",
+    "#selfgrowth",
+    "#motivation",
+    "#shorts",
+    "#fyp"
+  ]
+}
