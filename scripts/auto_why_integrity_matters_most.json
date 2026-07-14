@@ -1,0 +1,61 @@
+{
+  "title": "Why Integrity Matters Most",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Integrity means doing the right thing, even when no one is watching.",
+      "hook_top": "INTEGRITY THE HIDDEN KEY",
+      "query": "person helping others",
+      "query2": "community service activity"
+    },
+    {
+      "role": "fact",
+      "text": "Successful individuals prioritize integrity over short-term gains.",
+      "query": "business person making deal",
+      "query2": "business meeting trusted handshake",
+      "chips": [
+        {
+          "t": "LONG-TERM WINS",
+          "on": "integrity",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Building trust through integrity creates lasting relationships in business and life.",
+      "query": "people networking together",
+      "query2": "friends celebrating success",
+      "chips": []
+    },
+    {
+      "role": "callout",
+      "text": "Integrity Builds Trust.",
+      "query": "person helping elderly",
+      "query2": "friend helping another up",
+      "label": "TRUST BUILT OVER TIME",
+      "sub": "A priceless asset.",
+      "label_on": "integrity",
+      "punch": "priceless"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily fuel to keep going.",
+      "query": "sunset over city",
+      "query2": "person reflecting by the lake"
+    }
+  ],
+  "description": "Integrity is fundamental for true success and trust. Strengthen your character daily. Follow for daily discipline!",
+  "hashtags": [
+    "#integrity",
+    "#trust",
+    "#success",
+    "#discipline",
+    "#character",
+    "#highperformers",
+    "#shorts",
+    "#fyp"
+  ]
+}
