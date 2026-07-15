@@ -3488,5 +3488,395 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Why Tiny Promises Matter",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "The smallest promise you keep can redefine your self-image.",
+        "hook_top": "TINY PROMISES BIG CHANGES",
+        "query": "person tying shoelaces",
+        "query2": "close up on hands"
+      },
+      {
+        "role": "fact",
+        "text": "Research shows that consistency in small habits creates lasting change over time.",
+        "query": "person making bed",
+        "query2": "organized room",
+        "chips": [
+          {
+            "t": "LASTING CHANGE",
+            "on": "change",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Just two minutes a day towards a goal builds discipline and commitment.",
+        "query": "person reading book",
+        "query2": "someone exercising",
+        "chips": [
+          {
+            "t": "2 MINUTES A DAY",
+            "on": "minutes",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Small promises build trust in yourself.",
+        "query": "person journaling morning light",
+        "query2": "warm coffee cup",
+        "label": "BUILD TRUST",
+        "sub": "keep your commitments",
+        "label_on": "promises",
+        "punch": "trust"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the mindset that gets it done.",
+        "query": "inspiring landscape",
+        "query2": "sunrise over mountains"
+      }
+    ],
+    "description": "Tiny promises can dramatically shift your self-perception. Follow for daily discipline insights!",
+    "hashtags": [
+      "#selfdiscipline",
+      "#mindset",
+      "#habits",
+      "#selfimprovement",
+      "#stoicism",
+      "#motivation",
+      "#shorts"
+    ]
+  },
+  {
+    "title": "Break Your Comfort Zone",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Staying comfortable is actually the biggest risk you can take.",
+        "hook_top": "COMFORT IS RISKY",
+        "query": "person looking out window",
+        "query2": "man pondering"
+      },
+      {
+        "role": "fact",
+        "text": "Growth only happens outside of your comfort zone. Challenge yourself daily.",
+        "query": "person hiking mountain",
+        "query2": "rock climber",
+        "chips": [
+          {
+            "t": "GROWTH BEGINS HERE",
+            "on": "growth",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "High performers take calculated risks to expand their capabilities.",
+        "query": "athlete performing",
+        "query2": "gymnastic routine",
+        "chips": [
+          {
+            "t": "CALCULATED RISKS",
+            "on": "risks",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Every small challenge builds resilience.",
+        "query": "person facing fear",
+        "query2": "slight stress",
+        "label": "BUILD RESILIENCE",
+        "sub": "step into discomfort",
+        "label_on": "challenges",
+        "punch": "builds"
+      },
+      {
+        "role": "cta",
+        "text": "Follow because discipline beats motivation.",
+        "query": "person reaching top mountain",
+        "query2": "victorious athlete"
+      }
+    ],
+    "description": "Embracing discomfort leads to personal growth. Follow for strategies to elevate your discipline!",
+    "hashtags": [
+      "#comfortzone",
+      "#discipline",
+      "#mentalhealth",
+      "#selfgrowth",
+      "#motivation",
+      "#success",
+      "#shorts"
+    ]
+  },
+  {
+    "title": "Shatter the Myth of Inspiration",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Inspiration is overrated; discipline is what gets the job done.",
+        "hook_top": "DISCIPLINE NOT INSPIRATION",
+        "query": "person working late",
+        "query2": "dimly lit workspace"
+      },
+      {
+        "role": "fact",
+        "text": "Most successful people attribute their success to daily habits, not fleeting inspiration.",
+        "query": "successful people meeting",
+        "query2": "team collaboration",
+        "chips": [
+          {
+            "t": "DAILY HABITS",
+            "on": "habits",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Consistency in effort leads to significantly improved performance over time.",
+        "query": "sports training",
+        "query2": "intense athlete",
+        "chips": [
+          {
+            "t": "IMPROVED PERFORMANCE",
+            "on": "performance",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Focus on actions, not feelings.",
+        "query": "person making lists",
+        "query2": "focused work",
+        "label": "ACTION OVER FEELING",
+        "sub": "take deliberate steps",
+        "label_on": "focus",
+        "punch": "action"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're building a stronger you.",
+        "query": "person looking at goals",
+        "query2": "focused determination"
+      }
+    ],
+    "description": "Discipline trumps inspiration every time. Follow for practical strategies to build discipline!",
+    "hashtags": [
+      "#inspiration",
+      "#discipline",
+      "#success",
+      "#habits",
+      "#selfimprovement",
+      "#motivation",
+      "#shorts"
+    ]
+  },
+  {
+    "title": "Ditch the All-or-Nothing Mindset",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "The all-or-nothing mindset prevents progress; embrace the middle ground.",
+        "hook_top": "PROGRESS OVER PERFECTION",
+        "query": "person grappling with choices",
+        "query2": "confused individual"
+      },
+      {
+        "role": "fact",
+        "text": "Striving for 100% perfection often leads to paralysis and inaction.",
+        "query": "stacks of paper",
+        "query2": "cluttered workspace",
+        "chips": [
+          {
+            "t": "PRACTICE PROGRESS",
+            "on": "progress",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "High achievers focus on achievable milestones, not unattainable ideals.",
+        "query": "team celebrating small wins",
+        "query2": "happy group photo",
+        "chips": [
+          {
+            "t": "ACHIEVABLE MILESTONES",
+            "on": "milestones",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Small steps forward count just as much as giant leaps.",
+        "query": "person taking small steps",
+        "query2": "incremental progress",
+        "label": "SMALL STEPS MATTER",
+        "sub": "calm the perfectionism",
+        "label_on": "steps",
+        "punch": "count"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily fuel to keep going.",
+        "query": "person moving forward",
+        "query2": "person overcoming obstacle"
+      }
+    ],
+    "description": "Embrace small steps for consistent progress. Follow for insights on maintaining forward momentum!",
+    "hashtags": [
+      "#progress",
+      "#perfectionism",
+      "#discipline",
+      "#habits",
+      "#selfimprovement",
+      "#motivation",
+      "#shorts"
+    ]
+  },
+  {
+    "title": "Procrastination is the Enemy",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Procrastination is a thief of time and potential.",
+        "hook_top": "STOP PROCRASTINATING NOW",
+        "query": "person staring off into distance",
+        "query2": "distraction in work space"
+      },
+      {
+        "role": "fact",
+        "text": "Statistics show procrastination can seriously undermine productivity and success.",
+        "query": "calendar dates passing",
+        "query2": "slammed calendar",
+        "chips": [
+          {
+            "t": "UNMINE PRODUCTIVITY",
+            "on": "procrastination",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "High performers break tasks into smaller, manageable actions to avoid delay.",
+        "query": "person writing checklist",
+        "query2": "organizing tasks",
+        "chips": [
+          {
+            "t": "MANAGEABLE ACTIONS",
+            "on": "actions",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Taking action, no matter how small, beats inaction.",
+        "query": "person making the first step",
+        "query2": "person preparing to move",
+        "label": "ACTION OVER INACTION",
+        "sub": "start today",
+        "label_on": "action",
+        "punch": "action"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for your daily dose of discipline.",
+        "query": "victorious person finishing task",
+        "query2": "successful completion"
+      }
+    ],
+    "description": "Procrastination robs you of potential. Follow for techniques to conquer procrastination!",
+    "hashtags": [
+      "#procrastination",
+      "#productivity",
+      "#discipline",
+      "#success",
+      "#selfimprovement",
+      "#motivation",
+      "#shorts"
+    ]
+  },
+  {
+    "title": "Consistency is Key to Success",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Without consistency, ambition is just a dream.",
+        "hook_top": "CONSISTENCY FUELS SUCCESS",
+        "query": "person planning goals",
+        "query2": "ambitious individual"
+      },
+      {
+        "role": "fact",
+        "text": "Studies reveal that regular effort yields long-term results.",
+        "query": "person studying daily",
+        "query2": "dedicated student",
+        "chips": [
+          {
+            "t": "LONG-TERM RESULTS",
+            "on": "results",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "The most successful individuals adhere to consistent routines daily.",
+        "query": "successful person daily routine",
+        "query2": "a day in the life",
+        "chips": []
+      },
+      {
+        "role": "callout",
+        "text": "Consistency strengthens habits, helping you stay on track.",
+        "query": "person working out regularly",
+        "query2": "training routine",
+        "label": "STRENGTHEN HABITS",
+        "sub": "stick to the routine",
+        "label_on": "consistency",
+        "punch": "strengthens"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the mindset that gets it done.",
+        "query": "person inspiring others",
+        "query2": "motivational speaker"
+      }
+    ],
+    "description": "Consistency is what transforms ambition into achievement. Follow for daily tips to enhance your discipline!",
+    "hashtags": [
+      "#consistency",
+      "#success",
+      "#discipline",
+      "#habits",
+      "#selfimprovement",
+      "#motivation",
+      "#shorts"
+    ]
   }
 ]

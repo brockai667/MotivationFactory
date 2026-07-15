@@ -1,0 +1,60 @@
+{
+  "title": "The Truth About Tiredness",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Constant tiredness can be cured by discipline over excuses.",
+      "hook_top": "DISCOURAGE EXCUSES",
+      "query": "person waking up early",
+      "query2": "alarm clock ringing"
+    },
+    {
+      "role": "fact",
+      "text": "High performers prioritize sleep and recovery. No shortcuts here.",
+      "query": "person sleeping soundly",
+      "query2": "peaceful sleeping environment",
+      "chips": [
+        {
+          "t": "SLEEP IS ESSENTIAL",
+          "on": "sleep",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Tiredness often stems from poor habits, not lack of time.",
+      "query": "messy workspace",
+      "query2": "frustrated student studying",
+      "chips": []
+    },
+    {
+      "role": "callout",
+      "text": "Prioritize Recovery.",
+      "query": "person resting on couch",
+      "query2": "nature retreat relaxation",
+      "label": "SLEEP, NO COMPROMISE",
+      "sub": "Recharge to perform.",
+      "label_on": "recovery",
+      "punch": "perform"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're building a stronger you.",
+      "query": "morning coffee ritual",
+      "query2": "sunrise with coffee"
+    }
+  ],
+  "description": "Your tiredness may stem from poor habits, not time. Prioritize recovery to thrive. Follow for daily discipline!",
+  "hashtags": [
+    "#tiredness",
+    "#recovery",
+    "#habits",
+    "#selfimprovement",
+    "#mentalstrength",
+    "#shorts",
+    "#fyp"
+  ]
+}

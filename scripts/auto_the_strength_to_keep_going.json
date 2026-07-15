@@ -1,0 +1,67 @@
+{
+  "title": "The Strength to Keep Going",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "The moments you want to quit are when your strength grows.",
+      "hook_top": "STRENGTH GROWS IN STRUGGLE",
+      "query": "athlete pushing limits",
+      "query2": "runner on challenging trail"
+    },
+    {
+      "role": "fact",
+      "text": "Setbacks often pave the way for monumental comebacks.",
+      "query": "person training harder after loss",
+      "query2": "team huddling after loss",
+      "chips": [
+        {
+          "t": "SETBACKS CREATE COMEBACK",
+          "on": "setbacks",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Resilience is built through challenging experiences and embracing fear.",
+      "query": "person climbing mountain",
+      "query2": "person facing storm",
+      "chips": [
+        {
+          "t": "EMBRACE THE CHALLENGE",
+          "on": "resilience",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Strength Through Adversity.",
+      "query": "person confronting fear",
+      "query2": "deep sea diver exploring",
+      "label": "GROWTH THROUGH STRUGGLE",
+      "sub": "Expect challenges ahead.",
+      "label_on": "strength",
+      "punch": "challenges"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're building a stronger you.",
+      "query": "person overcoming obstacle",
+      "query2": "person celebrating victory"
+    }
+  ],
+  "description": "Your strength develops most during struggle. Embrace adversity for growth. Follow for daily discipline!",
+  "hashtags": [
+    "#strength",
+    "#resilience",
+    "#adversity",
+    "#discipline",
+    "#mentalstrength",
+    "#growth",
+    "#shorts",
+    "#fyp"
+  ]
+}
