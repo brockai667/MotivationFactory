@@ -1,0 +1,61 @@
+{
+  "title": "The Power of Small Decisions",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Every small decision can lead to significant changes.",
+      "hook_top": "SMALL DECISIONS MATTER",
+      "query": "person journaling",
+      "query2": "close-up of decision-making"
+    },
+    {
+      "role": "fact",
+      "text": "Consistent small efforts compound into life-altering habits.",
+      "query": "person exercising regularly",
+      "query2": "daily meal prep",
+      "chips": [
+        {
+          "t": "COMPOUND EFFECT",
+          "on": "consistent",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "High achievers focus on the small decisions that align with their goals.",
+      "query": "person setting goals",
+      "query2": "person planning daily tasks",
+      "chips": []
+    },
+    {
+      "role": "callout",
+      "text": "Focus on the Small Things.",
+      "query": "person completing a checklist",
+      "query2": "rewarding oneself after tasks",
+      "label": "SMALL EFFORTS, BIG OUTCOMES",
+      "sub": "Every choice counts.",
+      "label_on": "decisions",
+      "punch": "counts"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily fuel to keep going.",
+      "query": "person holding a trophy",
+      "query2": "celebration moment"
+    }
+  ],
+  "description": "Small decisions lead to significant life changes. Focus on your choices daily. Follow for daily discipline!",
+  "hashtags": [
+    "#decisions",
+    "#habits",
+    "#success",
+    "#discipline",
+    "#selfimprovement",
+    "#growth",
+    "#shorts",
+    "#fyp"
+  ]
+}

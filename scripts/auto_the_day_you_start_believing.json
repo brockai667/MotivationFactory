@@ -1,0 +1,67 @@
+{
+  "title": "The Day You Start Believing",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "The day you start believing in yourself is the day change begins.",
+      "hook_top": "CHANGE BEGINS WITH BELIEF",
+      "query": "sunrise person looking out",
+      "query2": "mountain top view"
+    },
+    {
+      "role": "fact",
+      "text": "Belief strengthens resilience. High achievers face failures with a growth mindset.",
+      "query": "athlete falling down",
+      "query2": "person overcoming challenge",
+      "chips": [
+        {
+          "t": "STRENGTHENS RESILIENCE",
+          "on": "belief",
+          "style": "accent"
+        }
+      ],
+      "punch": "growth"
+    },
+    {
+      "role": "fact",
+      "text": "Studies show that positive affirmations can improve performance in high-pressure situations.",
+      "query": "person practicing affirmations",
+      "query2": "person smiling confidently",
+      "chips": [
+        {
+          "t": "IMPROVE PERFORMANCE",
+          "on": "affirmations",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Believe first, then achieve. Your mindset will shape your journey.",
+      "query": "road leading into horizon",
+      "query2": "running on a forest path",
+      "label": "BELIEVE TO ACHIEVE",
+      "sub": "mindset shapes your journey",
+      "label_on": "mindset",
+      "punch": "shape"
+    },
+    {
+      "role": "cta",
+      "text": "Follow because discipline beats motivation.",
+      "query": "person silhouetted against sunset",
+      "query2": "city skyline at dusk"
+    }
+  ],
+  "description": "Belief is the catalyst for change. Strengthen your mindset to elevate your journey! Follow to explore the power of belief.",
+  "hashtags": [
+    "#mindset",
+    "#belief",
+    "#selfimprovement",
+    "#resilience",
+    "#growthmindset",
+    "#shorts",
+    "#fyp"
+  ]
+}
