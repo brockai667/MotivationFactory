@@ -1,0 +1,67 @@
+{
+  "title": "Integrity is Always Tested",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Integrity often gets tested when no one is watching. How do you respond?",
+      "hook_top": "INTEGRITY GETS TESTED",
+      "query": "person facing dilemma",
+      "query2": "person in empty room"
+    },
+    {
+      "role": "fact",
+      "text": "High performers consistently act according to their values, regardless of circumstances.",
+      "query": "athlete making tough choice",
+      "query2": "person reflecting outdoors",
+      "chips": [
+        {
+          "t": "ACT ON VALUES",
+          "on": "values",
+          "style": "accent"
+        }
+      ],
+      "punch": "regardless"
+    },
+    {
+      "role": "fact",
+      "text": "Research shows that integrity in action leads to greater trust and opportunity.",
+      "query": "business handshake",
+      "query2": "teamwork meeting",
+      "chips": [
+        {
+          "t": "GREATER TRUST",
+          "on": "integrity",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Every decision plants a seed. Keep integrity at the forefront.",
+      "query": "close-up of hands planting seeds",
+      "query2": "beautiful garden",
+      "label": "KEEP INTEGRITY FRONT",
+      "sub": "every decision counts",
+      "label_on": "decision",
+      "punch": "counts"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're building a stronger you.",
+      "query": "person looking thoughtfully",
+      "query2": "person smiling with confidence"
+    }
+  ],
+  "description": "Integrity is tested in silence. The choices you make today shape your future. Follow to learn how integrity shapes your life.",
+  "hashtags": [
+    "#integrity",
+    "#values",
+    "#trust",
+    "#selfimprovement",
+    "#leadership",
+    "#shorts",
+    "#fyp"
+  ]
+}

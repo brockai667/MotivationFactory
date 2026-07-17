@@ -1,0 +1,67 @@
+{
+  "title": "Why Comfort Zones Kill Potential",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Comfort zones are the silent killers of potential. Break free!",
+      "hook_top": "COMFORT ZONES KILL POTENTIAL",
+      "query": "person relaxing in comfort",
+      "query2": "farmer looking at crops"
+    },
+    {
+      "role": "fact",
+      "text": "Studies suggest that stepping outside comfort zones leads to personal growth and success.",
+      "query": "person trying new activity",
+      "query2": "person volunteering",
+      "chips": [
+        {
+          "t": "LEADS TO GROWTH",
+          "on": "zones",
+          "style": "accent"
+        }
+      ],
+      "punch": "success"
+    },
+    {
+      "role": "fact",
+      "text": "High achievers continually seek discomfort to foster resilience and adaptation.",
+      "query": "mountain climber hardship",
+      "query2": "person overcoming obstacle",
+      "chips": [
+        {
+          "t": "SEEK DISCOMFORT",
+          "on": "discomfort",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Growth happens when the challenge outweighs your comfort. Embrace it.",
+      "query": "person running uphill",
+      "query2": "climbing rocky trail",
+      "label": "EMBRACE DISCOMFORT",
+      "sub": "growth is on the other side",
+      "label_on": "challenge",
+      "punch": "embrace"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily fuel to keep going.",
+      "query": "opening door to new path",
+      "query2": "light breaking through clouds"
+    }
+  ],
+  "description": "Comfort zones suffocate potential. Personal growth happens when you embrace discomfort. Follow for insights!",
+  "hashtags": [
+    "#comfortzone",
+    "#growth",
+    "#resilience",
+    "#mindset",
+    "#selfimprovement",
+    "#shorts",
+    "#fyp"
+  ]
+}

@@ -3878,5 +3878,273 @@
       "#motivation",
       "#shorts"
     ]
+  },
+  {
+    "title": "Success is a Series of Tiny Wins",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Your day can change with just one tiny win.",
+        "hook_top": "TINY WINS CREATE SUCCESS",
+        "query": "person celebrating small victory",
+        "query2": "happy person with trophy"
+      },
+      {
+        "role": "fact",
+        "text": "Focusing on small victories creates momentum. This leads to larger achievements over time.",
+        "query": "person crossing finish line",
+        "query2": "person climbing staircase",
+        "chips": [
+          {
+            "t": "MOMENTUM MATTERS",
+            "on": "momentum",
+            "style": "accent"
+          }
+        ],
+        "punch": "time"
+      },
+      {
+        "role": "fact",
+        "text": "High performers often win by breaking tasks down into manageable steps.",
+        "query": "person organizing tasks",
+        "query2": "team brainstorming session",
+        "chips": [
+          {
+            "t": "MANAGEABLE STEPS",
+            "on": "manageable",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Success is a journey, built on countless small strides.",
+        "query": "road stretching into distance",
+        "query2": "long path through a forest",
+        "label": "BUILD SUCCESS",
+        "sub": "one step at a time",
+        "label_on": "success",
+        "punch": "strides"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for daily fuel to keep going.",
+        "query": "sunrise over mountains",
+        "query2": "person standing at cliff edge"
+      }
+    ],
+    "description": "Success isn't an event; it's a collection of small wins. Start with one today! Follow for daily inspiration!",
+    "hashtags": [
+      "#success",
+      "#motivation",
+      "#mindset",
+      "#highperformance",
+      "#discipline",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Why Your Inner Critic is Underwhelming",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Your inner critic might be underpaid and overrated.",
+        "hook_top": "IGNORE THE INNER CRITIC",
+        "query": "dramatic reflection in mirror",
+        "query2": "silhouette of a person"
+      },
+      {
+        "role": "fact",
+        "text": "Studies show self-criticism leads to lower performance and happiness; self-compassion boosts both.",
+        "query": "person showing self-love",
+        "query2": "group supporting each other",
+        "chips": [
+          {
+            "t": "SELF-COMPASSION MATTERS",
+            "on": "self-compassion",
+            "style": "accent"
+          }
+        ],
+        "punch": "boosts"
+      },
+      {
+        "role": "fact",
+        "text": "High performers often silence their inner critic to sustain motivation and focus.",
+        "query": "person focused on task",
+        "query2": "athlete training with determination",
+        "chips": [
+          {
+            "t": "FOCUS ON THE GOAL",
+            "on": "goal",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Challenge that inner voice; it's not always right.",
+        "query": "person journaling with intent",
+        "query2": "person in thoughtful pose",
+        "label": "CHALLENGE THE CRITIC",
+        "sub": "reframe your mindset",
+        "label_on": "voice",
+        "punch": "reframe"
+      },
+      {
+        "role": "cta",
+        "text": "Follow because discipline beats motivation.",
+        "query": "person smiling confidently",
+        "query2": "city skyline at sunset"
+      }
+    ],
+    "description": "Your inner critic may dull your shine—embrace self-compassion instead! Follow for daily mindset shifts and strategies.",
+    "hashtags": [
+      "#selflove",
+      "#mindset",
+      "#motivation",
+      "#discipline",
+      "#highperformance",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Embrace Discomfort to Grow",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Growth only happens outside your comfort zone.",
+        "hook_top": "DISCOMFORT GROWTH",
+        "query": "person stepping off a cliff",
+        "query2": "runner on a challenging path"
+      },
+      {
+        "role": "fact",
+        "text": "Studies show that challenging experiences lead to greater resilience and adaptability over time.",
+        "query": "person facing tough climb",
+        "query2": "person lifting weights",
+        "chips": [
+          {
+            "t": "CHALLENGE BUILDS RESILIE",
+            "on": "challenge",
+            "style": "accent"
+          }
+        ],
+        "punch": "time"
+      },
+      {
+        "role": "fact",
+        "text": "High performers actively seek discomfort—they see it as an opportunity, not a threat.",
+        "query": "person engaging in difficult task",
+        "query2": "team working through a challenge",
+        "chips": [
+          {
+            "t": "OPPORTUNITY IN CHALLENGE",
+            "on": "opportunity",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Discomfort is a tool for growth; embrace it!",
+        "query": "person hiking on a difficult trail",
+        "query2": "person conquering mountain",
+        "label": "GROWTH THROUGH DISCOMFORT",
+        "sub": "embrace your challenges",
+        "label_on": "discomfort",
+        "punch": "tool"
+      },
+      {
+        "role": "cta",
+        "text": "Follow because discipline beats motivation.",
+        "query": "person standing on mountain peak",
+        "query2": "sunrise over a horizon"
+      }
+    ],
+    "description": "True growth happens when you step outside your comfort zone. Embrace the discomfort for personal growth! Follow for tips!",
+    "hashtags": [
+      "#growth",
+      "#challenge",
+      "#mindset",
+      "#discipline",
+      "#highperformance",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "The Truth About Action and Commitment",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Actions without commitment lead nowhere.",
+        "hook_top": "COMMITMENT DRIVES ACTION",
+        "query": "person contemplating next steps",
+        "query2": "group discussing plans"
+      },
+      {
+        "role": "fact",
+        "text": "High performers commit to their actions, allowing them to progress steadily toward their goals.",
+        "query": "person writing goals on board",
+        "query2": "team collaboratively working",
+        "chips": [
+          {
+            "t": "COMMITMENT IS KEY",
+            "on": "commitment",
+            "style": "accent"
+          }
+        ],
+        "punch": "progress"
+      },
+      {
+        "role": "fact",
+        "text": "Real results come when actions are paired with a strong commitment to follow through.",
+        "query": "person reaching a goal",
+        "query2": "athlete celebrating victory",
+        "chips": [
+          {
+            "t": "RESULTS = ACTION + COMMI",
+            "on": "results",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Decide to commit to your actions and watch how it transforms your journey.",
+        "query": "person setting intentions",
+        "query2": "inspiring sunrise scene",
+        "label": "COMMIT TO ACTION",
+        "sub": "watch the transformation",
+        "label_on": "commit",
+        "punch": "transforms"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the mindset that gets it done.",
+        "query": "person crossing finish line",
+        "query2": "victorious moment shared"
+      }
+    ],
+    "description": "Commitment fuels your actions toward success. Learn how to harness this power! Follow for tools to achieve your goals!",
+    "hashtags": [
+      "#commitment",
+      "#action",
+      "#motivation",
+      "#success",
+      "#discipline",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
