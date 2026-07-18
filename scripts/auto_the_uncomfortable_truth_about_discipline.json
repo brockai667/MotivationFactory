@@ -1,0 +1,68 @@
+{
+  "title": "The Uncomfortable Truth About Discipline",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "The truth: discipline often feels uncomfortable. Get used to it.",
+      "hook_top": "GET USED TO DISCOMFORT",
+      "query": "person training hard gym",
+      "query2": "athlete pushing limits"
+    },
+    {
+      "role": "fact",
+      "text": "Discipline isn’t easy; it’s developed through challenges and resistance.",
+      "query": "bodybuilder lifting weights",
+      "query2": "intense workout gym",
+      "chips": [
+        {
+          "t": "THROUGH CHALLENGES",
+          "on": "developed",
+          "style": "accent"
+        }
+      ],
+      "punch": "developed"
+    },
+    {
+      "role": "fact",
+      "text": "Discipline is like a muscle; the more you use it, the stronger it gets.",
+      "query": "weightlifting close-up",
+      "query2": "person running uphill",
+      "chips": [
+        {
+          "t": "LIKE A MUSCLE",
+          "on": "muscle",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "It’s okay to struggle. Embrace the process.",
+      "query": "person jogging in rain",
+      "query2": "solitary runner forest",
+      "label": "EMBRACE THE STRUGGLE",
+      "sub": "growth happens here",
+      "label_on": "struggle",
+      "punch": "embrace"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the mindset that gets it done.",
+      "query": "mountain climber triumph",
+      "query2": "person achieving a goal"
+    }
+  ],
+  "description": "Discipline is uncomfortable, but that’s where growth happens. Follow for honest lessons on discipline!",
+  "hashtags": [
+    "#discipline",
+    "#selfimprovement",
+    "#mentalstrength",
+    "#motivation",
+    "#stoicism",
+    "#success",
+    "#shorts",
+    "#fyp"
+  ]
+}

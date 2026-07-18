@@ -1,0 +1,67 @@
+{
+  "title": "The Smallest Promise Changes Everything",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "The smallest promise you keep can reshape your self-identity.",
+      "hook_top": "SIMPLE PROMISES MATTER",
+      "query": "person journaling",
+      "query2": "small plant growing"
+    },
+    {
+      "role": "fact",
+      "text": "Consistent small actions lead to lasting change. One promise at a time.",
+      "query": "person doing small task",
+      "query2": "hands planting seeds",
+      "chips": [
+        {
+          "t": "LASTING CHANGE",
+          "on": "actions",
+          "style": "accent"
+        }
+      ],
+      "punch": "time"
+    },
+    {
+      "role": "fact",
+      "text": "High performers attribute their success to their daily commitments, however small.",
+      "query": "athlete's daily routine",
+      "query2": "student studying quietly",
+      "chips": [
+        {
+          "t": "DAILY COMMITMENTS",
+          "on": "success",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Your self-worth is built on the promises you keep to yourself. Honor them.",
+      "query": "person looking in mirror",
+      "query2": "person encouraging friend",
+      "label": "HONOR YOUR PROMISES",
+      "sub": "they shape your worth",
+      "label_on": "self-worth",
+      "punch": "builds"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily fuel to keep going.",
+      "query": "person looking determined",
+      "query2": "sunrise over fields"
+    }
+  ],
+  "description": "Small promises lead to big changes in self-identity. Each commitment shapes your worth. Follow for insights on the power of promises!",
+  "hashtags": [
+    "#promises",
+    "#selfworth",
+    "#commitment",
+    "#personaldevelopment",
+    "#selfimprovement",
+    "#shorts",
+    "#fyp"
+  ]
+}
