@@ -24,7 +24,7 @@ BASE = os.environ.get("MODELS_BASE_URL", "https://models.github.ai/inference")
 TOKEN = os.environ.get("MODELS_TOKEN") or os.environ.get("GITHUB_TOKEN")
 
 TREND_SUBREDDITS = ['GetMotivated', 'selfimprovement', 'DecidingToBeBetter', 'getdisciplined']
-TREND_YT_QUERIES = ['motivation', 'self discipline', 'stoic mindset']
+TREND_YT_QUERIES = ['self discipline', 'atomic habits', 'transformation story', 'stop procrastinating']
 
 SYSTEM = ("You are a scriptwriter for a short-form brand about discipline, consistency and mental toughness (stoic principles, habits of high performers). "
           "ACCURACY IS CRITICAL: use ONLY widely-documented, verifiable facts. NEVER invent or guess "
@@ -112,6 +112,13 @@ CTAS = [
 ]
 
 
+
+PERFORMANCE = (
+    "\nPERFORMANCE DATA (real results - obey this, it decides reach):\n"
+    "- WHAT PERFORMS (strongly prefer these): concrete transformations with real numbers (weight, money, skill), specific daily habits and routines, relatable struggle-to-result stories, actionable discipline tactics.\n"
+    "- WHAT KILLS REACH (avoid): generic motivational quotes and platitudes, vague 'believe in yourself' filler, and empty hustle-culture slogans.\n"
+)
+
 def build_prompt(n, existing_titles, trending=None):
     trend_block = ""
     if trending:
@@ -153,7 +160,7 @@ def build_prompt(n, existing_titles, trending=None):
         f"- Do NOT reuse any of these existing titles: {existing_titles}\n"
         "- Do NOT repeat the same SUBJECT or fact as any existing title above, even reworded. Every "
         "topic must be a genuinely DIFFERENT idea.\n"
-        + trend_block +
+        + PERFORMANCE + trend_block +
         "Return ONLY the JSON array."
     )
 
