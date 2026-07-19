@@ -1,0 +1,68 @@
+{
+  "title": "Why You Can't Wait to Change",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Stop waiting for the perfect moment to change your life.",
+      "hook_top": "CHANGE MUST START NOW",
+      "query": "person pondering future",
+      "query2": "watch ticking"
+    },
+    {
+      "role": "fact",
+      "text": "The best time to start is now, not later.",
+      "query": "person writing goals",
+      "query2": "calendar flipping",
+      "chips": [
+        {
+          "t": "START NOW",
+          "on": "best time",
+          "style": "accent"
+        }
+      ],
+      "punch": "now"
+    },
+    {
+      "role": "fact",
+      "text": "High achievers don’t wait; they take action immediately.",
+      "query": "athlete preparing for competition",
+      "query2": "students studying hard",
+      "chips": [
+        {
+          "t": "TAKE ACTION",
+          "on": "achievers",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Make a commitment today; your future self will thank you.",
+      "query": "person signing commitment",
+      "query2": "handshake deal",
+      "label": "COMMIT TO ACTION",
+      "sub": "your future awaits",
+      "label_on": "commitment",
+      "punch": "thank"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're building a stronger you.",
+      "query": "steps forward pathway",
+      "query2": "rising sun on horizon"
+    }
+  ],
+  "description": "Don't wait for the perfect moment; start now! Follow for constant reminders to take action.",
+  "hashtags": [
+    "#discipline",
+    "#action",
+    "#motivation",
+    "#selfimprovement",
+    "#mindset",
+    "#success",
+    "#shorts",
+    "#fyp"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "How Small Wins Build Discipline",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "What’s one small win that changed everything for you?",
+      "hook_top": "SMALL WINS MATTER",
+      "query": "person completing small task",
+      "query2": "organizing desk"
+    },
+    {
+      "role": "fact",
+      "text": "Small, consistent actions create lasting change over time.",
+      "query": "person setting daily goals",
+      "query2": "small daily habits",
+      "chips": [
+        {
+          "t": "LASTING CHANGE",
+          "on": "create",
+          "style": "accent"
+        }
+      ],
+      "punch": "create"
+    },
+    {
+      "role": "fact",
+      "text": "High performers celebrate small victories as a key habit.",
+      "query": "athlete celebrating",
+      "query2": "person happy moment",
+      "chips": [
+        {
+          "t": "CELEBRATE VICTORIES",
+          "on": "victories",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Each small win reinforces your commitment to the journey.",
+      "query": "jogger running in park",
+      "query2": "person climbing stairs",
+      "label": "COMMIT TO THE JOURNEY",
+      "sub": "it’s the way forward",
+      "label_on": "commitment",
+      "punch": "journey"
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're building a stronger you.",
+      "query": "person reaching peak",
+      "query2": "mountains sunrise"
+    }
+  ],
+  "description": "Every small win adds up; it’s time to celebrate them. Follow for more insights on building discipline!",
+  "hashtags": [
+    "#discipline",
+    "#smallwins",
+    "#success",
+    "#motivation",
+    "#mindset",
+    "#selfimprovement",
+    "#shorts",
+    "#fyp"
+  ]
+}

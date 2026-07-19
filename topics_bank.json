@@ -4146,5 +4146,199 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "From 0 to 10K: The Journey",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "I couldn't run for two minutes. Now I conquer 10K runs!",
+        "hook_top": "TRANSFORMING YOUR LIMITS",
+        "query": "person jogging park",
+        "query2": "running shoes close-up"
+      },
+      {
+        "role": "fact",
+        "text": "Start with a goal that's just out of reach. It bridges effort and achievement.",
+        "query": "runner on track",
+        "query2": "set running goals",
+        "chips": [
+          {
+            "t": "BRIDGE EFFORT & ACHIEVEM",
+            "on": "goal",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Each step forward emboldens your discipline. Progress builds its own momentum.",
+        "query": "person running uphill",
+        "query2": "runner pushing through",
+        "chips": [
+          {
+            "t": "PROGRESS BUILDS",
+            "on": "momentum",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Start small, grow strong. Discipline grows from small, consistent wins.",
+        "query": "person tying shoes",
+        "query2": "writing goals planning",
+        "label": "GROW STRONG",
+        "sub": "from small, consistent wins",
+        "label_on": "discipline",
+        "punch": "grows"
+      },
+      {
+        "role": "cta",
+        "text": "Follow because discipline beats motivation.",
+        "query": "sunrise over cityscape",
+        "query2": "mountain peaks silhouette"
+      }
+    ],
+    "description": "The journey from struggling to running 10K is about baby steps. Small wins lead to big results. Follow for more transformative discipline!",
+    "hashtags": [
+      "#transformation",
+      "#running",
+      "#discipline",
+      "#mindset",
+      "#selfimprovement",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "Restarting Is Not Failure",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "Starting over isn't failure; it's your chance to rebuild.",
+        "hook_top": "REBUILD DON'T RESIGN",
+        "query": "person planning",
+        "query2": "notebook and pen"
+      },
+      {
+        "role": "fact",
+        "text": "Many successful people faced setbacks before thriving. Resilience is key.",
+        "query": "business meeting discussion",
+        "query2": "person brainstorming",
+        "chips": [
+          {
+            "t": "RESILIENCE IS KEY",
+            "on": "resilience",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Each restart refines your goals. Success grows from thoughtful adjustments.",
+        "query": "person adjusting plan",
+        "query2": "map planning changes",
+        "chips": [
+          {
+            "t": "REFINES GOALS",
+            "on": "restart",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Focus on progress, not perfection. Small steps lead to big changes.",
+        "query": "person taking a step",
+        "query2": "footsteps in sand",
+        "label": "PROGRESS OVER PERFECTION",
+        "sub": "small steps matter",
+        "label_on": "progress",
+        "punch": "changes"
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're building a stronger you.",
+        "query": "mountain hike sunrise",
+        "query2": "scenic overlook"
+      }
+    ],
+    "description": "Restarting is a powerful chance to refine your journey, not a sign of failure. Small steps lead to big changes. Follow for courage to restart!",
+    "hashtags": [
+      "#resilience",
+      "#restart",
+      "#mindset",
+      "#selfimprovement",
+      "#motivation",
+      "#shorts",
+      "#fyp"
+    ]
+  },
+  {
+    "title": "You Don't Need to Explain Yourself",
+    "place": "",
+    "country": "",
+    "scenes": [
+      {
+        "role": "hook",
+        "text": "You don’t owe anyone an explanation for your choices.",
+        "hook_top": "YOUR CHOICES ARE YOUR OWN",
+        "query": "person walking confidently",
+        "query2": "individual with purpose"
+      },
+      {
+        "role": "fact",
+        "text": "High performers focus on their goals, ignoring external validation.",
+        "query": "focused athlete training",
+        "query2": "person not listening to critics",
+        "chips": [
+          {
+            "t": "IGNORE EXTERNAL VALIDATI",
+            "on": "goals",
+            "style": "accent"
+          }
+        ]
+      },
+      {
+        "role": "fact",
+        "text": "Freedom from judgment propels creativity and discipline forward.",
+        "query": "artist creating",
+        "query2": "innovative ideas",
+        "chips": [
+          {
+            "t": "FREEDOM PROPULSES",
+            "on": "creativity",
+            "style": "white"
+          }
+        ]
+      },
+      {
+        "role": "callout",
+        "text": "Stand firm in your decisions; they shape your future.",
+        "query": "person standing tall",
+        "query2": "confident individual"
+      },
+      {
+        "role": "cta",
+        "text": "Follow for your daily dose of discipline.",
+        "query": "sunrise city skyline",
+        "query2": "person in nature"
+      }
+    ],
+    "description": "Your choices belong to you, not others. By focusing on your goals, you fuel your discipline and creativity. Follow for more empowering insights!",
+    "hashtags": [
+      "#empowerment",
+      "#mindset",
+      "#selfdiscovery",
+      "#discipline",
+      "#creativity",
+      "#shorts",
+      "#fyp"
+    ]
   }
 ]
