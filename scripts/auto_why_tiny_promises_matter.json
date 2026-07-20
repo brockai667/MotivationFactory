@@ -1,0 +1,66 @@
+{
+  "title": "Why Tiny Promises Matter",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "The smallest promise you keep can redefine your self-image.",
+      "hook_top": "TINY PROMISES BIG CHANGES",
+      "query": "person tying shoelaces",
+      "query2": "close up on hands"
+    },
+    {
+      "role": "fact",
+      "text": "Research shows that consistency in small habits creates lasting change over time.",
+      "query": "person making bed",
+      "query2": "organized room",
+      "chips": [
+        {
+          "t": "LASTING CHANGE",
+          "on": "change",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Just two minutes a day towards a goal builds discipline and commitment.",
+      "query": "person reading book",
+      "query2": "someone exercising",
+      "chips": [
+        {
+          "t": "2 MINUTES A DAY",
+          "on": "minutes",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Small promises build trust in yourself.",
+      "query": "person journaling morning light",
+      "query2": "warm coffee cup",
+      "label": "BUILD TRUST",
+      "sub": "keep your commitments",
+      "label_on": "promises",
+      "punch": "trust"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the mindset that gets it done.",
+      "query": "inspiring landscape",
+      "query2": "sunrise over mountains"
+    }
+  ],
+  "description": "Tiny promises can dramatically shift your self-perception. Follow for daily discipline insights!",
+  "hashtags": [
+    "#selfdiscipline",
+    "#mindset",
+    "#habits",
+    "#selfimprovement",
+    "#stoicism",
+    "#motivation",
+    "#shorts"
+  ]
+}

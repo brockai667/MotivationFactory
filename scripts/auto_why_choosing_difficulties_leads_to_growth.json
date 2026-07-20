@@ -1,0 +1,68 @@
+{
+  "title": "Why Choosing Difficulties Leads to Growth",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "Choosing discomfort is the path to real growth.",
+      "hook_top": "DISCOMFORT YIELDS GROWTH",
+      "query": "person hiking rocky path",
+      "query2": "climber on steep cliff"
+    },
+    {
+      "role": "fact",
+      "text": "Growth happens when you step outside your comfort zone.",
+      "query": "person speaking publicly",
+      "query2": "team brainstorming",
+      "chips": [
+        {
+          "t": "OUTSIDE COMFORT ZONE",
+          "on": "step",
+          "style": "accent"
+        }
+      ],
+      "punch": "step"
+    },
+    {
+      "role": "fact",
+      "text": "Resilience is built through facing and overcoming challenges.",
+      "query": "athlete training in adversity",
+      "query2": "boxer fighting opponent",
+      "chips": [
+        {
+          "t": "FACING CHALLENGES",
+          "on": "facing",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Embrace the hard path; it leads to strength.",
+      "query": "runner on difficult trail",
+      "query2": "hiker on mountain path",
+      "label": "EMBRACE THE HARD PATH",
+      "sub": "strength is earned",
+      "label_on": "embrace",
+      "punch": "strength"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for daily fuel to keep going.",
+      "query": "mountain sunset view",
+      "query2": "person at mountain peak"
+    }
+  ],
+  "description": "Choose the difficult path; discomfort leads to strength. Follow for insights on embracing challenges!",
+  "hashtags": [
+    "#growth",
+    "#discipline",
+    "#resilience",
+    "#stoicism",
+    "#success",
+    "#motivation",
+    "#shorts",
+    "#fyp"
+  ]
+}
