@@ -1,0 +1,62 @@
+{
+  "title": "You Don't Need to Explain Yourself",
+  "place": "",
+  "country": "",
+  "scenes": [
+    {
+      "role": "hook",
+      "text": "You don’t owe anyone an explanation for your choices.",
+      "hook_top": "YOUR CHOICES ARE YOUR OWN",
+      "query": "person walking confidently",
+      "query2": "individual with purpose"
+    },
+    {
+      "role": "fact",
+      "text": "High performers focus on their goals, ignoring external validation.",
+      "query": "focused athlete training",
+      "query2": "person not listening to critics",
+      "chips": [
+        {
+          "t": "IGNORE EXTERNAL VALIDATI",
+          "on": "goals",
+          "style": "accent"
+        }
+      ]
+    },
+    {
+      "role": "fact",
+      "text": "Freedom from judgment propels creativity and discipline forward.",
+      "query": "artist creating",
+      "query2": "innovative ideas",
+      "chips": [
+        {
+          "t": "FREEDOM PROPULSES",
+          "on": "creativity",
+          "style": "white"
+        }
+      ]
+    },
+    {
+      "role": "callout",
+      "text": "Stand firm in your decisions; they shape your future.",
+      "query": "person standing tall",
+      "query2": "confident individual"
+    },
+    {
+      "role": "cta",
+      "text": "Follow for your daily dose of discipline.",
+      "query": "sunrise city skyline",
+      "query2": "person in nature"
+    }
+  ],
+  "description": "Your choices belong to you, not others. By focusing on your goals, you fuel your discipline and creativity. Follow for more empowering insights!",
+  "hashtags": [
+    "#empowerment",
+    "#mindset",
+    "#selfdiscovery",
+    "#discipline",
+    "#creativity",
+    "#shorts",
+    "#fyp"
+  ]
+}
