@@ -3682,5 +3682,560 @@
       "#shorts",
       "#fyp"
     ]
+  },
+  {
+    "title": "Lose 30 Pounds in 3 Months",
+    "thumb": "30 POUNDS GONE",
+    "scenes": [
+      {
+        "hook_top": "30 POUNDS IN 3 MONTHS",
+        "query": "weight loss transformation",
+        "query2": "weight loss story",
+        "role": "hook",
+        "text": "How I lost 30 pounds in just 3 months!"
+      },
+      {
+        "chips": [
+          {
+            "t": "500-CALORIE DEFICIT",
+            "on": "daily exercise",
+            "style": "white"
+          }
+        ],
+        "query": "calorie deficit",
+        "query2": "caloric burn",
+        "role": "fact",
+        "text": "Daily exercise resulted in a 500-calorie deficit."
+      },
+      {
+        "chips": [
+          {
+            "t": "1,500 CALORIES",
+            "on": "meal plan",
+            "style": "accent"
+          }
+        ],
+        "query": "meal plan effectiveness",
+        "query2": "caloric intake",
+        "role": "fact",
+        "text": "Followed a strict meal plan with 1,500 calories daily."
+      },
+      {
+        "reveal_top": "DISCIPLINE IS KEY",
+        "query": "importance of consistency",
+        "query2": "what is discipline",
+        "role": "reveal",
+        "text": "But consistency isn’t just about diet!"
+      },
+      {
+        "query": "motivation techniques",
+        "query2": "self-improvement tips",
+        "role": "cta",
+        "text": "Follow for daily fuel to keep going."
+      }
+    ],
+    "description": "Discover how discipline and consistency led to a remarkable 30-pound weight loss in just three months. Follow for more inspiring journeys!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#weightloss",
+      "#transformation",
+      "#fitnessjourney",
+      "#discipline",
+      "#consistency",
+      "#motivation"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Secret Behind Daily Writing",
+    "thumb": "WRITE DAILY, GROW",
+    "scenes": [
+      {
+        "hook_top": "DAILY WRITING TRANSFORMATION",
+        "query": "daily writing benefits",
+        "query2": "writing habits",
+        "role": "hook",
+        "text": "How daily writing transformed my life!"
+      },
+      {
+        "chips": [
+          {
+            "t": "DOUBLE OUTPUT",
+            "on": "daily writing",
+            "style": "white"
+          }
+        ],
+        "query": "writing productivity",
+        "query2": "writing statistics",
+        "role": "fact",
+        "text": "Writers who write daily can double their output."
+      },
+      {
+        "chips": [
+          {
+            "t": "50% CLARITY IMPROVEMENT",
+            "on": "consistent writing",
+            "style": "accent"
+          }
+        ],
+        "query": "writing clarity",
+        "query2": "benefits of clarity",
+        "role": "fact",
+        "text": "Consistent writing improves clarity by over 50%."
+      },
+      {
+        "reveal_top": "IT BUILDS DISCIPLINE",
+        "query": "writing and discipline",
+        "query2": "importance of writing",
+        "role": "reveal",
+        "text": "It’s not just about writing more!"
+      },
+      {
+        "query": "writing challenge",
+        "query2": "writing motivation",
+        "role": "cta",
+        "text": "Follow if you're building a stronger you."
+      }
+    ],
+    "description": "Explore how daily writing not only boosts productivity but also builds discipline and mental toughness. Follow for tips and challenges!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#writingcommunity",
+      "#discipline",
+      "#mentalhealth",
+      "#creativity",
+      "#habits",
+      "#selfimprovement"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Fitness Habit that Works",
+    "thumb": "HABITS FOR SUCCESS",
+    "scenes": [
+      {
+        "hook_top": "FITNESS HABIT REVEALED",
+        "query": "effective fitness habits",
+        "query2": "fitness tips",
+        "role": "hook",
+        "text": "The one fitness habit that changed everything!"
+      },
+      {
+        "chips": [
+          {
+            "t": "80% ADHERENCE",
+            "on": "same time workouts",
+            "style": "white"
+          }
+        ],
+        "query": "workout adherence",
+        "query2": "fitness consistency",
+        "role": "fact",
+        "text": "Working out at the same time daily improves adherence by 80%."
+      },
+      {
+        "chips": [
+          {
+            "t": "1-2 POUNDS MONTHLY",
+            "on": "muscle gain",
+            "style": "accent"
+          }
+        ],
+        "query": "muscle gain statistics",
+        "query2": "growth in muscle",
+        "role": "fact",
+        "text": "Regular lifters see muscle gain of 1-2 pounds monthly."
+      },
+      {
+        "reveal_top": "DISCIPLINE DRIVES SUCCESS",
+        "query": "discipline in fitness",
+        "query2": "fitness journey",
+        "role": "reveal",
+        "text": "Building discipline is the real secret!"
+      },
+      {
+        "query": "fitness motivation",
+        "query2": "workout advice",
+        "role": "cta",
+        "text": "Follow for daily fuel to keep going."
+      }
+    ],
+    "description": "Learn about the fitness habit that enhances consistency and results, proving that discipline leads to success. Follow for more insights!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#fitness",
+      "#discipline",
+      "#healthylifestyle",
+      "#workout",
+      "#musclebuilding",
+      "#motivation"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Mastering Time Management",
+    "thumb": "TIME MANAGEMENT MASTER",
+    "scenes": [
+      {
+        "hook_top": "TIME MANAGEMENT REVEALED",
+        "query": "time management skills",
+        "query2": "managing time",
+        "role": "hook",
+        "text": "How I improved my time management drastically!"
+      },
+      {
+        "chips": [
+          {
+            "t": "25% PRODUCTIVITY BOOST",
+            "on": "time management",
+            "style": "white"
+          }
+        ],
+        "query": "productivity statistics",
+        "query2": "effects of time management",
+        "role": "fact",
+        "text": "Effective time management can boost productivity by up to 25%."
+      },
+      {
+        "chips": [
+          {
+            "t": "30% STRESS REDUCTION",
+            "on": "scheduling tasks",
+            "style": "accent"
+          }
+        ],
+        "query": "stress management",
+        "query2": "benefits of scheduling",
+        "role": "fact",
+        "text": "Scheduling tasks can reduce stress by approximately 30%."
+      },
+      {
+        "reveal_top": "DISCIPLINE MAKES IT WORK",
+        "query": "prioritizing tasks",
+        "query2": "importance of discipline",
+        "role": "reveal",
+        "text": "It’s all about prioritizing discipline!"
+      },
+      {
+        "query": "time management advice",
+        "query2": "improve productivity",
+        "role": "cta",
+        "text": "Follow for your daily dose of discipline."
+      }
+    ],
+    "description": "Discover how mastering time management leads to significant productivity gains and reduced stress, demonstrating the power of discipline. Follow for tips!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#timemanagement",
+      "#discipline",
+      "#productivity",
+      "#stressrelief",
+      "#selfimprovement",
+      "#growth"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Transforming Your Sleep Habits",
+    "thumb": "SLEEP FOR SUCCESS",
+    "scenes": [
+      {
+        "hook_top": "SLEEP HABITS REVEALED",
+        "query": "sleep improvement",
+        "query2": "sleep health",
+        "role": "hook",
+        "text": "How improving my sleep changed my life!"
+      },
+      {
+        "chips": [
+          {
+            "t": "30% FOCUS IMPROVEMENT",
+            "on": "better sleep",
+            "style": "white"
+          }
+        ],
+        "query": "benefits of sleep",
+        "query2": "effects of sleep",
+        "role": "fact",
+        "text": "Better sleep can enhance focus by 30%."
+      },
+      {
+        "chips": [
+          {
+            "t": "20% BETTER PERFORMANCE",
+            "on": "7-8 hours sleep",
+            "style": "accent"
+          }
+        ],
+        "query": "sleep duration effects",
+        "query2": "performance statistics",
+        "role": "fact",
+        "text": "Those who sleep 7-8 hours perform 20% better on tasks."
+      },
+      {
+        "reveal_top": "DISCIPLINE IN SLEEP MATTERS",
+        "query": "discipline in sleep",
+        "query2": "importance of sleep routine",
+        "role": "reveal",
+        "text": "But discipline is what keeps you consistent!"
+      },
+      {
+        "query": "sleep tips",
+        "query2": "sleep routine advice",
+        "role": "cta",
+        "text": "Follow if you're building a stronger you."
+      }
+    ],
+    "description": "Explore how transforming sleep habits can dramatically improve focus and performance, highlighting the role of discipline in achieving it. Follow for tips!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#sleep",
+      "#health",
+      "#selfimprovement",
+      "#discipline",
+      "#focus",
+      "#wellness"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "One Habit Changed My Career",
+    "thumb": "CAREER-CHANGING HABIT",
+    "scenes": [
+      {
+        "hook_top": "CAREER TRANSFORMATION HABIT",
+        "query": "career success stories",
+        "query2": "professional growth",
+        "role": "hook",
+        "text": "One habit that transformed my career trajectory!"
+      },
+      {
+        "chips": [
+          {
+            "t": "70% MORE OPPORTUNITIES",
+            "on": "networking",
+            "style": "white"
+          }
+        ],
+        "query": "networking advantages",
+        "query2": "career opportunities",
+        "role": "fact",
+        "text": "Networking can increase job opportunities by 70%."
+      },
+      {
+        "chips": [
+          {
+            "t": "50% SALARY INCREASES",
+            "on": "professional development",
+            "style": "accent"
+          }
+        ],
+        "query": "salary increases facts",
+        "query2": "career growth statistics",
+        "role": "fact",
+        "text": "Consistent professional development leads to 50% better salary increases."
+      },
+      {
+        "reveal_top": "DISCIPLINE OPENS DOORS",
+        "query": "importance of discipline",
+        "query2": "skills development",
+        "role": "reveal",
+        "text": "The key is being disciplined about it!"
+      },
+      {
+        "query": "career advice tips",
+        "query2": "professional success lessons",
+        "role": "cta",
+        "text": "Follow because discipline beats motivation."
+      }
+    ],
+    "description": "Learn how one habit can boost your career success through networking and professional growth, showcasing the impact of discipline. Follow for insights!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#career",
+      "#networking",
+      "#selfimprovement",
+      "#discipline",
+      "#professionaldevelopment",
+      "#success"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Transform Your Life: 120 Days to Progress",
+    "thumb": "120 DAYS PROGRESS",
+    "scenes": [
+      {
+        "hook_top": "LOSE 15 POUNDS FAST",
+        "fact": "People who track meals lose 50% more weight.",
+        "chips": [
+          {
+            "t": "50% MORE",
+            "on": "lose",
+            "style": "accent"
+          }
+        ],
+        "query": "meal tracking effectiveness",
+        "query2": "nutrition weight loss",
+        "punch": "zoom",
+        "role": "hook",
+        "text": "Lose 15 pounds in 120 days."
+      },
+      {
+        "query": "consistent workout schedule",
+        "query2": "exercise motivation",
+        "role": "fact",
+        "text": "A consistent workout schedule boosts motivation significantly.",
+        "chips": []
+      },
+      {
+        "sub": "Are you ready to change?",
+        "label": "DISCIPLINE",
+        "label_on": "transforms",
+        "query": "discipline importance",
+        "query2": "self-control benefits",
+        "role": "callout",
+        "text": "DISCIPLINE TRANSFORMS LIVES"
+      },
+      {
+        "query": "motivation for change",
+        "query2": "self-improvement tips",
+        "role": "cta",
+        "text": "Follow for daily fuel to keep going."
+      }
+    ],
+    "description": "Are you ready to lose weight and transform your life in just 120 days? Follow for daily tips! ",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#weightloss",
+      "#discipline",
+      "#transformation",
+      "#motivation"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "From Zero to Hero: 30 Days of Mindfulness",
+    "thumb": "30 DAYS MINDSET",
+    "scenes": [
+      {
+        "hook_top": "30 DAYS OF MINDFULNESS",
+        "fact": "Regular meditation can reduce anxiety by 60%.",
+        "chips": [
+          {
+            "t": "60% REDUCTION",
+            "on": "anxiety",
+            "style": "accent"
+          }
+        ],
+        "query": "meditation impact on anxiety",
+        "query2": "mindfulness benefits",
+        "punch": "zoom",
+        "role": "hook",
+        "text": "Meditate daily for 30 days."
+      },
+      {
+        "query": "mindfulness productivity",
+        "query2": "increase focus",
+        "role": "fact",
+        "text": "Practicing mindfulness improves focus and productivity.",
+        "chips": []
+      },
+      {
+        "sub": "Don't underestimate its power.",
+        "label": "MINDSET",
+        "label_on": "matters",
+        "query": "mindset development",
+        "query2": "mental toughness",
+        "role": "callout",
+        "text": "MINDSET MATTERS"
+      },
+      {
+        "query": "mindset improvement",
+        "query2": "self-help advice",
+        "role": "cta",
+        "text": "Follow because discipline beats motivation."
+      }
+    ],
+    "description": "Join the 30-day mindfulness challenge to improve your focus and reduce anxiety! Follow for daily inspiration!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#mindfulness",
+      "#selfimprovement",
+      "#anxietyrelief",
+      "#mentalhealth"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The 75 Hard Challenge: Beat the Odds!",
+    "thumb": "75 HARD CHALLENGE",
+    "scenes": [
+      {
+        "hook_top": "75 HARD CHALLENGE",
+        "fact": "75% of participants finish the challenge successfully.",
+        "chips": [
+          {
+            "t": "75% FINISH RATE",
+            "on": "participants",
+            "style": "accent"
+          }
+        ],
+        "query": "75 Hard challenge completion",
+        "query2": "fitness challenge success",
+        "punch": "zoom",
+        "role": "hook",
+        "text": "Complete 75 Hard for real change!"
+      },
+      {
+        "query": "75 Hard benefits",
+        "query2": "mental toughness routines",
+        "role": "fact",
+        "text": "Participants report improved discipline and mental toughness.",
+        "chips": []
+      },
+      {
+        "sub": "Are you ready to transform?",
+        "label": "PUSH",
+        "label_on": "limits",
+        "query": "overcoming limits",
+        "query2": "self-discipline training",
+        "role": "callout",
+        "text": "PUSH YOUR LIMITS"
+      },
+      {
+        "query": "fitness challenges",
+        "query2": "self-discipline tips",
+        "role": "cta",
+        "text": "Follow for your daily dose of discipline."
+      }
+    ],
+    "description": "Can you handle the 75 Hard Challenge? Experience transformation and build your mental toughness! Follow for tips!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#75Hard",
+      "#discipline",
+      "#fitness",
+      "#selfimprovement"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

@@ -1,0 +1,65 @@
+{
+  "title": "Lose 30 Pounds in 3 Months",
+  "thumb": "30 POUNDS GONE",
+  "scenes": [
+    {
+      "hook_top": "30 POUNDS IN 3 MONTHS",
+      "query": "weight loss transformation",
+      "query2": "weight loss story",
+      "role": "hook",
+      "text": "How I lost 30 pounds in just 3 months!"
+    },
+    {
+      "chips": [
+        {
+          "t": "500-CALORIE DEFICIT",
+          "on": "daily exercise",
+          "style": "white"
+        }
+      ],
+      "query": "calorie deficit",
+      "query2": "caloric burn",
+      "role": "fact",
+      "text": "Daily exercise resulted in a 500-calorie deficit."
+    },
+    {
+      "chips": [
+        {
+          "t": "1,500 CALORIES",
+          "on": "meal plan",
+          "style": "accent"
+        }
+      ],
+      "query": "meal plan effectiveness",
+      "query2": "caloric intake",
+      "role": "fact",
+      "text": "Followed a strict meal plan with 1,500 calories daily."
+    },
+    {
+      "reveal_top": "DISCIPLINE IS KEY",
+      "query": "importance of consistency",
+      "query2": "what is discipline",
+      "role": "reveal",
+      "text": "But consistency isn’t just about diet!"
+    },
+    {
+      "query": "motivation techniques",
+      "query2": "self-improvement tips",
+      "role": "cta",
+      "text": "Follow for daily fuel to keep going."
+    }
+  ],
+  "description": "Discover how discipline and consistency led to a remarkable 30-pound weight loss in just three months. Follow for more inspiring journeys!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#weightloss",
+    "#transformation",
+    "#fitnessjourney",
+    "#discipline",
+    "#consistency",
+    "#motivation"
+  ],
+  "place": "",
+  "country": ""
+}
