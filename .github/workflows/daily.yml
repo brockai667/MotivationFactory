@@ -2,7 +2,7 @@ name: MotivationFactory Daily
 
 on:
   schedule:
-    - cron: "9 20 * * *"   # 01:09 UTC (~03:09 Bratislava) - skoro rano, hotove davno pred publik. slotom
+    - cron: "19 3 * * *"   # rozhadzane (anti rate-limit GitHub Models)
   workflow_dispatch: {}    # umoznuje rucne spustenie z GitHub UI
 
 permissions:
