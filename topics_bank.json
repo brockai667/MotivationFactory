@@ -4237,5 +4237,342 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "How This Habit Changed Everything",
+    "thumb": "HABIT TRANSFORMED LIFE",
+    "scenes": [
+      {
+        "hook_top": "200 HOURS OF READING",
+        "query": "reading benefits",
+        "query2": "brain connectivity studies",
+        "fact": "Experts say reading can improve brain connectivity by up to 30%.",
+        "chips": [
+          {
+            "t": "30% BRAIN CONNECTIVITY",
+            "on": "reading",
+            "style": "white"
+          }
+        ],
+        "punch": "zoom",
+        "role": "hook",
+        "text": "200 hours of reading can increase your knowledge drastically."
+      },
+      {
+        "chips": [
+          {
+            "t": "60% HIGH PERFORMERS",
+            "on": "high performers",
+            "style": "accent"
+          }
+        ],
+        "query": "high performers reading statistics",
+        "query2": "reading and performance",
+        "role": "fact",
+        "text": "Regular readers are 60% more likely to be high performers at work."
+      },
+      {
+        "reveal_top": "10 PAGES CHANGED EVERYTHING",
+        "query": "10 pages a day benefits",
+        "query2": "daily reading impact",
+        "role": "reveal",
+        "text": "Starting with just 10 pages a day led to a life-changing journey."
+      },
+      {
+        "role": "cta",
+        "text": "Follow if you're building a stronger you.",
+        "query": "How This Habit Changed Everything",
+        "query2": "cinematic nature landscape"
+      }
+    ],
+    "description": "Discover how just a few pages of reading a day can alter your life and boost your performance. Transform your habits and reap the benefits today!",
+    "hashtags": [
+      "#discipline",
+      "#selfimprovement",
+      "#reading",
+      "#mindset",
+      "#habits",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Transforming Bad Habits Into Good Ones",
+    "thumb": "BAD TO GOOD HABITS",
+    "scenes": [
+      {
+        "hook_top": "50 PROCRASTINATE DAILY",
+        "query": "procrastination statistics",
+        "query2": "procrastination effects",
+        "role": "hook",
+        "text": "50% of adults struggle with procrastination daily."
+      },
+      {
+        "chips": [
+          {
+            "t": "70% REDUCED DELAYS",
+            "on": "reduce delays",
+            "style": "white"
+          }
+        ],
+        "punch": "zoom",
+        "query": "task initiation benefits",
+        "query2": "reduce procrastination",
+        "role": "fact",
+        "text": "Incorporating just 2 minutes of task initiation can reduce delays by 70%."
+      },
+      {
+        "reveal_top": "2MINUTE RULE SUCCESS",
+        "query": "2-minute rule success stories",
+        "query2": "effective habits",
+        "role": "reveal",
+        "text": "Adopting a '2-minute rule' transformed countless lives, making tasks manageable."
+      },
+      {
+        "role": "cta",
+        "text": "Follow for your daily dose of discipline.",
+        "query": "Transforming Bad Habits Into Good Ones",
+        "query2": "cinematic nature landscape"
+      }
+    ],
+    "description": "Learn how implementing a simple 2-minute rule can help convert procrastination into productivity. Transform your daily routine with this small habit change!",
+    "hashtags": [
+      "#selfimprovement",
+      "#habits",
+      "#productivity",
+      "#discipline",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "What Consistency Can Achieve",
+    "thumb": "THE POWER OF CONSISTENCY",
+    "scenes": [
+      {
+        "hook_top": "30 MINUTES OF EXERCISE",
+        "query": "exercise life extension facts",
+        "query2": "health benefits of exercise",
+        "role": "hook",
+        "text": "Just 30 minutes of exercise a day can extend your life."
+      },
+      {
+        "chips": [
+          {
+            "t": "7 YEARS LONGER",
+            "on": "live longer",
+            "style": "accent"
+          }
+        ],
+        "query": "active lifestyle longevity",
+        "query2": "exercise longevity benefits",
+        "role": "fact",
+        "text": "Active individuals can live 7 years longer than sedentary peers."
+      },
+      {
+        "reveal_top": "DAILY WORKOUT CHANGE",
+        "query": "daily workout benefits",
+        "query2": "exercise transformation stories",
+        "role": "reveal",
+        "text": "Committing to daily 30-minute workouts made me rethink my health."
+      },
+      {
+        "role": "cta",
+        "text": "Follow for the mindset that gets it done.",
+        "query": "What Consistency Can Achieve",
+        "query2": "cinematic nature landscape"
+      }
+    ],
+    "description": "Discover the incredible impact of consistent exercise on your lifespan. Learn how a simple daily commitment can lead to profound health benefits!",
+    "hashtags": [
+      "#fitness",
+      "#health",
+      "#selfimprovement",
+      "#discipline",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Secret of Daily Journaling",
+    "thumb": "DAILY JOURNALING SECRET",
+    "scenes": [
+      {
+        "hook_top": "40 MENTAL HEALTH BOOST",
+        "query": "journaling mental health benefits",
+        "query2": "journaling statistics",
+        "role": "hook",
+        "text": "Regular journaling can improve mental health by 40%."
+      },
+      {
+        "chips": [
+          {
+            "t": "30% STRESS REDUCTION",
+            "on": "reduce stress",
+            "style": "white"
+          }
+        ],
+        "query": "emotional writing stress reduction",
+        "query2": "journaling for stress",
+        "role": "fact",
+        "text": "Writing about emotions reduces stress levels by 30%."
+      },
+      {
+        "reveal_top": "5 MINUTES HUGE IMPACT",
+        "query": "5 minutes journaling impact",
+        "query2": "benefits of short journaling",
+        "role": "reveal",
+        "text": "Just 5 minutes of journaling can change your emotional landscape."
+      },
+      {
+        "role": "cta",
+        "text": "Follow because discipline beats motivation.",
+        "query": "The Secret of Daily Journaling",
+        "query2": "cinematic nature landscape"
+      }
+    ],
+    "description": "Explore how a few minutes of daily journaling can significantly boost your mental well-being. Start your journey towards emotional clarity today!",
+    "hashtags": [
+      "#mentalhealth",
+      "#journaling",
+      "#selfimprovement",
+      "#discipline",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Transform Your Fitness: 75 Days to Change",
+    "thumb": "75 DAYS TRANSFORM",
+    "scenes": [
+      {
+        "hook_top": "75 DAYS TRANSFORM",
+        "fact": "Over 70% of participants report significant fat loss.",
+        "chips": [
+          {
+            "t": "70%",
+            "on": "participants",
+            "style": "white"
+          }
+        ],
+        "punch": "result",
+        "query": "75 hard challenge statistics",
+        "query2": "fitness challenge results",
+        "role": "hook",
+        "text": "Transform your body in just 75 days!"
+      },
+      {
+        "chips": [
+          {
+            "t": "75 DAYS",
+            "on": "exercise",
+            "style": "accent"
+          }
+        ],
+        "query": "75 days exercise routine",
+        "query2": "daily workout regimen",
+        "role": "fact",
+        "text": "Participants exercise daily for 75 days straight."
+      },
+      {
+        "label": "COMMITMENT PAYS OFF",
+        "sub": "Real change requires real effort.",
+        "label_on": "commitment",
+        "query": "commitment success stories",
+        "query2": "discipline in fitness",
+        "role": "callout",
+        "text": "Commitment Transforms Outcomes"
+      },
+      {
+        "query": "fitness transformation stories",
+        "query2": "success transformation tips",
+        "role": "cta",
+        "text": "Follow for your daily dose of discipline."
+      }
+    ],
+    "description": "Discover how a commitment of just 75 days can lead to real body change through consistent effort. Follow us for more transformative insights!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#fitnessjourney",
+      "#transformation",
+      "#75Hard",
+      "#discipline",
+      "#motivation",
+      "#healthylifestyle"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Bouncing Back: From Zero Workouts to 4 a Week",
+    "thumb": "ZERO TO FOUR",
+    "scenes": [
+      {
+        "hook_top": "ZERO TO FOUR",
+        "fact": "Individuals find that just 20 minutes of daily exercise can boost mental health.",
+        "chips": [
+          {
+            "t": "20 MINUTES",
+            "on": "boost",
+            "style": "white"
+          }
+        ],
+        "punch": "boost",
+        "query": "exercise mental health benefits",
+        "query2": "benefits of working out",
+        "role": "hook",
+        "text": "Turn your 0 workouts into 4 weekly sessions!"
+      },
+      {
+        "chips": [
+          {
+            "t": "SMALL HABITS",
+            "on": "changes",
+            "style": "accent"
+          }
+        ],
+        "query": "habits of successful people",
+        "query2": "small habit changes",
+        "role": "fact",
+        "text": "Starting with small habits leads to more significant changes."
+      },
+      {
+        "label": "STEP BY STEP",
+        "sub": "Build your routine gradually.",
+        "label_on": "step",
+        "query": "small steps in fitness",
+        "query2": "gradual fitness improvements",
+        "role": "callout",
+        "text": "Every Small Step Matters"
+      },
+      {
+        "query": "comeback fitness stories",
+        "query2": "success in fitness",
+        "role": "cta",
+        "text": "Follow because discipline beats motivation."
+      }
+    ],
+    "description": "Learn how to evolve from no workouts to four a week by cultivating small, consistent habits. Follow us for more inspiring fitness journeys!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#fitnessmotivation",
+      "#comeback",
+      "#mentalhealth",
+      "#discipline",
+      "#smallhabits",
+      "#selfimprovement"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

@@ -1,0 +1,65 @@
+{
+  "title": "The Fitness Habit that Works",
+  "thumb": "HABITS FOR SUCCESS",
+  "scenes": [
+    {
+      "hook_top": "FITNESS HABIT REVEALED",
+      "query": "effective fitness habits",
+      "query2": "fitness tips",
+      "role": "hook",
+      "text": "The one fitness habit that changed everything!"
+    },
+    {
+      "chips": [
+        {
+          "t": "80% ADHERENCE",
+          "on": "same time workouts",
+          "style": "white"
+        }
+      ],
+      "query": "workout adherence",
+      "query2": "fitness consistency",
+      "role": "fact",
+      "text": "Working out at the same time daily improves adherence by 80%."
+    },
+    {
+      "chips": [
+        {
+          "t": "1-2 POUNDS MONTHLY",
+          "on": "muscle gain",
+          "style": "accent"
+        }
+      ],
+      "query": "muscle gain statistics",
+      "query2": "growth in muscle",
+      "role": "fact",
+      "text": "Regular lifters see muscle gain of 1-2 pounds monthly."
+    },
+    {
+      "reveal_top": "DISCIPLINE DRIVES SUCCESS",
+      "query": "discipline in fitness",
+      "query2": "fitness journey",
+      "role": "reveal",
+      "text": "Building discipline is the real secret!"
+    },
+    {
+      "query": "fitness motivation",
+      "query2": "workout advice",
+      "role": "cta",
+      "text": "Follow for daily fuel to keep going."
+    }
+  ],
+  "description": "Learn about the fitness habit that enhances consistency and results, proving that discipline leads to success. Follow for more insights!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#fitness",
+    "#discipline",
+    "#healthylifestyle",
+    "#workout",
+    "#musclebuilding",
+    "#motivation"
+  ],
+  "place": "",
+  "country": ""
+}
