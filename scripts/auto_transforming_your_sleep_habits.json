@@ -1,0 +1,65 @@
+{
+  "title": "Transforming Your Sleep Habits",
+  "thumb": "SLEEP FOR SUCCESS",
+  "scenes": [
+    {
+      "hook_top": "SLEEP HABITS REVEALED",
+      "query": "sleep improvement",
+      "query2": "sleep health",
+      "role": "hook",
+      "text": "How improving my sleep changed my life!"
+    },
+    {
+      "chips": [
+        {
+          "t": "30% FOCUS IMPROVEMENT",
+          "on": "better sleep",
+          "style": "white"
+        }
+      ],
+      "query": "benefits of sleep",
+      "query2": "effects of sleep",
+      "role": "fact",
+      "text": "Better sleep can enhance focus by 30%."
+    },
+    {
+      "chips": [
+        {
+          "t": "20% BETTER PERFORMANCE",
+          "on": "7-8 hours sleep",
+          "style": "accent"
+        }
+      ],
+      "query": "sleep duration effects",
+      "query2": "performance statistics",
+      "role": "fact",
+      "text": "Those who sleep 7-8 hours perform 20% better on tasks."
+    },
+    {
+      "reveal_top": "DISCIPLINE IN SLEEP MATTERS",
+      "query": "discipline in sleep",
+      "query2": "importance of sleep routine",
+      "role": "reveal",
+      "text": "But discipline is what keeps you consistent!"
+    },
+    {
+      "query": "sleep tips",
+      "query2": "sleep routine advice",
+      "role": "cta",
+      "text": "Follow if you're building a stronger you."
+    }
+  ],
+  "description": "Explore how transforming sleep habits can dramatically improve focus and performance, highlighting the role of discipline in achieving it. Follow for tips!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#sleep",
+    "#health",
+    "#selfimprovement",
+    "#discipline",
+    "#focus",
+    "#wellness"
+  ],
+  "place": "",
+  "country": ""
+}

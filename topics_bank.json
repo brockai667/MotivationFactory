@@ -4574,5 +4574,178 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "How 40 Days to Discipline Changed My Life",
+    "thumb": "40 DAYS TRANSFORMATION",
+    "scenes": [
+      {
+        "hook_top": "40 DAYS TO DISCIPLINE",
+        "fact": "Research shows 66 days for habit formation.",
+        "chips": [
+          {
+            "t": "66 DAYS",
+            "on": "days",
+            "style": "white"
+          }
+        ],
+        "query": "habit formation time frame",
+        "query2": "how long to form a habit",
+        "role": "hook",
+        "text": "Transform your discipline in just 40 days!"
+      },
+      {
+        "chips": [
+          {
+            "t": "80% FAIL",
+            "on": "fail",
+            "style": "accent"
+          }
+        ],
+        "query": "New Year resolutions failure rate",
+        "query2": "why resolutions fail",
+        "role": "fact",
+        "text": "80% of people fail to stick to their New Year's resolutions."
+      },
+      {
+        "reveal_top": "50 SUCCEED WITH PRACTICE",
+        "query": "success rate with daily habits",
+        "query2": "importance of daily practice",
+        "role": "reveal",
+        "text": "But nearly 50% succeed with consistent daily practices!"
+      },
+      {
+        "query": "lifestyle improvement tips",
+        "query2": "self-improvement advice",
+        "role": "cta",
+        "text": "Follow for the mindset that gets it done."
+      }
+    ],
+    "description": "Discover how committing to 40 days of discipline can lead to real change. Unlock the secrets to sticking with your goals! #shorts #discipline #selfimprovement #motivation #fyp #habits",
+    "hashtags": [
+      "#shorts",
+      "#discipline",
+      "#selfimprovement",
+      "#motivation",
+      "#fyp",
+      "#habits",
+      "#transformation"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Surprising Impact of 5 Minutes: Daily Discipline",
+    "thumb": "5 MINUTES MATTER",
+    "scenes": [
+      {
+        "hook_top": "5 MINUTES CHANGE",
+        "fact": "Just 5 minutes of daily reading improves knowledge retention by over 50%.",
+        "chips": [
+          {
+            "t": "50% IMPROVEMENT",
+            "on": "improvement",
+            "style": "white"
+          }
+        ],
+        "query": "impact of reading on retention",
+        "query2": "daily reading benefits",
+        "role": "hook",
+        "text": "Can 5 minutes really change everything?"
+      },
+      {
+        "chips": [
+          {
+            "t": "BOOSTS MOOD",
+            "on": "boosts",
+            "style": "accent"
+          }
+        ],
+        "query": "physical activity mood improvement",
+        "query2": "effect of exercise on mood",
+        "role": "fact",
+        "text": "5 minutes of physical activity boosts mood significantly."
+      },
+      {
+        "reveal_top": "5 MINUTES BUILD DISCIPLINE",
+        "query": "5 minute daily discipline",
+        "query2": "effective daily habits",
+        "role": "reveal",
+        "text": "Yet, just 5 minutes daily can build unstoppable discipline!"
+      },
+      {
+        "query": "daily inspiration for improvement",
+        "query2": "self-improvement content",
+        "role": "cta",
+        "text": "Follow if you're building a stronger you."
+      }
+    ],
+    "description": "Find out how dedicating just 5 minutes a day can lead to tremendous improvements in discipline and mental toughness. Get inspired! #shorts #discipline #motivation #fyp #mindset #reading",
+    "hashtags": [
+      "#shorts",
+      "#discipline",
+      "#motivation",
+      "#fyp",
+      "#mindset",
+      "#reading",
+      "#improvement"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Transform Your Day: 30 Minutes to Better Focus",
+    "thumb": "30 MINUTES FOCUS",
+    "scenes": [
+      {
+        "hook_top": "30 MINUTES DAILY FOCUS",
+        "fact": "Studies show that brief focused bursts can boost productivity by up to 25%.",
+        "chips": [
+          {
+            "t": "25% BOOST",
+            "on": "boost",
+            "style": "accent"
+          }
+        ],
+        "query": "productivity tips",
+        "query2": "productivity statistics",
+        "role": "hook",
+        "text": "Unlock focus with just 30 minutes daily!"
+      },
+      {
+        "chips": [],
+        "query": "high performers schedule",
+        "query2": "time blocking techniques",
+        "role": "fact",
+        "text": "High performers allocate specific time blocks for deep work."
+      },
+      {
+        "sub": "Maximize your productivity",
+        "label_on": "create",
+        "query": "time management tips",
+        "query2": "focus techniques",
+        "role": "callout",
+        "text": "CREATE YOUR FOCUS TIME"
+      },
+      {
+        "query": "self-improvement strategies",
+        "query2": "motivational content",
+        "role": "cta",
+        "text": "Follow because discipline beats motivation."
+      }
+    ],
+    "description": "Learn how just 30 minutes of focused work can dramatically improve your productivity. Follow for daily discipline tips to transform your life!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#productivity",
+      "#focus",
+      "#selfimprovement",
+      "#discipline",
+      "#habits",
+      "#success"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

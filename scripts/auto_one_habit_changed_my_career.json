@@ -1,0 +1,65 @@
+{
+  "title": "One Habit Changed My Career",
+  "thumb": "CAREER-CHANGING HABIT",
+  "scenes": [
+    {
+      "hook_top": "CAREER TRANSFORMATION HABIT",
+      "query": "career success stories",
+      "query2": "professional growth",
+      "role": "hook",
+      "text": "One habit that transformed my career trajectory!"
+    },
+    {
+      "chips": [
+        {
+          "t": "70% MORE OPPORTUNITIES",
+          "on": "networking",
+          "style": "white"
+        }
+      ],
+      "query": "networking advantages",
+      "query2": "career opportunities",
+      "role": "fact",
+      "text": "Networking can increase job opportunities by 70%."
+    },
+    {
+      "chips": [
+        {
+          "t": "50% SALARY INCREASES",
+          "on": "professional development",
+          "style": "accent"
+        }
+      ],
+      "query": "salary increases facts",
+      "query2": "career growth statistics",
+      "role": "fact",
+      "text": "Consistent professional development leads to 50% better salary increases."
+    },
+    {
+      "reveal_top": "DISCIPLINE OPENS DOORS",
+      "query": "importance of discipline",
+      "query2": "skills development",
+      "role": "reveal",
+      "text": "The key is being disciplined about it!"
+    },
+    {
+      "query": "career advice tips",
+      "query2": "professional success lessons",
+      "role": "cta",
+      "text": "Follow because discipline beats motivation."
+    }
+  ],
+  "description": "Learn how one habit can boost your career success through networking and professional growth, showcasing the impact of discipline. Follow for insights!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#career",
+    "#networking",
+    "#selfimprovement",
+    "#discipline",
+    "#professionaldevelopment",
+    "#success"
+  ],
+  "place": "",
+  "country": ""
+}
