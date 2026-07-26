@@ -1,0 +1,55 @@
+{
+  "title": "From Zero to Hero: 30 Days of Mindfulness",
+  "thumb": "30 DAYS MINDSET",
+  "scenes": [
+    {
+      "hook_top": "30 DAYS OF MINDFULNESS",
+      "fact": "Regular meditation can reduce anxiety by 60%.",
+      "chips": [
+        {
+          "t": "60% REDUCTION",
+          "on": "anxiety",
+          "style": "accent"
+        }
+      ],
+      "query": "meditation impact on anxiety",
+      "query2": "mindfulness benefits",
+      "punch": "zoom",
+      "role": "hook",
+      "text": "Meditate daily for 30 days."
+    },
+    {
+      "query": "mindfulness productivity",
+      "query2": "increase focus",
+      "role": "fact",
+      "text": "Practicing mindfulness improves focus and productivity.",
+      "chips": []
+    },
+    {
+      "sub": "Don't underestimate its power.",
+      "label": "MINDSET",
+      "label_on": "matters",
+      "query": "mindset development",
+      "query2": "mental toughness",
+      "role": "callout",
+      "text": "MINDSET MATTERS"
+    },
+    {
+      "query": "mindset improvement",
+      "query2": "self-help advice",
+      "role": "cta",
+      "text": "Follow because discipline beats motivation."
+    }
+  ],
+  "description": "Join the 30-day mindfulness challenge to improve your focus and reduce anxiety! Follow for daily inspiration!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#mindfulness",
+    "#selfimprovement",
+    "#anxietyrelief",
+    "#mentalhealth"
+  ],
+  "place": "",
+  "country": ""
+}

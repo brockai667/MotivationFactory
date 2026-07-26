@@ -1,0 +1,55 @@
+{
+  "title": "Transform Your Life: 120 Days to Progress",
+  "thumb": "120 DAYS PROGRESS",
+  "scenes": [
+    {
+      "hook_top": "LOSE 15 POUNDS FAST",
+      "fact": "People who track meals lose 50% more weight.",
+      "chips": [
+        {
+          "t": "50% MORE",
+          "on": "lose",
+          "style": "accent"
+        }
+      ],
+      "query": "meal tracking effectiveness",
+      "query2": "nutrition weight loss",
+      "punch": "zoom",
+      "role": "hook",
+      "text": "Lose 15 pounds in 120 days."
+    },
+    {
+      "query": "consistent workout schedule",
+      "query2": "exercise motivation",
+      "role": "fact",
+      "text": "A consistent workout schedule boosts motivation significantly.",
+      "chips": []
+    },
+    {
+      "sub": "Are you ready to change?",
+      "label": "DISCIPLINE",
+      "label_on": "transforms",
+      "query": "discipline importance",
+      "query2": "self-control benefits",
+      "role": "callout",
+      "text": "DISCIPLINE TRANSFORMS LIVES"
+    },
+    {
+      "query": "motivation for change",
+      "query2": "self-improvement tips",
+      "role": "cta",
+      "text": "Follow for daily fuel to keep going."
+    }
+  ],
+  "description": "Are you ready to lose weight and transform your life in just 120 days? Follow for daily tips! ",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#weightloss",
+    "#discipline",
+    "#transformation",
+    "#motivation"
+  ],
+  "place": "",
+  "country": ""
+}

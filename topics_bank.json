@@ -4747,5 +4747,199 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "How I Built Discipline in Just 7 Days",
+    "thumb": "DISCIPLINE IN 7 DAYS",
+    "scenes": [
+      {
+        "text": "After 7 days of discipline, I transformed my routine.",
+        "hook_top": "DISCIPLINE IN 7 DAYS",
+        "query": "7 days discipline transformation",
+        "query2": "transform routines",
+        "chips": [],
+        "punch": "",
+        "role": "hook"
+      },
+      {
+        "text": "Studies show that building a new habit takes an average of 66 days.",
+        "chips": [
+          {
+            "t": "66 DAYS",
+            "on": "habit",
+            "style": "white"
+          }
+        ],
+        "query": "habit formation research",
+        "query2": "average time habits take",
+        "punch": "average",
+        "role": "fact"
+      },
+      {
+        "text": "Top performers often attribute their success to the discipline of daily habits.",
+        "chips": [
+          {
+            "t": "TOP PERFORMERS",
+            "on": "success",
+            "style": "accent"
+          }
+        ],
+        "query": "success habits top performers",
+        "query2": "daily habits of achievers",
+        "punch": "success",
+        "role": "fact"
+      },
+      {
+        "text": "In just one week, I gained control over my life.",
+        "reveal_top": "CONTROL IN ONE WEEK!",
+        "query": "gaining control in a week",
+        "query2": "one week transformation",
+        "chips": [],
+        "punch": "",
+        "role": "fact"
+      },
+      {
+        "text": "Follow if you're building a stronger you.",
+        "query": "tips for discipline building",
+        "query2": "monthly discipline tips",
+        "chips": [],
+        "punch": "",
+        "role": "cta"
+      }
+    ],
+    "description": "In one week, I built a powerful routine and gained control over my life. Discover how discipline can transform you! #shorts #discipline #success #habits #motivation #fyp",
+    "hashtags": [
+      "#shorts",
+      "#discipline",
+      "#success",
+      "#habits",
+      "#motivation",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "How 1 Habit Boosted My Income",
+    "thumb": "BOOST YOUR INCOME",
+    "scenes": [
+      {
+        "hook_top": "BOOST INCOME NOW",
+        "query": "increase income habit",
+        "query2": "income boosting habits",
+        "role": "hook",
+        "text": "One habit can increase your income by 30%."
+      },
+      {
+        "chips": [
+          {
+            "t": "30% EARNINGS INCREASE",
+            "on": "increase",
+            "style": "white"
+          }
+        ],
+        "punch": "profit",
+        "query": "productivity practices effect",
+        "query2": "productivity statistics",
+        "role": "fact",
+        "text": "Research shows that daily productivity practices can raise earnings significantly."
+      },
+      {
+        "chips": [
+          {
+            "t": "5 AM CLUB",
+            "on": "5 AM",
+            "style": "accent"
+          }
+        ],
+        "punch": "energy",
+        "query": "5 AM club benefits",
+        "query2": "early rising benefits",
+        "role": "fact",
+        "text": "High performers often utilize the 5 AM club for discipline."
+      },
+      {
+        "label": "Boost Your Earnings",
+        "sub": "Transform your daily routine.",
+        "label_on": "Boost",
+        "query": "income transformation strategies",
+        "query2": "earning strategies",
+        "role": "callout",
+        "text": "START NOW!"
+      },
+      {
+        "query": "income boosting tips",
+        "query2": "financial growth tips",
+        "role": "cta",
+        "text": "Follow for your daily dose of discipline."
+      }
+    ],
+    "description": "Transform your income with this one daily habit. Discover how you can elevate your earnings significantly. Follow for more insights!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#selfimprovement",
+      "#hyperformance",
+      "#discipline",
+      "#habits"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Ditch the Myth: Discipline is Hard!",
+    "thumb": "DISCIPLINE IS EASY",
+    "scenes": [
+      {
+        "hook_top": "DISCIPLINE IS UNNATURAL",
+        "query": "myth discipline is hard",
+        "query2": "common beliefs about discipline",
+        "role": "hook",
+        "text": "80% of people believe discipline is unnatural."
+      },
+      {
+        "label": "MYTH: Discipline Needs Willp",
+        "query": "is discipline about willpower",
+        "query2": "failures in discipline thinking",
+        "role": "myth",
+        "text": "Many think discipline requires extreme willpower."
+      },
+      {
+        "label": "TRUTH: Discipline is a Skill",
+        "query": "discipline as a skill",
+        "query2": "how to improve discipline",
+        "role": "truth",
+        "text": "Discipline is a skill that can be developed."
+      },
+      {
+        "label": "Practice makes perfect.",
+        "sub": "Start small, stay consistent.",
+        "label_on": "small actions",
+        "query": "how to build discipline",
+        "query2": "ways to practice consistency",
+        "role": "callout",
+        "text": "Build Your Discipline!"
+      },
+      {
+        "query": "self-improvement tips",
+        "query2": "daily discipline strategies",
+        "role": "cta",
+        "text": "Follow if you're building a stronger you."
+      }
+    ],
+    "description": "Discipline is not something you either have or don't; it's a skill you can cultivate! Let’s bust this myth together. Follow for more insights!",
+    "hashtags": [
+      "#discipline",
+      "#selfimprovement",
+      "#mentalstrength",
+      "#habits",
+      "#consistency",
+      "#motivation",
+      "#shorts",
+      "#fyp",
+      "#transformation"
+    ],
+    "place": "",
+    "country": ""
   }
 ]
