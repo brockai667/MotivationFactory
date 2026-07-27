@@ -4941,5 +4941,137 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Transforming Your Daily Routine",
+    "thumb": "DAILY DISCIPLINE MAGIC",
+    "scenes": [
+      {
+        "hook_top": "5 ACTIONS BIG CHANGE",
+        "query": "daily habits",
+        "query2": "importance of daily habits",
+        "role": "hook",
+        "text": "Can 5 simple actions change your life?"
+      },
+      {
+        "chips": [
+          {
+            "t": "50%",
+            "on": "50%",
+            "style": "accent"
+          }
+        ],
+        "punch": "boost",
+        "query": "morning routine statistics",
+        "query2": "benefits of morning routine",
+        "role": "fact",
+        "text": "Those who stick to a morning routine are 50% more productive."
+      },
+      {
+        "chips": [
+          {
+            "t": "70%",
+            "on": "70%",
+            "style": "white"
+          }
+        ],
+        "punch": "success",
+        "query": "successful people habits",
+        "query2": "habits of high achievers",
+        "role": "fact",
+        "text": "Over 70% of successful people attribute their achievements to consistent habits."
+      },
+      {
+        "reveal_top": "SIMPLE ACTIONS BIG RESULTS",
+        "query": "transformation stories",
+        "query2": "impact of simple actions",
+        "role": "reveal",
+        "text": "Transformations come from simple, consistent actions!"
+      },
+      {
+        "query": "self improvement tips",
+        "query2": "self growth techniques",
+        "role": "cta",
+        "text": "Follow for your daily dose of discipline."
+      }
+    ],
+    "description": "Discover how 5 simple actions can transform your daily routine and boost your productivity! Follow for more habits that change lives.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#discipline",
+      "#habits",
+      "#selfimprovement",
+      "#productivity",
+      "#motivation"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "The Credit Card Debt Solution",
+    "thumb": "DEBT TO WEALTH",
+    "scenes": [
+      {
+        "hook_top": "30K DEBT PAYOFF",
+        "query": "paying off debt",
+        "query2": "debt statistics",
+        "role": "hook",
+        "text": "How I paid off $30,000 in debt."
+      },
+      {
+        "chips": [
+          {
+            "t": "$30,000",
+            "on": "$30,000",
+            "style": "accent"
+          }
+        ],
+        "punch": "debt",
+        "query": "credit card debt averages",
+        "query2": "credit card debt facts",
+        "role": "fact",
+        "text": "$30,000 is the average credit card debt in the U.S."
+      },
+      {
+        "chips": [
+          {
+            "t": "3-5 years",
+            "on": "3-5 years",
+            "style": "white"
+          }
+        ],
+        "punch": "freedom",
+        "query": "debt repayment timeline",
+        "query2": "debt repayment statistics",
+        "role": "fact",
+        "text": "With consistent payments, the average American pays off their debt in 3-5 years."
+      },
+      {
+        "reveal_top": "DISCIPLINE FINANCIAL FREEDOM",
+        "query": "financial discipline",
+        "query2": "impact of discipline on finance",
+        "role": "reveal",
+        "text": "Financial freedom starts with discipline!"
+      },
+      {
+        "query": "financial advice",
+        "query2": "personal finance education",
+        "role": "cta",
+        "text": "Follow if you're building a stronger you."
+      }
+    ],
+    "description": "Learn how I transformed my finances by paying off $30,000 in debt and achieving financial freedom through discipline. Follow for more tips!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#debtfree",
+      "#discipline",
+      "#finance",
+      "#moneytips",
+      "#selfimprovement"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

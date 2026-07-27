@@ -1,0 +1,60 @@
+{
+  "title": "How This Habit Changed Everything",
+  "thumb": "HABIT TRANSFORMED LIFE",
+  "scenes": [
+    {
+      "hook_top": "200 HOURS OF READING",
+      "query": "reading benefits",
+      "query2": "brain connectivity studies",
+      "fact": "Experts say reading can improve brain connectivity by up to 30%.",
+      "chips": [
+        {
+          "t": "30% BRAIN CONNECTIVITY",
+          "on": "reading",
+          "style": "white"
+        }
+      ],
+      "punch": "zoom",
+      "role": "hook",
+      "text": "200 hours of reading can increase your knowledge drastically."
+    },
+    {
+      "chips": [
+        {
+          "t": "60% HIGH PERFORMERS",
+          "on": "high performers",
+          "style": "accent"
+        }
+      ],
+      "query": "high performers reading statistics",
+      "query2": "reading and performance",
+      "role": "fact",
+      "text": "Regular readers are 60% more likely to be high performers at work."
+    },
+    {
+      "reveal_top": "10 PAGES CHANGED EVERYTHING",
+      "query": "10 pages a day benefits",
+      "query2": "daily reading impact",
+      "role": "reveal",
+      "text": "Starting with just 10 pages a day led to a life-changing journey."
+    },
+    {
+      "role": "cta",
+      "text": "Follow if you're building a stronger you.",
+      "query": "How This Habit Changed Everything",
+      "query2": "cinematic nature landscape"
+    }
+  ],
+  "description": "Discover how just a few pages of reading a day can alter your life and boost your performance. Transform your habits and reap the benefits today!",
+  "hashtags": [
+    "#discipline",
+    "#selfimprovement",
+    "#reading",
+    "#mindset",
+    "#habits",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

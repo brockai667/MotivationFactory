@@ -1,0 +1,55 @@
+{
+  "title": "The 75 Hard Challenge: Beat the Odds!",
+  "thumb": "75 HARD CHALLENGE",
+  "scenes": [
+    {
+      "hook_top": "75 HARD CHALLENGE",
+      "fact": "75% of participants finish the challenge successfully.",
+      "chips": [
+        {
+          "t": "75% FINISH RATE",
+          "on": "participants",
+          "style": "accent"
+        }
+      ],
+      "query": "75 Hard challenge completion",
+      "query2": "fitness challenge success",
+      "punch": "zoom",
+      "role": "hook",
+      "text": "Complete 75 Hard for real change!"
+    },
+    {
+      "query": "75 Hard benefits",
+      "query2": "mental toughness routines",
+      "role": "fact",
+      "text": "Participants report improved discipline and mental toughness.",
+      "chips": []
+    },
+    {
+      "sub": "Are you ready to transform?",
+      "label": "PUSH",
+      "label_on": "limits",
+      "query": "overcoming limits",
+      "query2": "self-discipline training",
+      "role": "callout",
+      "text": "PUSH YOUR LIMITS"
+    },
+    {
+      "query": "fitness challenges",
+      "query2": "self-discipline tips",
+      "role": "cta",
+      "text": "Follow for your daily dose of discipline."
+    }
+  ],
+  "description": "Can you handle the 75 Hard Challenge? Experience transformation and build your mental toughness! Follow for tips!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#75Hard",
+    "#discipline",
+    "#fitness",
+    "#selfimprovement"
+  ],
+  "place": "",
+  "country": ""
+}
