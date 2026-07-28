@@ -1,0 +1,51 @@
+{
+  "title": "Transforming Bad Habits Into Good Ones",
+  "thumb": "BAD TO GOOD HABITS",
+  "scenes": [
+    {
+      "hook_top": "50 PROCRASTINATE DAILY",
+      "query": "procrastination statistics",
+      "query2": "procrastination effects",
+      "role": "hook",
+      "text": "50% of adults struggle with procrastination daily."
+    },
+    {
+      "chips": [
+        {
+          "t": "70% REDUCED DELAYS",
+          "on": "reduce delays",
+          "style": "white"
+        }
+      ],
+      "punch": "zoom",
+      "query": "task initiation benefits",
+      "query2": "reduce procrastination",
+      "role": "fact",
+      "text": "Incorporating just 2 minutes of task initiation can reduce delays by 70%."
+    },
+    {
+      "reveal_top": "2MINUTE RULE SUCCESS",
+      "query": "2-minute rule success stories",
+      "query2": "effective habits",
+      "role": "reveal",
+      "text": "Adopting a '2-minute rule' transformed countless lives, making tasks manageable."
+    },
+    {
+      "role": "cta",
+      "text": "Follow for your daily dose of discipline.",
+      "query": "Transforming Bad Habits Into Good Ones",
+      "query2": "cinematic nature landscape"
+    }
+  ],
+  "description": "Learn how implementing a simple 2-minute rule can help convert procrastination into productivity. Transform your daily routine with this small habit change!",
+  "hashtags": [
+    "#selfimprovement",
+    "#habits",
+    "#productivity",
+    "#discipline",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}

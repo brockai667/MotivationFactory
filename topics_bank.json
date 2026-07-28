@@ -5073,5 +5073,132 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Why 5 Minutes Changed My Life",
+    "thumb": "5 MINUTES CHANGE",
+    "scenes": [
+      {
+        "hook_top": "5 MINUTES CAN CHANGE",
+        "query": "daily habits",
+        "query2": "importance of short habits",
+        "role": "hook",
+        "text": "5 minutes can reshape your entire day!"
+      },
+      {
+        "chips": [
+          {
+            "t": "25%",
+            "on": "reduce",
+            "style": "white"
+          }
+        ],
+        "punch": "reduce",
+        "query": "morning routine benefits",
+        "query2": "stress reduction techniques",
+        "role": "fact",
+        "text": "A 5-minute morning routine can reduce stress by up to 25%."
+      },
+      {
+        "chips": [
+          {
+            "t": "5 MINUTES",
+            "on": "task",
+            "style": "accent"
+          }
+        ],
+        "query": "5-minute rule productivity",
+        "query2": "tips to start tasks",
+        "role": "fact",
+        "text": "The '5-Minute Rule' states that any task can be started in just 5 minutes."
+      },
+      {
+        "reveal_top": "SMALL ACTIONS BIG RESULTS",
+        "query": "impact of small habits",
+        "query2": "habits that change life",
+        "role": "reveal",
+        "text": "Small actions lead to big results!"
+      },
+      {
+        "query": "self-improvement techniques",
+        "query2": "daily discipline advice",
+        "role": "cta",
+        "text": "Follow for your daily dose of discipline."
+      }
+    ],
+    "description": "Discover how just 5 minutes can make a profound impact on your life. Don't miss out on more insights!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#selfimprovement",
+      "#discipline",
+      "#morningroutine",
+      "#productivity",
+      "#motivation",
+      "#success"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "3 Daily Habits to Boost Your Discipline",
+    "thumb": "BOOST YOUR DISCIPLINE",
+    "scenes": [
+      {
+        "hook_top": "BOOST YOUR DISCIPLINE NOW",
+        "query": "daily habits for discipline",
+        "query2": "effective habits for self-improvement",
+        "role": "hook",
+        "text": "Transform your discipline with three simple habits!"
+      },
+      {
+        "num": 1,
+        "label": "MEDITATION",
+        "label_on": "Habit 1",
+        "text": "Meditation can increase self-control by up to 50%.",
+        "query": "benefits of meditation for discipline",
+        "query2": "effects of meditation on self-control",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 2,
+        "label": "MORNING ROUTINE",
+        "label_on": "Habit 2",
+        "text": "A consistent morning routine can improve productivity by about 20%.",
+        "query": "morning routine productivity",
+        "query2": "impact of morning routine on discipline",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "num": 3,
+        "label": "SMART GOALS",
+        "label_on": "Habit 3",
+        "text": "Setting SMART goals can improve performance outcomes by over 30%.",
+        "query": "SMART goals effectiveness",
+        "query2": "how SMART goals improve discipline",
+        "role": "fact",
+        "chips": []
+      },
+      {
+        "query": "follow self-improvement tips",
+        "query2": "self-discipline advice",
+        "role": "cta",
+        "text": "Follow for daily fuel to keep going."
+      }
+    ],
+    "description": "Discover how three simple daily habits can skyrocket your discipline and self-control. Start implementing them today and follow for more insights!",
+    "hashtags": [
+      "#selfimprovement",
+      "#discipline",
+      "#habits",
+      "#mentalhealth",
+      "#motivation",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

@@ -1,0 +1,50 @@
+{
+  "title": "What Consistency Can Achieve",
+  "thumb": "THE POWER OF CONSISTENCY",
+  "scenes": [
+    {
+      "hook_top": "30 MINUTES OF EXERCISE",
+      "query": "exercise life extension facts",
+      "query2": "health benefits of exercise",
+      "role": "hook",
+      "text": "Just 30 minutes of exercise a day can extend your life."
+    },
+    {
+      "chips": [
+        {
+          "t": "7 YEARS LONGER",
+          "on": "live longer",
+          "style": "accent"
+        }
+      ],
+      "query": "active lifestyle longevity",
+      "query2": "exercise longevity benefits",
+      "role": "fact",
+      "text": "Active individuals can live 7 years longer than sedentary peers."
+    },
+    {
+      "reveal_top": "DAILY WORKOUT CHANGE",
+      "query": "daily workout benefits",
+      "query2": "exercise transformation stories",
+      "role": "reveal",
+      "text": "Committing to daily 30-minute workouts made me rethink my health."
+    },
+    {
+      "role": "cta",
+      "text": "Follow for the mindset that gets it done.",
+      "query": "What Consistency Can Achieve",
+      "query2": "cinematic nature landscape"
+    }
+  ],
+  "description": "Discover the incredible impact of consistent exercise on your lifespan. Learn how a simple daily commitment can lead to profound health benefits!",
+  "hashtags": [
+    "#fitness",
+    "#health",
+    "#selfimprovement",
+    "#discipline",
+    "#shorts",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
