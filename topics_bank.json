@@ -5200,5 +5200,124 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "Mastering Productivity: 1 Hour for Daily Progress",
+    "thumb": "PRODUCTIVITY HACK",
+    "scenes": [
+      {
+        "hook_top": "1 HOUR BIG GAINS",
+        "fact": "A study found that dedicating just 1 hour a day to a skill can yield significant improvement over 3 months.",
+        "chips": [
+          {
+            "t": "1 HOUR DAILY",
+            "on": "skill development",
+            "style": "white"
+          }
+        ],
+        "query": "skill improvement statistics",
+        "query2": "dedicated practice benefits",
+        "role": "hook",
+        "text": "I spent just 1 hour daily on improvement!"
+      },
+      {
+        "chips": [
+          {
+            "t": "5X PRODUCTIVITY",
+            "on": "deep work",
+            "style": "accent"
+          }
+        ],
+        "query": "deep work productivity",
+        "query2": "focused work studies",
+        "role": "fact",
+        "text": "High performers often allocate time for deep work, leading to up to a 5x increase in productivity."
+      },
+      {
+        "reveal_top": "PLANNING CHANGES EVERYTHING",
+        "query": "importance of planning",
+        "query2": "impact of planning on productivity",
+        "role": "reveal",
+        "text": "The surprise? It was all planned!"
+      },
+      {
+        "query": "productivity tips",
+        "query2": "boosting productivity",
+        "role": "cta",
+        "text": "Follow because discipline beats motivation."
+      }
+    ],
+    "description": "Learn how dedicating just one hour daily can immensely boost your skills and productivity. It's all about proper planning and consistency! Follow for more insights.",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#productivity",
+      "#selfimprovement",
+      "#discipline",
+      "#focus",
+      "#motivation"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "Mastering Emotion: The Discipline of Response",
+    "thumb": "EMOTION CONTROL!",
+    "scenes": [
+      {
+        "hook_top": "EMOTIONAL CONTROL WINS",
+        "fact": "Studies show 85% of workplace success comes from emotional intelligence.",
+        "chips": [
+          {
+            "t": "85%",
+            "on": "success",
+            "style": "white"
+          }
+        ],
+        "query": "emotional intelligence research",
+        "query2": "emotional success facts",
+        "role": "hook",
+        "text": "85% of success is dictated by emotional control."
+      },
+      {
+        "chips": [
+          {
+            "t": "high performers",
+            "on": "respond",
+            "style": "accent"
+          }
+        ],
+        "query": "high performers respond vs react",
+        "query2": "high performance stress",
+        "role": "fact",
+        "text": "High performers respond, instead of react, in stressful situations."
+      },
+      {
+        "label": "Emotional discipline matters",
+        "sub": "Learn to manage your reactions.",
+        "label_on": "response",
+        "query": "emotional discipline importance",
+        "query2": "how to control emotions",
+        "role": "callout",
+        "text": "CONTROL YOUR RESPONSE"
+      },
+      {
+        "query": "discipline tips",
+        "query2": "self-improvement advice",
+        "role": "cta",
+        "text": "Follow if you're building a stronger you."
+      }
+    ],
+    "description": "Emotional intelligence is key for success. Learn how mastering your response can elevate your life. Follow us for more insightful tips!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#discipline",
+      "#emotionalintelligence",
+      "#selfimprovement",
+      "#highperformance"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

@@ -1,0 +1,63 @@
+{
+  "title": "Transform Your Fitness: 75 Days to Change",
+  "thumb": "75 DAYS TRANSFORM",
+  "scenes": [
+    {
+      "hook_top": "75 DAYS TRANSFORM",
+      "fact": "Over 70% of participants report significant fat loss.",
+      "chips": [
+        {
+          "t": "70%",
+          "on": "participants",
+          "style": "white"
+        }
+      ],
+      "punch": "result",
+      "query": "75 hard challenge statistics",
+      "query2": "fitness challenge results",
+      "role": "hook",
+      "text": "Transform your body in just 75 days!"
+    },
+    {
+      "chips": [
+        {
+          "t": "75 DAYS",
+          "on": "exercise",
+          "style": "accent"
+        }
+      ],
+      "query": "75 days exercise routine",
+      "query2": "daily workout regimen",
+      "role": "fact",
+      "text": "Participants exercise daily for 75 days straight."
+    },
+    {
+      "label": "COMMITMENT PAYS OFF",
+      "sub": "Real change requires real effort.",
+      "label_on": "commitment",
+      "query": "commitment success stories",
+      "query2": "discipline in fitness",
+      "role": "callout",
+      "text": "Commitment Transforms Outcomes"
+    },
+    {
+      "query": "fitness transformation stories",
+      "query2": "success transformation tips",
+      "role": "cta",
+      "text": "Follow for your daily dose of discipline."
+    }
+  ],
+  "description": "Discover how a commitment of just 75 days can lead to real body change through consistent effort. Follow us for more transformative insights!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#fitnessjourney",
+    "#transformation",
+    "#75Hard",
+    "#discipline",
+    "#motivation",
+    "#healthylifestyle"
+  ],
+  "place": "",
+  "country": ""
+}
