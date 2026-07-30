@@ -5319,5 +5319,142 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "How I Mastered Discipline in One Month!",
+    "thumb": "MASTER DISCIPLINE NOW",
+    "scenes": [
+      {
+        "text": "What if mastering discipline could change everything?",
+        "hook_top": "MASTER DISCIPLINE FAST",
+        "query": "mastering discipline",
+        "query2": "discipline techniques",
+        "chips": [],
+        "punch": "",
+        "role": "hook"
+      },
+      {
+        "text": "Individuals who practiced daily disciplined routines saw a 40% improvement in self-control within weeks.",
+        "query": "self-control statistics",
+        "query2": "self-discipline improvement",
+        "chips": [
+          {
+            "t": "40%",
+            "on": "improvement",
+            "style": "accent"
+          }
+        ],
+        "punch": "improvement",
+        "role": "fact"
+      },
+      {
+        "text": "Participants reported feeling 50% more capable of resisting temptations.",
+        "query": "temptation resistance statistics",
+        "query2": "resist temptations",
+        "chips": [
+          {
+            "t": "50%",
+            "on": "more capable",
+            "style": "white"
+          }
+        ],
+        "punch": "capable",
+        "role": "fact"
+      },
+      {
+        "text": "The twist? Many started with just 5 minutes of focus each day!",
+        "reveal_top": "START WITH 5 MINUTES!",
+        "query": "5 minutes focus",
+        "query2": "daily focus",
+        "chips": [],
+        "punch": "",
+        "role": "fact"
+      },
+      {
+        "text": "Follow if you're building a stronger you.",
+        "query": "discipline strategies",
+        "query2": "effective discipline",
+        "chips": [],
+        "punch": "",
+        "role": "cta"
+      }
+    ],
+    "description": "Learn how mastering discipline can drastically improve your life in just one month. Follow for proven strategies!",
+    "hashtags": [
+      "#shorts",
+      "#fyp",
+      "#discipline",
+      "#selfcontrol",
+      "#habitbuilding",
+      "#personaldevelopment",
+      "#success"
+    ],
+    "place": "",
+    "country": ""
+  },
+  {
+    "title": "4 Simple Steps to Master Discipline",
+    "thumb": "MASTER DISCIPLINE NOW",
+    "scenes": [
+      {
+        "hook_top": "4 SIMPLE STEPS",
+        "fact": "High performers often maintain a daily routine for optimal results.",
+        "chips": [
+          {
+            "t": "DAILY ROUTINE",
+            "on": "routine",
+            "style": "white"
+          }
+        ],
+        "punch": "Steps.",
+        "query": "high performers daily routines",
+        "query2": "daily routines of successful people",
+        "role": "hook",
+        "text": "Learn how 4 simple steps can transform your discipline."
+      },
+      {
+        "chips": [
+          {
+            "t": "40% PRODUCTIVITY",
+            "on": "productivity",
+            "style": "accent"
+          }
+        ],
+        "punch": "Increase.",
+        "query": "self-discipline productivity statistics",
+        "query2": "benefits of self-discipline",
+        "role": "fact",
+        "text": "Studies show that self-discipline can increase productivity by up to 40%."
+      },
+      {
+        "label": "Start SMALL.",
+        "sub": "Every big change starts with a small step.",
+        "label_on": "small step",
+        "query": "importance of starting small in habits",
+        "query2": "small habits impact",
+        "role": "callout",
+        "text": "TAKEAWAY: Start Small"
+      },
+      {
+        "query": "discipline tips",
+        "query2": "self-improvement tips",
+        "role": "cta",
+        "text": "Follow for daily fuel to keep going."
+      }
+    ],
+    "description": "Discover four powerful steps to enhance your discipline and transform your life. Start cultivating habits that lead to success! #shorts #discipline #selfimprovement #fyp #productivity #highperformers #habits #personaldevelopment #motivation",
+    "hashtags": [
+      "#shorts",
+      "#discipline",
+      "#selfimprovement",
+      "#fyp",
+      "#productivity",
+      "#highperformers",
+      "#habits",
+      "#personaldevelopment",
+      "#motivation"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

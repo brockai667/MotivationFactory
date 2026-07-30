@@ -1,0 +1,63 @@
+{
+  "title": "Bouncing Back: From Zero Workouts to 4 a Week",
+  "thumb": "ZERO TO FOUR",
+  "scenes": [
+    {
+      "hook_top": "ZERO TO FOUR",
+      "fact": "Individuals find that just 20 minutes of daily exercise can boost mental health.",
+      "chips": [
+        {
+          "t": "20 MINUTES",
+          "on": "boost",
+          "style": "white"
+        }
+      ],
+      "punch": "boost",
+      "query": "exercise mental health benefits",
+      "query2": "benefits of working out",
+      "role": "hook",
+      "text": "Turn your 0 workouts into 4 weekly sessions!"
+    },
+    {
+      "chips": [
+        {
+          "t": "SMALL HABITS",
+          "on": "changes",
+          "style": "accent"
+        }
+      ],
+      "query": "habits of successful people",
+      "query2": "small habit changes",
+      "role": "fact",
+      "text": "Starting with small habits leads to more significant changes."
+    },
+    {
+      "label": "STEP BY STEP",
+      "sub": "Build your routine gradually.",
+      "label_on": "step",
+      "query": "small steps in fitness",
+      "query2": "gradual fitness improvements",
+      "role": "callout",
+      "text": "Every Small Step Matters"
+    },
+    {
+      "query": "comeback fitness stories",
+      "query2": "success in fitness",
+      "role": "cta",
+      "text": "Follow because discipline beats motivation."
+    }
+  ],
+  "description": "Learn how to evolve from no workouts to four a week by cultivating small, consistent habits. Follow us for more inspiring fitness journeys!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#fitnessmotivation",
+    "#comeback",
+    "#mentalhealth",
+    "#discipline",
+    "#smallhabits",
+    "#selfimprovement"
+  ],
+  "place": "",
+  "country": ""
+}

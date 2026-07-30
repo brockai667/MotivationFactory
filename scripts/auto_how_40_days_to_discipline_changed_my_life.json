@@ -1,0 +1,59 @@
+{
+  "title": "How 40 Days to Discipline Changed My Life",
+  "thumb": "40 DAYS TRANSFORMATION",
+  "scenes": [
+    {
+      "hook_top": "40 DAYS TO DISCIPLINE",
+      "fact": "Research shows 66 days for habit formation.",
+      "chips": [
+        {
+          "t": "66 DAYS",
+          "on": "days",
+          "style": "white"
+        }
+      ],
+      "query": "habit formation time frame",
+      "query2": "how long to form a habit",
+      "role": "hook",
+      "text": "Transform your discipline in just 40 days!"
+    },
+    {
+      "chips": [
+        {
+          "t": "80% FAIL",
+          "on": "fail",
+          "style": "accent"
+        }
+      ],
+      "query": "New Year resolutions failure rate",
+      "query2": "why resolutions fail",
+      "role": "fact",
+      "text": "80% of people fail to stick to their New Year's resolutions."
+    },
+    {
+      "reveal_top": "50 SUCCEED WITH PRACTICE",
+      "query": "success rate with daily habits",
+      "query2": "importance of daily practice",
+      "role": "reveal",
+      "text": "But nearly 50% succeed with consistent daily practices!"
+    },
+    {
+      "query": "lifestyle improvement tips",
+      "query2": "self-improvement advice",
+      "role": "cta",
+      "text": "Follow for the mindset that gets it done."
+    }
+  ],
+  "description": "Discover how committing to 40 days of discipline can lead to real change. Unlock the secrets to sticking with your goals! #shorts #discipline #selfimprovement #motivation #fyp #habits",
+  "hashtags": [
+    "#shorts",
+    "#discipline",
+    "#selfimprovement",
+    "#motivation",
+    "#fyp",
+    "#habits",
+    "#transformation"
+  ],
+  "place": "",
+  "country": ""
+}
