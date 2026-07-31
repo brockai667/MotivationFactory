@@ -1,0 +1,55 @@
+{
+  "title": "Transform Your Day: 30 Minutes to Better Focus",
+  "thumb": "30 MINUTES FOCUS",
+  "scenes": [
+    {
+      "hook_top": "30 MINUTES DAILY FOCUS",
+      "fact": "Studies show that brief focused bursts can boost productivity by up to 25%.",
+      "chips": [
+        {
+          "t": "25% BOOST",
+          "on": "boost",
+          "style": "accent"
+        }
+      ],
+      "query": "productivity tips",
+      "query2": "productivity statistics",
+      "role": "hook",
+      "text": "Unlock focus with just 30 minutes daily!"
+    },
+    {
+      "chips": [],
+      "query": "high performers schedule",
+      "query2": "time blocking techniques",
+      "role": "fact",
+      "text": "High performers allocate specific time blocks for deep work."
+    },
+    {
+      "sub": "Maximize your productivity",
+      "label_on": "create",
+      "query": "time management tips",
+      "query2": "focus techniques",
+      "role": "callout",
+      "text": "CREATE YOUR FOCUS TIME"
+    },
+    {
+      "query": "self-improvement strategies",
+      "query2": "motivational content",
+      "role": "cta",
+      "text": "Follow because discipline beats motivation."
+    }
+  ],
+  "description": "Learn how just 30 minutes of focused work can dramatically improve your productivity. Follow for daily discipline tips to transform your life!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#productivity",
+    "#focus",
+    "#selfimprovement",
+    "#discipline",
+    "#habits",
+    "#success"
+  ],
+  "place": "",
+  "country": ""
+}
