@@ -5456,5 +5456,74 @@
     ],
     "place": "",
     "country": ""
+  },
+  {
+    "title": "From 0 to 5K in 12 Weeks",
+    "thumb": "RUNNING TRANSFORMATION",
+    "scenes": [
+      {
+        "hook_top": "12 WEEKS TO 5K",
+        "query": "running transformation",
+        "query2": "before and after running photos",
+        "role": "hook",
+        "text": "0 to 5K in 12 weeks"
+      },
+      {
+        "chips": [
+          {
+            "t": "10 Min",
+            "on": "walks",
+            "style": "white"
+          }
+        ],
+        "punch": "Beginner",
+        "query": "person walking on a treadmill",
+        "query2": "beginner walking routine",
+        "role": "fact",
+        "text": "Started with 10 minute walks"
+      },
+      {
+        "chips": [
+          {
+            "t": "5 Min",
+            "on": "running time",
+            "style": "accent"
+          }
+        ],
+        "punch": "Progress",
+        "query": "running watch with pace tracking",
+        "query2": "weekly running schedule",
+        "role": "fact",
+        "text": "Increased running time by 5 minutes every week"
+      },
+      {
+        "reveal_top": "CONSISTENCY WINS",
+        "query": "person running with a consistent pace",
+        "query2": "consistency and motivation",
+        "role": "reveal",
+        "text": "Consistency is key to achieving goals"
+      },
+      {
+        "query": "person stretching after a run",
+        "query2": "running motivation and discipline",
+        "role": "cta",
+        "text": "Follow because discipline beats motivation."
+      }
+    ],
+    "description": "Get inspired by this incredible running transformation and learn how to achieve your own fitness goals with consistency and discipline. Follow for daily motivation and discipline tips.",
+    "hashtags": [
+      "#running",
+      "#transformation",
+      "#discipline",
+      "#motivation",
+      "#fitness",
+      "#consistency",
+      "#selfimprovement",
+      "#wellness",
+      "#shorts",
+      "#fyp"
+    ],
+    "place": "",
+    "country": ""
   }
 ]

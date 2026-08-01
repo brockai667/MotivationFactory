@@ -1,0 +1,67 @@
+{
+  "title": "How 1 Habit Boosted My Income",
+  "thumb": "BOOST YOUR INCOME",
+  "scenes": [
+    {
+      "hook_top": "BOOST INCOME NOW",
+      "query": "increase income habit",
+      "query2": "income boosting habits",
+      "role": "hook",
+      "text": "One habit can increase your income by 30%."
+    },
+    {
+      "chips": [
+        {
+          "t": "30% EARNINGS INCREASE",
+          "on": "increase",
+          "style": "white"
+        }
+      ],
+      "punch": "profit",
+      "query": "productivity practices effect",
+      "query2": "productivity statistics",
+      "role": "fact",
+      "text": "Research shows that daily productivity practices can raise earnings significantly."
+    },
+    {
+      "chips": [
+        {
+          "t": "5 AM CLUB",
+          "on": "5 AM",
+          "style": "accent"
+        }
+      ],
+      "punch": "energy",
+      "query": "5 AM club benefits",
+      "query2": "early rising benefits",
+      "role": "fact",
+      "text": "High performers often utilize the 5 AM club for discipline."
+    },
+    {
+      "label": "Boost Your Earnings",
+      "sub": "Transform your daily routine.",
+      "label_on": "Boost",
+      "query": "income transformation strategies",
+      "query2": "earning strategies",
+      "role": "callout",
+      "text": "START NOW!"
+    },
+    {
+      "query": "income boosting tips",
+      "query2": "financial growth tips",
+      "role": "cta",
+      "text": "Follow for your daily dose of discipline."
+    }
+  ],
+  "description": "Transform your income with this one daily habit. Discover how you can elevate your earnings significantly. Follow for more insights!",
+  "hashtags": [
+    "#shorts",
+    "#fyp",
+    "#selfimprovement",
+    "#hyperformance",
+    "#discipline",
+    "#habits"
+  ],
+  "place": "",
+  "country": ""
+}

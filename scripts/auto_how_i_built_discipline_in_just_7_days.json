@@ -1,0 +1,71 @@
+{
+  "title": "How I Built Discipline in Just 7 Days",
+  "thumb": "DISCIPLINE IN 7 DAYS",
+  "scenes": [
+    {
+      "text": "After 7 days of discipline, I transformed my routine.",
+      "hook_top": "DISCIPLINE IN 7 DAYS",
+      "query": "7 days discipline transformation",
+      "query2": "transform routines",
+      "chips": [],
+      "punch": "",
+      "role": "hook"
+    },
+    {
+      "text": "Studies show that building a new habit takes an average of 66 days.",
+      "chips": [
+        {
+          "t": "66 DAYS",
+          "on": "habit",
+          "style": "white"
+        }
+      ],
+      "query": "habit formation research",
+      "query2": "average time habits take",
+      "punch": "average",
+      "role": "fact"
+    },
+    {
+      "text": "Top performers often attribute their success to the discipline of daily habits.",
+      "chips": [
+        {
+          "t": "TOP PERFORMERS",
+          "on": "success",
+          "style": "accent"
+        }
+      ],
+      "query": "success habits top performers",
+      "query2": "daily habits of achievers",
+      "punch": "success",
+      "role": "fact"
+    },
+    {
+      "text": "In just one week, I gained control over my life.",
+      "reveal_top": "CONTROL IN ONE WEEK!",
+      "query": "gaining control in a week",
+      "query2": "one week transformation",
+      "chips": [],
+      "punch": "",
+      "role": "fact"
+    },
+    {
+      "text": "Follow if you're building a stronger you.",
+      "query": "tips for discipline building",
+      "query2": "monthly discipline tips",
+      "chips": [],
+      "punch": "",
+      "role": "cta"
+    }
+  ],
+  "description": "In one week, I built a powerful routine and gained control over my life. Discover how discipline can transform you! #shorts #discipline #success #habits #motivation #fyp",
+  "hashtags": [
+    "#shorts",
+    "#discipline",
+    "#success",
+    "#habits",
+    "#motivation",
+    "#fyp"
+  ],
+  "place": "",
+  "country": ""
+}
