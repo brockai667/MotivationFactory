@@ -1,8 +1,9 @@
 # lokalny config s tajomstvami (cloud pouziva config.example.json + secrets)
 config.json
 
-# generovane / docasne / velke
-output/
+# docasne / velke (HOTOVE riddle videa output/*.mp4 + *.txt SU verzovane - publisher ich cita)
+output/*.wav
+output/frames*/
 temp/
 assets/broll/
 bin/

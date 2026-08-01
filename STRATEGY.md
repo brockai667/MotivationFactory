@@ -1,11 +1,8 @@
-# notes (old, kept for reference)
+# BrainHeist strategia
 
-Approach that was tried here:
-- 1 random Pexels clip per line, no relevance filtering (fast, good enough)
-- gTTS / basic TTS voice — robotic but cheap
-- default subtitle font burned straight in, no timing work
-- posting: whenever the batch finishes, no slot strategy
-- no per-topic tuning, no map/graphics — kept it minimal on purpose
-
-Reach stayed low. Concluded the niche was saturated; not worth more effort.
-Left as-is. Might revisit with a totally different idea later.
+- Format: 50-85 s vertikalne riddle explainery (choc-million styl), 1/den.
+- Hook: cena ($1M/vila/zivot) v 1. sekunde + smrtelny twist.
+- Retencia: presna matematika, count-upy, "rules change" zvrat, genius payoff.
+- CTA: komentuj svoju odpoved skor nez pride riesenie ("pause and try").
+- Hashtagy: #riddle #brainteaser #puzzle #logicpuzzle #brainheist #quiz
+- Kadencia: 1 video/den (kvalita > kvantita), rovnaky video na YT+IG+TikTok.

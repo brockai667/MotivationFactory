@@ -26,7 +26,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 BUFFER_API = "https://api.buffer.com"
 PUSHED = os.path.join(ROOT, "pushed.json")
 WANT_SERVICES = {"instagram", "tiktok", "youtube"}
-YT_CATEGORY = "27"  # Education
+YT_CATEGORY = "24"  # Entertainment (riddle/brain-teaser obsah)
 SLOT_HOURS = [8, 15, 20]  # presne casy publikovania (Europe/Bratislava)
 
 
