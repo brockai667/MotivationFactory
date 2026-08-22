@@ -16,6 +16,10 @@ Pouzitie:
 import datetime
 import json
 import os
+import re
+import shutil
+import subprocess
+import tempfile
 import random
 import sys
 import time
@@ -213,16 +217,16 @@ def create_post(token, service, channel_id, text, url, title, due):
     return False, last
 
 
-def upload_github_release(cfg, path):
-    """Nahra MP4 ako asset GitHub Release (public repo = neobmedzeny free bandwidth).
-    Buffer stiahne video z verejnej browser_download_url. Vrati URL alebo vyhodi vynimku."""
+def upload_github_release(cfg, path, tag="media", ctype="video/mp4"):
+    """Nahra subor ako asset GitHub Release (public repo = neobmedzeny free bandwidth).
+    tag 'media' = videa pre Buffer, tag 'thumbs' = YT thumbnaily (dashboard setter ich
+    odtial berie pre thumbnails.set). Vrati URL alebo vyhodi vynimku."""
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN") or cfg.get("gh_token", "")
     repo = os.environ.get("GH_REPO") or os.environ.get("GITHUB_REPOSITORY") or cfg.get("gh_repo", "")
     if not token or not repo:
         raise RuntimeError("chyba GITHUB_TOKEN/GITHUB_REPOSITORY pre GitHub Release hosting")
     api = "https://api.github.com"
     H = {"Authorization": "Bearer " + token, "Accept": "application/vnd.github+json"}
-    tag = "media"
     r = requests.get(api + "/repos/" + repo + "/releases/tags/" + tag, headers=H, timeout=30)
     if r.status_code == 404:
         r = requests.post(api + "/repos/" + repo + "/releases", headers=H, timeout=30,
@@ -242,10 +246,98 @@ def upload_github_release(cfg, path):
     up = rel["upload_url"].split("{")[0]
     with open(path, "rb") as f:
         ur = requests.post(up + "?name=" + name,
-                          headers={"Authorization": "Bearer " + token, "Content-Type": "video/mp4"},
+                          headers={"Authorization": "Bearer " + token, "Content-Type": ctype},
                           data=f.read(), timeout=900)
     ur.raise_for_status()
     return ur.json()["browser_download_url"]
+
+
+def _ffmpeg():
+    """Cesta k ffmpeg: PATH (GitHub runner) alebo lokalny imageio-ffmpeg."""
+    for c in ("ffmpeg", os.environ.get("FFMPEG_BIN", "")):
+        if c and shutil.which(c):
+            return shutil.which(c)
+    try:
+        import imageio_ffmpeg
+        return imageio_ffmpeg.get_ffmpeg_exe()
+    except Exception:
+        return None
+
+
+def pick_clean_frame(mp4, out_jpg):
+    """Riddle videa nemaju hotovy thumbnail -> vyberieme frame BEZ vypaleneho titulku.
+    Skenujeme len prvych ~40 %% videa (dalej uz byva odpoved = spoiler), skorujeme podiel
+    skoro-bielych pixelov v titulkovom pase a berieme najcistejsi frame. Vrati True/False."""
+    ff = _ffmpeg()
+    if not ff:
+        print("  [thumb] ffmpeg nenajdeny -> preskakujem")
+        return False
+    try:
+        from PIL import Image
+    except Exception:
+        print("  [thumb] chyba Pillow -> preskakujem")
+        return False
+    tmp = tempfile.mkdtemp(prefix="thumb_")
+    try:
+        dur = 0.0
+        pr = subprocess.run([ff, "-i", mp4], capture_output=True, text=True, timeout=120)
+        m = re.search(r"Duration: (\d+):(\d+):(\d+\.\d+)", pr.stderr or "")
+        if m:
+            dur = int(m.group(1)) * 3600 + int(m.group(2)) * 60 + float(m.group(3))
+        scan = max(6.0, dur * 0.4) if dur else 20.0
+        subprocess.run([ff, "-y", "-t", "%.2f" % scan, "-i", mp4,
+                        "-vf", "fps=2,scale=270:-1", "-q:v", "4",
+                        os.path.join(tmp, "f_%04d.jpg")], capture_output=True, timeout=300)
+        frames = sorted(f for f in os.listdir(tmp) if f.endswith(".jpg"))
+        if not frames:
+            return False
+        def caption_ratio(img):
+            """Podiel skoro-bielych pixelov v pase, kde su vypalene titulky."""
+            g = img.convert("L")
+            w, h = g.size
+            px = g.crop((0, int(h * 0.72), w, int(h * 0.92))).tobytes()
+            return sum(1 for v in px if v > 235) / float(len(px))
+
+        cands = []
+        for f in frames:
+            idx = int(f[2:6])
+            if idx < 6:                      # prvych ~3 s preskoc (nabeh animacie)
+                continue
+            cands.append((caption_ratio(Image.open(os.path.join(tmp, f))), idx))
+        if not cands:
+            return False
+        cands.sort()
+        for score, idx in cands[:6]:
+            ts = idx / 2.0                   # fps=2 -> index/2 = sekundy
+            # -ss AZ ZA -i = presny seek (pred -i skace na keyframe a trafi iny frame)
+            r = subprocess.run([ff, "-y", "-i", mp4, "-ss", "%.2f" % ts, "-frames:v", "1",
+                                "-q:v", "2", out_jpg], capture_output=True, timeout=180)
+            if r.returncode != 0 or not os.path.exists(out_jpg) or os.path.getsize(out_jpg) < 5000:
+                continue
+            real = caption_ratio(Image.open(out_jpg))   # over cistotu na SKUTOCNOM vysledku
+            if real <= 0.0015:
+                print("  [thumb] cisty frame @%.1fs (titulky %.2f%%)" % (ts, real * 100))
+                return True
+        print("  [thumb] nenasiel som frame bez titulku -> thumbnail preskakujem")
+        if os.path.exists(out_jpg):
+            os.remove(out_jpg)
+        return False
+    except Exception as e:
+        print("  [thumb] vyber framu zlyhal (nekriticke): " + str(e)[:140])
+        return False
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+
+
+def host_thumbnail(cfg, jpg):
+    """Nahra <slug>.jpg do 'thumbs' release (dashboard setter ho odtial vezme pre thumbnails.set)."""
+    try:
+        url = upload_github_release(cfg, jpg, tag="thumbs", ctype="image/jpeg")
+        print("  [thumb] hostnuty -> " + url)
+        return url
+    except Exception as e:
+        print("  [thumb] hosting zlyhal (nekriticke): " + str(e)[:140])
+        return None
 
 
 def host_video(cfg, path):
@@ -316,6 +408,11 @@ def main():
         print(f"\n=== {vid} ===  (cas {due}; chyba: {', '.join(c['service'] for c in pending)})")
         print("  nahravam video (GitHub Release / Cloudinary)...")
         url = host_video(cfg, mp4)
+        jpg = mp4[:-4] + ".jpg"          # <slug>.jpg -> 'thumbs' release pre YT custom thumbnail
+        if not os.path.exists(jpg):
+            pick_clean_frame(mp4, jpg)   # riddle videa thumbnail nemaju -> vyrob z cisteho framu
+        if os.path.exists(jpg):
+            host_thumbnail(cfg, jpg)
         for c in pending:
             svc = c["service"].lower()
             if svc == "tiktok" and tiktok_done >= tiktok_per_run:

@@ -30,7 +30,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install deps
-        run: pip install requests cloudinary
+        run: pip install requests cloudinary pillow   # pillow = vyber cisteho framu na thumbnail
 
       - name: Prepare config
         run: cp config.example.json config.json
