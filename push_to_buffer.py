@@ -27,28 +27,63 @@ BUFFER_API = "https://api.buffer.com"
 PUSHED = os.path.join(ROOT, "pushed.json")
 WANT_SERVICES = {"instagram", "tiktok", "youtube"}
 YT_CATEGORY = "24"  # Entertainment (riddle/brain-teaser obsah)
-SLOT_HOURS = [8, 15, 20]  # presne casy publikovania (Europe/Bratislava)
+SLOT_HOURS = [15, 20, 8]  # preferovane poradie slotov (Europe/Bratislava);
+#   15:00 = 3 z 5 najuspesnejsich videi kanala, ostatne su zaloha pri dobiehani fronty
+MIN_GAP_HOURS = int(os.environ.get("MIN_GAP_HOURS", "20"))  # min. odstup medzi dvoma postami
+SCHEDULE_STATE = os.path.join(ROOT, "schedule_state.json")
+
+
+def _tz():
+    try:
+        from zoneinfo import ZoneInfo
+        return ZoneInfo("Europe/Bratislava")
+    except Exception:
+        return datetime.timezone(datetime.timedelta(hours=2))
+
+
+def _last_scheduled(tz):
+    """Posledny UZ naplanovany cas (drzi sa medzi behmi v schedule_state.json)."""
+    try:
+        s = json.load(open(SCHEDULE_STATE, encoding="utf-8")).get("last_scheduled")
+        if s:
+            return datetime.datetime.fromisoformat(s.replace("Z", "+00:00")).astimezone(tz)
+    except Exception:
+        pass
+    return None
+
+
+def _save_scheduled(dt):
+    try:
+        with open(SCHEDULE_STATE, "w", encoding="utf-8") as f:
+            json.dump({"last_scheduled": dt.astimezone(datetime.timezone.utc).isoformat()}, f)
+    except Exception as e:
+        print(f"  (pozor) stav planovania sa neulozil: {e}")
 
 
 def next_slots(n):
-    """Vrati n najblizsich buducich casov 08:00/15:00/20:00 (Bratislava) ako ISO UTC."""
-    try:
-        from zoneinfo import ZoneInfo
-        tz = ZoneInfo("Europe/Bratislava")
-    except Exception:
-        tz = datetime.timezone(datetime.timedelta(hours=2))
+    """n casov publikovania: KAZDE video do ineho slotu a min. MIN_GAP_HOURS od predosleho.
+    Preco: ked dva shorts vyjdu par minut po sebe, YouTube pretlaci jeden a druhy vyhladuje
+    (overene na kanali: 0-20 zhliadnuti vs 111-671 pri videach z rovnakeho slotu)."""
+    tz = _tz()
     now = datetime.datetime.now(tz)
-    out, day = [], 0
-    while len(out) < n:
+    last = _last_scheduled(tz)
+    cursor = now if last is None else max(now, last + datetime.timedelta(hours=MIN_GAP_HOURS))
+    out = []
+    day = cursor.date()
+    for _ in range(200):
+        if len(out) >= n:
+            break
         for h in SLOT_HOURS:
-            t = (now + datetime.timedelta(days=day)).replace(hour=h, minute=0, second=0, microsecond=0)
-            if t > now:
-                t += datetime.timedelta(minutes=random.randint(2, 27), seconds=random.randint(0, 59))
-                out.append(t.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z"))
-                if len(out) >= n:
-                    break
-        day += 1
-    return out
+            t = datetime.datetime.combine(day, datetime.time(h), tzinfo=tz)
+            t += datetime.timedelta(minutes=random.randint(2, 27), seconds=random.randint(0, 59))
+            if t > cursor:
+                out.append(t)
+                cursor = t + datetime.timedelta(hours=MIN_GAP_HOURS)
+                break
+        day += datetime.timedelta(days=1)
+    if out:
+        _save_scheduled(out[-1])
+    return [t.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z") for t in out]
 
 
 def load_cfg():
@@ -227,7 +262,7 @@ def main():
     args = sys.argv[1:]
     dry = "--dry-run" in args
     nums = [a for a in args if a.isdigit()]
-    n = int(nums[0]) if nums else 3
+    n = int(nums[0]) if nums else 1  # 1 video/den (anti-kanibalizacia)
 
     cfg = load_cfg()
     token = cfg.get("buffer_token", "").strip()

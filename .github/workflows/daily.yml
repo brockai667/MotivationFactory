@@ -42,7 +42,7 @@ jobs:
           CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
           CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python push_to_buffer.py 2
+        run: python push_to_buffer.py 1   # 1 video/den (anti-kanibalizacia)
 
       - name: Retry failed Buffer posts (auto-heal)
         continue-on-error: true
@@ -55,6 +55,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           rm -f config.json
-          git add pushed.json 2>/dev/null || true
+          git add pushed.json schedule_state.json 2>/dev/null || true
           git commit -m "state: publish run $(date -u +%F)" || echo "no changes"
           git push || echo "nothing to push"
