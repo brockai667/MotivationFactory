@@ -1,26 +1,28 @@
 {
- "riddle_006_water_jugs.mp4": {
-  "youtube_id": "OExtGDYwEOo",
-  "views": 0
+ "_note": "8/26: user zvolil OPACNU sadu - skryte boli ZNOVU-VYDANE duplikaty (nie povodne). Povodne videa nizsie OSTAVAJU VEREJNE, NEMAZAT.",
+ "hidden_2026_08_26": {
+  "XJ2xtxf-95U": {
+   "riddle": "two_doors (re-release)",
+   "views": 0,
+   "visibility": "private"
+  },
+  "XO-lKuGtdFc": {
+   "riddle": "mislabeled_jars (re-release)",
+   "views": 0,
+   "visibility": "private"
+  },
+  "XI0hgNhL_Lw": {
+   "riddle": "water_jugs (re-release)",
+   "views": 1,
+   "visibility": "private"
+  }
  },
- "riddle_007_mislabeled_jars.mp4": {
-  "youtube_id": "5HGVYHJA9XU",
-  "views": 2
- },
- "riddle_008_two_doors.mp4": {
-  "youtube_id": "9NDBXYqqohk",
-  "views": 1
- },
- "riddle_009_bridge_torch.mp4": {
-  "youtube_id": "FsNAagOx6yw",
-  "views": 5
- },
- "riddle_014_wine1000.mp4": {
-  "youtube_id": "LPl2lp2Ym-c",
-  "views": 8
- },
- "riddle_017_cal_cubes.mp4": {
-  "youtube_id": "MxxKzsOgXCU",
-  "views": 1
+ "keep_public": {
+  "OExtGDYwEOo": "water_jugs (original)",
+  "5HGVYHJA9XU": "mislabeled_jars (original)",
+  "9NDBXYqqohk": "two_doors (original)",
+  "FsNAagOx6yw": "bridge_torch (original)",
+  "LPl2lp2Ym-c": "wine1000 (original)",
+  "MxxKzsOgXCU": "cal_cubes (original)"
  }
 }
