@@ -15,6 +15,11 @@
    "riddle": "water_jugs (re-release)",
    "views": 1,
    "visibility": "private"
+  },
+  "ue8qsiI4LfU": {
+   "riddle": "bridge_torch (re-release)",
+   "views": 0,
+   "visibility": "private"
   }
  },
  "keep_public": {
@@ -24,5 +29,6 @@
   "FsNAagOx6yw": "bridge_torch (original)",
   "LPl2lp2Ym-c": "wine1000 (original)",
   "MxxKzsOgXCU": "cal_cubes (original)"
- }
+ },
+ "_still_coming": "Znovu-vydania wine1000 a cal_cubes este mozu vyjst cez Buffer - po vydani ich tiez skryt (original ostava verejny)."
 }
