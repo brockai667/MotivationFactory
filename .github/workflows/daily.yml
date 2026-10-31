@@ -6,11 +6,8 @@ name: BrainHeist Publish
 
 on:
   schedule:
-    - cron: "0 11 * * *"   # 13:00 SK - po dopoludnajsom lokalnom builde
+    - cron: "52 19 * * *"  # 20:52 SK vecer vopred (cron meska 4-6 h) -> video v TikTok appke do 10:00 SK; YT/IG slot ostava 15:xx SK
   workflow_dispatch: {}
-  push:
-    paths:
-      - "output/*.mp4"     # novy dotlaceny video subor = publikuj hned
 
 permissions:
   contents: write
